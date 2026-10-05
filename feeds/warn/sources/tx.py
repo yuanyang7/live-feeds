@@ -16,12 +16,14 @@ HEADERS = {"User-Agent": "live-feeds/1.0 (WARN notice tracker; +https://github.c
 
 
 def fetch(http, since):
-    html = http.get(URL, headers=HEADERS).text
+    resp = http.get(URL, headers=HEADERS)
+    html = resp.text
     links = {}
     for href in re.findall(r'href="(/sites/default/files/[^"]*warn-act-listings-(\d{4})[^"]*\.xlsx)"', html):
         links[int(href[1])] = href[0]
     if not links:
-        raise RuntimeError("no WARN spreadsheet links on the TWC page")
+        snippet = " ".join(html[:120].split())
+        raise RuntimeError(f"no WARN spreadsheet links on the TWC page (HTTP {resp.status_code}, {len(html)} bytes: {snippet!r})")
     rows = []
     for year in sorted(links)[-2:]:
         wb = load_workbook(io.BytesIO(http.get("https://www.twc.texas.gov" + links[year], headers=HEADERS).content),
