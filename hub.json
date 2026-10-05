@@ -1,0 +1,13 @@
+{
+  "children": {
+    "glob": "feeds/*",
+    "manifest": ["listing/listing.json", "feed.toml"],
+    "kind": "feed",
+    "emoji": "📡",
+    "fields": {
+      "desc": "tagline",
+      "deployed": "https://vibeplat.ai/apps/{slug}"
+    },
+    "url": "/{rel}/app/"
+  }
+}
