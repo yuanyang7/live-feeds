@@ -5,13 +5,13 @@ GitHub's scheduled runs start late and get dropped outright, so this runs the
 same feed from this machine and only when the published data has actually gone
 stale:
 
-    python scripts/local_timer.py warn --max-age-minutes 50
+    python scripts/local_timer.py warn
 
 It reads `meta.checkedAt` from vibeplat first and exits without touching the
-sources if the feed was checked more recently than that, so a laptop timer
-sitting next to the hourly Actions schedule still means at most one fetch an
-hour. If vibeplat can't be reached it runs anyway: a blip shouldn't stall the
-feed.
+sources unless the feed is overdue by the feed's own check_every_hours, so the
+timer can fire every hour and still cost the sources nothing while Actions is
+keeping up. If vibeplat can't be reached it runs anyway: a blip shouldn't stall
+the feed.
 
 State is committed and pushed like CI does. If that races with a CI run and the
 rebase conflicts, the state commit is dropped (the data is already on vibeplat,
@@ -69,13 +69,17 @@ def sync_state(feed: str):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("feed")
-    ap.add_argument("--max-age-minutes", type=float, default=50,
-                    help="skip the run if the feed was checked more recently than this")
+    ap.add_argument("--max-age-minutes", type=float,
+                    help="skip the run if the feed was checked more recently than this "
+                         "(default: the feed's check_every_hours, less 10 minutes)")
     args = ap.parse_args()
 
     cfg = tomllib.loads((ROOT / "feeds" / args.feed / "feed.toml").read_text())
+    max_age = args.max_age_minutes
+    if max_age is None:
+        max_age = cfg["check_every_hours"] * 60 - 10
     age = checked_minutes_ago(cfg)
-    if age is not None and age < args.max_age_minutes:
+    if age is not None and age < max_age:
         log(f"{args.feed}: checked {age:.0f} min ago, skipping")
         return
 

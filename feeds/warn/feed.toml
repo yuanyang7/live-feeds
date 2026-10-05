@@ -3,4 +3,4 @@ slug = "warn-watch-v899yx"
 account = "alex"
 window_days = 90
 # Keep in sync with the cron in .github/workflows/warn.yml; the app shows it to viewers.
-check_every_hours = 1
+check_every_hours = 3

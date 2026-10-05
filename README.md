@@ -50,10 +50,10 @@ launchctl bootout gui/$(id -u)/com.live-feeds.warn   # remove it
 ```
 
 `scripts/local_timer.py` reads `meta.checkedAt` from vibeplat first and does nothing
-if the feed was checked in the last 50 minutes, so the laptop timer and the hourly
-Actions schedule together still mean at most one fetch an hour. It commits and pushes
-state the way CI does; if that races with a CI run the state commit is dropped and the
-next run rebuilds it from origin.
+unless the feed is overdue by its own `check_every_hours`, so the agent can wake every
+hour and still only reach the sources when Actions has actually missed a slot. It commits
+and pushes state the way CI does; if that races with a CI run the state commit is dropped
+and the next run rebuilds it from origin.
 
 ## Adding a feed
 

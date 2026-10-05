@@ -2,12 +2,12 @@ name: warn
 
 on:
   schedule:
-    # Hourly (feed.toml check_every_hours), off the top of the hour when Actions is
-    # busiest. Scheduled runs on shared runners start late and get dropped outright,
-    # so asking for every hour is what keeps the real cadence close to a few hours.
+    # Every 3 hours (feed.toml check_every_hours), off the top of the hour when
+    # Actions is busiest. Scheduled runs on shared runners start late and get dropped
+    # outright; scripts/local_timer.py covers the slots this misses.
     # Note: if this workflow is disabled and re-enabled, push a change to this file,
     # or GitHub may not register the schedule again.
-    - cron: "17 * * * *"
+    - cron: "17 */3 * * *"
   workflow_dispatch:
 
 permissions:
