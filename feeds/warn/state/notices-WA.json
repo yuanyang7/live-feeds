@@ -1,0 +1,587 @@
+[
+ {
+  "co": "Manson Growers LLC",
+  "eff": "2026-10-01",
+  "id": "282d2e4926",
+  "kind": "layoff",
+  "loc": "Manson",
+  "n": 275,
+  "posted": "2026-10-01",
+  "seen": "2026-10-01T12:00:00Z"
+ },
+ {
+  "co": "Haak Administrative Services LLC",
+  "eff": "2026-11-30",
+  "id": "5ae229aa06",
+  "kind": "layoff",
+  "loc": "Yakima County",
+  "n": 110,
+  "posted": "2026-09-29",
+  "seen": "2026-09-29T12:00:00Z"
+ },
+ {
+  "co": "Maverick Washington LLC / Palace Casino",
+  "eff": "2026-11-30",
+  "id": "1abdadecdd",
+  "kind": "closure",
+  "loc": "Lakewood",
+  "n": 15,
+  "posted": "2026-09-28",
+  "seen": "2026-09-28T12:00:00Z"
+ },
+ {
+  "co": "Maverick Washington LLC / Macau Casino",
+  "eff": "2026-11-30",
+  "id": "a2e227c5b5",
+  "kind": "closure",
+  "loc": "Lakewood",
+  "n": 106,
+  "posted": "2026-09-28",
+  "seen": "2026-09-28T12:00:00Z"
+ },
+ {
+  "co": "Maverick Washington LLC / Great American Casino",
+  "eff": "2026-11-30",
+  "id": "923676a201",
+  "kind": "closure",
+  "loc": "Everett",
+  "n": 133,
+  "posted": "2026-09-28",
+  "seen": "2026-09-28T12:00:00Z"
+ },
+ {
+  "co": "Maverick Washington LLC / Crazy Moose Casino",
+  "eff": "2026-11-30",
+  "id": "b71a70580a",
+  "kind": "closure",
+  "loc": "Pasco",
+  "n": 137,
+  "posted": "2026-09-28",
+  "seen": "2026-09-28T12:00:00Z"
+ },
+ {
+  "co": "Maverick Washington LLC / Coyote Bobs Casino",
+  "eff": "2026-11-30",
+  "id": "be5a5dd1d6",
+  "kind": "closure",
+  "loc": "Kennewick",
+  "n": 68,
+  "posted": "2026-09-28",
+  "seen": "2026-09-28T12:00:00Z"
+ },
+ {
+  "co": "Maverick Washington LLC / Chips Casino",
+  "eff": "2026-11-30",
+  "id": "2c1ae65107",
+  "kind": "closure",
+  "loc": "Lakewood",
+  "n": 131,
+  "posted": "2026-09-28",
+  "seen": "2026-09-28T12:00:00Z"
+ },
+ {
+  "co": "Maverick Washington LLC / Casino Caribbean",
+  "eff": "2026-11-30",
+  "id": "3d7526852e",
+  "kind": "closure",
+  "loc": "Yakima",
+  "n": 101,
+  "posted": "2026-09-28",
+  "seen": "2026-09-28T12:00:00Z"
+ },
+ {
+  "co": "Maverick Washington LLC / All Star Casino",
+  "eff": "2026-11-30",
+  "id": "243a2a6fd0",
+  "kind": "closure",
+  "loc": "Silverdale",
+  "n": 159,
+  "posted": "2026-09-28",
+  "seen": "2026-09-28T12:00:00Z"
+ },
+ {
+  "co": "FirstFruits, LLC",
+  "eff": "2026-11-18",
+  "id": "cd78e3593e",
+  "kind": "layoff",
+  "loc": "Prescott",
+  "n": 1200,
+  "posted": "2026-09-28",
+  "seen": "2026-09-28T12:00:00Z",
+  "tmp": true
+ },
+ {
+  "co": "Gebbers Farms, Etal",
+  "eff": "2026-11-25",
+  "id": "3dc197e06a",
+  "kind": "layoff",
+  "loc": "Brewster",
+  "n": 3445,
+  "posted": "2026-09-25",
+  "seen": "2026-09-25T12:00:00Z"
+ },
+ {
+  "co": "Microsoft",
+  "eff": "2026-11-21",
+  "id": "5ef4c7e413",
+  "kind": "layoff",
+  "loc": "Redmond",
+  "n": 277,
+  "posted": "2026-09-22",
+  "seen": "2026-09-22T12:00:00Z"
+ },
+ {
+  "co": "Expedia, Inc.",
+  "eff": "2026-11-21",
+  "id": "6e020e810d",
+  "kind": "layoff",
+  "loc": "Seattle",
+  "n": 58,
+  "posted": "2026-09-22",
+  "seen": "2026-09-22T12:00:00Z"
+ },
+ {
+  "co": "DNS Farm Services LLC",
+  "eff": "2026-09-17",
+  "id": "a9bfe6e1ce",
+  "kind": "layoff",
+  "loc": "Grant and Chelan Counties",
+  "n": 238,
+  "posted": "2026-09-21",
+  "seen": "2026-09-21T12:00:00Z",
+  "tmp": true
+ },
+ {
+  "co": "BM Administrative Services",
+  "eff": "2026-11-30",
+  "id": "267975e726",
+  "kind": "layoff",
+  "loc": "Yakima County",
+  "n": 321,
+  "posted": "2026-09-21",
+  "seen": "2026-09-21T12:00:00Z"
+ },
+ {
+  "co": "2EZY LLC",
+  "eff": "2026-09-30",
+  "id": "903bee9ba6",
+  "kind": "closure",
+  "loc": "Airway Heights",
+  "n": 120,
+  "posted": "2026-09-21",
+  "seen": "2026-09-21T12:00:00Z"
+ },
+ {
+  "co": "Providence Health & Services",
+  "eff": "2026-11-18",
+  "id": "b272c02096",
+  "kind": "layoff",
+  "loc": "Olympia",
+  "n": 3,
+  "posted": "2026-09-18",
+  "seen": "2026-09-18T12:00:00Z"
+ },
+ {
+  "co": "King Fuji Ranch, Inc.",
+  "eff": "2026-11-27",
+  "id": "48dc07c77d",
+  "kind": "layoff",
+  "loc": "Mattawa",
+  "n": 286,
+  "posted": "2026-09-18",
+  "seen": "2026-09-18T12:00:00Z"
+ },
+ {
+  "co": "Comprehensive Life Resources",
+  "eff": "2026-11-21",
+  "id": "1429087b4c",
+  "kind": "layoff",
+  "loc": "Tacoma",
+  "n": 92,
+  "posted": "2026-09-18",
+  "seen": "2026-09-18T12:00:00Z"
+ },
+ {
+  "co": "TLC Orchards LLC",
+  "eff": "2026-11-07",
+  "id": "872daf4595",
+  "kind": "layoff",
+  "loc": "Wapato",
+  "n": 125,
+  "posted": "2026-09-17",
+  "seen": "2026-09-17T12:00:00Z"
+ },
+ {
+  "co": "Sagemoor Group Management Services Inc",
+  "eff": "2026-11-14",
+  "id": "94a9f4d487",
+  "kind": "layoff",
+  "loc": "Yakima, Franklin, and Adams Counties",
+  "n": 443,
+  "posted": "2026-09-17",
+  "seen": "2026-09-17T12:00:00Z"
+ },
+ {
+  "co": "PeaceHealth",
+  "eff": "2026-11-20",
+  "id": "420ce458eb",
+  "kind": "layoff",
+  "loc": "Clark, Skagit, and Whatcom Counties",
+  "n": 150,
+  "posted": "2026-09-17",
+  "seen": "2026-09-17T12:00:00Z"
+ },
+ {
+  "co": "Columbia Reach Chiawana Orchards",
+  "eff": "2026-11-14",
+  "id": "15c1d1b599",
+  "kind": "layoff",
+  "loc": "Yakima, Kittitas, and Grant Counties",
+  "n": 570,
+  "posted": "2026-09-17",
+  "seen": "2026-09-17T12:00:00Z"
+ },
+ {
+  "co": "Pacific Ag Services LLC",
+  "eff": "2026-11-15",
+  "id": "c51b48601a",
+  "kind": "layoff",
+  "loc": "Grant and Franklin Counties",
+  "n": 530,
+  "posted": "2026-09-16",
+  "seen": "2026-09-16T12:00:00Z"
+ },
+ {
+  "co": "Loftus Administrative Services LLC",
+  "eff": "2026-11-15",
+  "id": "c520672aae",
+  "kind": "layoff",
+  "loc": "Yakima County",
+  "n": 376,
+  "posted": "2026-09-15",
+  "seen": "2026-09-15T12:00:00Z"
+ },
+ {
+  "co": "Oracle America, Inc.",
+  "eff": "2026-11-13",
+  "id": "cf59d9162c",
+  "kind": "layoff",
+  "loc": "Seattle",
+  "n": 359,
+  "posted": "2026-09-14",
+  "seen": "2026-09-14T12:00:00Z"
+ },
+ {
+  "co": "Blue Cascade Orchards",
+  "eff": "2026-11-20",
+  "id": "5a55876898",
+  "kind": "layoff",
+  "loc": "Yakima, Okanogan, Franklin, Grant, Adams, Walla Walla, and Benton Counties",
+  "n": 792,
+  "posted": "2026-09-14",
+  "seen": "2026-09-14T12:00:00Z"
+ },
+ {
+  "co": "Young's Market Company of Washington LLC",
+  "eff": "2026-11-07",
+  "id": "974dce0b38",
+  "kind": "layoff",
+  "loc": "Auburn",
+  "n": 33,
+  "posted": "2026-09-11",
+  "seen": "2026-09-11T12:00:00Z"
+ },
+ {
+  "co": "Monson Ranches Snake River Orchards LLC",
+  "eff": "2026-11-18",
+  "id": "2d8220e905",
+  "kind": "layoff",
+  "loc": "Benton City, Burbank",
+  "n": 172,
+  "posted": "2026-09-11",
+  "seen": "2026-09-11T12:00:00Z"
+ },
+ {
+  "co": "Legendary Fruit Co",
+  "eff": "2026-11-10",
+  "id": "53759a5714",
+  "kind": "layoff",
+  "loc": "Yakima, Wapato",
+  "n": 1220,
+  "posted": "2026-09-10",
+  "seen": "2026-09-10T12:00:00Z",
+  "tmp": true
+ },
+ {
+  "co": "Cascade View Fruit & Cold Storage, LLC",
+  "eff": "2026-11-15",
+  "id": "45c3a40090",
+  "kind": "layoff",
+  "loc": "Selah",
+  "n": 259,
+  "posted": "2026-09-09",
+  "seen": "2026-09-09T12:00:00Z"
+ },
+ {
+  "co": "MultiCare Health System",
+  "eff": "2026-10-27",
+  "id": "62741128b9",
+  "kind": "layoff",
+  "loc": "Statewide",
+  "n": 138,
+  "posted": "2026-09-08",
+  "seen": "2026-09-08T12:00:00Z"
+ },
+ {
+  "co": "Gilbert Orchards, Inc.",
+  "eff": "2026-11-22",
+  "id": "123691c172",
+  "kind": "layoff",
+  "loc": "Yakima, Franklin and Grant Counties",
+  "n": 518,
+  "posted": "2026-09-03",
+  "seen": "2026-09-03T12:00:00Z",
+  "tmp": true
+ },
+ {
+  "co": "Uber Technologies Inc",
+  "eff": "2026-11-02",
+  "id": "97dc275d95",
+  "kind": "layoff",
+  "loc": "Seattle",
+  "n": 93,
+  "posted": "2026-09-02",
+  "seen": "2026-09-02T12:00:00Z"
+ },
+ {
+  "co": "Sundquist Fruit, LLC",
+  "eff": "2026-11-15",
+  "id": "4c994bbc5a",
+  "kind": "layoff",
+  "loc": "Yakima and Franklin Counties",
+  "n": 243,
+  "posted": "2026-09-02",
+  "seen": "2026-09-02T12:00:00Z",
+  "tmp": true
+ },
+ {
+  "co": "Qualtrics LLC",
+  "eff": "2026-10-18",
+  "id": "64e124f566",
+  "kind": "layoff",
+  "loc": "Seattle",
+  "n": 117,
+  "posted": "2026-09-02",
+  "seen": "2026-09-02T12:00:00Z"
+ },
+ {
+  "co": "Georgia-Pacific Gypsum LLC",
+  "eff": "2026-10-30",
+  "id": "f74e0ad889",
+  "kind": "closure",
+  "loc": "Tacoma",
+  "n": 120,
+  "posted": "2026-09-01",
+  "seen": "2026-09-01T12:00:00Z"
+ },
+ {
+  "co": "Maverick Washington LLC / Riverside Casino",
+  "eff": "2026-11-01",
+  "id": "5c01aba151",
+  "kind": "closure",
+  "loc": "Tukwila",
+  "n": 142,
+  "posted": "2026-08-31",
+  "seen": "2026-08-31T12:00:00Z"
+ },
+ {
+  "co": "Maverick Washington LLC / Great American Casino",
+  "eff": "2026-11-01",
+  "id": "1dcffd0e3d",
+  "kind": "closure",
+  "loc": "Tukwila",
+  "n": 96,
+  "posted": "2026-08-31",
+  "seen": "2026-08-31T12:00:00Z"
+ },
+ {
+  "co": "Amazon",
+  "eff": "2026-10-01",
+  "id": "016b98b92d",
+  "kind": "layoff",
+  "loc": "Seattle, Bellevue, Sumner",
+  "n": 121,
+  "posted": "2026-08-31",
+  "seen": "2026-08-31T12:00:00Z"
+ },
+ {
+  "co": "Columbia Hospitality, Inc",
+  "eff": "2026-10-30",
+  "id": "4156885fad",
+  "kind": "layoff",
+  "loc": "Kenmore",
+  "n": 86,
+  "posted": "2026-08-28",
+  "seen": "2026-08-28T12:00:00Z"
+ },
+ {
+  "co": "T-Mobile USA, Inc.",
+  "eff": "2026-09-21",
+  "id": "b6bc1fb6d0",
+  "kind": "layoff",
+  "loc": "Seattle, Bellingham, Bothell, Vancouver, Bellevue, Kennewick, Tacoma, and Yakima",
+  "n": 77,
+  "posted": "2026-08-26",
+  "seen": "2026-08-26T12:00:00Z"
+ },
+ {
+  "co": "Twin City Foods, Inc.",
+  "eff": "2026-11-02",
+  "id": "d0910a153b",
+  "kind": "layoff",
+  "loc": "Ellensburg",
+  "n": 109,
+  "posted": "2026-08-21",
+  "seen": "2026-08-21T12:00:00Z"
+ },
+ {
+  "co": "Borton & Sons, Inc.",
+  "eff": "2026-11-08",
+  "id": "4e8a2f5509",
+  "kind": "layoff",
+  "loc": "Yakima, Zillah, Pasco, Burbank, Prescott, Soap Lake, Othello, Mesa",
+  "n": 928,
+  "posted": "2026-08-21",
+  "seen": "2026-08-21T12:00:00Z"
+ },
+ {
+  "co": "Starbucks",
+  "eff": "2026-10-19",
+  "id": "c0c1f126d0",
+  "kind": "layoff",
+  "loc": "Seattle",
+  "n": 224,
+  "posted": "2026-08-20",
+  "seen": "2026-08-20T12:00:00Z"
+ },
+ {
+  "co": "TT Commerce & Global Services",
+  "eff": "2026-10-19",
+  "id": "626e384a5f",
+  "kind": "layoff",
+  "loc": "Bellevue",
+  "n": 75,
+  "posted": "2026-08-18",
+  "seen": "2026-08-18T12:00:00Z"
+ },
+ {
+  "co": "Norwesco",
+  "eff": "2026-10-16",
+  "id": "5588c8c7a5",
+  "kind": "closure",
+  "loc": "Fife",
+  "n": 54,
+  "posted": "2026-08-14",
+  "seen": "2026-08-14T12:00:00Z"
+ },
+ {
+  "co": "Jack in the Box",
+  "eff": "2026-10-10",
+  "id": "b13511fff3",
+  "kind": "closure",
+  "loc": "Everett",
+  "n": 24,
+  "posted": "2026-08-12",
+  "seen": "2026-08-12T12:00:00Z"
+ },
+ {
+  "co": "Salesforce, Inc.",
+  "eff": "2026-10-05",
+  "id": "26c93aa7fb",
+  "kind": "layoff",
+  "loc": "Seattle, Bellevue",
+  "n": 59,
+  "posted": "2026-08-05",
+  "seen": "2026-08-05T12:00:00Z"
+ },
+ {
+  "co": "Google",
+  "eff": "2026-09-06",
+  "id": "1f3ee033a6",
+  "kind": "layoff",
+  "loc": "Various locations in Washington",
+  "n": 52,
+  "posted": "2026-08-05",
+  "seen": "2026-08-05T12:00:00Z"
+ },
+ {
+  "co": "Zillow Group",
+  "eff": "2026-10-05",
+  "id": "5c874f3108",
+  "kind": "layoff",
+  "loc": "Seattle",
+  "n": 91,
+  "posted": "2026-08-04",
+  "seen": "2026-08-04T12:00:00Z"
+ },
+ {
+  "co": "80 Acres Urban Agriculture, Inc.",
+  "eff": "2026-08-03",
+  "id": "341811366e",
+  "kind": "closure",
+  "loc": "Marysville",
+  "n": 55,
+  "posted": "2026-08-03",
+  "seen": "2026-08-03T12:00:00Z"
+ },
+ {
+  "co": "Visa",
+  "eff": "2026-10-01",
+  "id": "7728f79d87",
+  "kind": "layoff",
+  "loc": "Bellevue",
+  "n": 70,
+  "posted": "2026-07-31",
+  "seen": "2026-07-31T12:00:00Z"
+ },
+ {
+  "co": "I.Q. Data International, Inc.",
+  "eff": "2026-10-01",
+  "id": "39f4bcc60a",
+  "kind": "layoff",
+  "loc": "Bothell",
+  "n": 101,
+  "posted": "2026-07-31",
+  "seen": "2026-07-31T12:00:00Z"
+ },
+ {
+  "co": "No Meat Factory USA Inc",
+  "eff": "2026-07-27",
+  "id": "51e2454f6f",
+  "kind": "closure",
+  "loc": "Stanwood",
+  "n": 113,
+  "posted": "2026-07-28",
+  "seen": "2026-07-28T12:00:00Z"
+ },
+ {
+  "co": "Verizon",
+  "eff": "2026-09-18",
+  "id": "933cd11544",
+  "kind": "layoff",
+  "loc": "Various locations in Washington",
+  "n": 54,
+  "posted": "2026-07-16",
+  "seen": "2026-07-16T12:00:00Z"
+ },
+ {
+  "co": "Expeditors International of Washington, Inc.",
+  "eff": "2026-08-07",
+  "id": "fb41fa85d5",
+  "kind": "layoff",
+  "loc": "Various locations in Washington",
+  "n": 3,
+  "posted": "2026-07-08",
+  "seen": "2026-07-08T12:00:00Z"
+ }
+]

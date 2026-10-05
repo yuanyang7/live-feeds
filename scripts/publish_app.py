@@ -79,7 +79,11 @@ def main():
         res = client.post("/apps", json=body)
         print(f"created app: {res.get('slug', slug)} {res.get('warnings') or ''}")
         if res.get("slug") and res["slug"] != slug:
-            raise SystemExit(f"vibeplat assigned slug {res['slug']!r}; set slug in feed.toml to match")
+            # vibeplat may suffix the requested slug; it's permanent, so record it.
+            toml = feed_dir / "feed.toml"
+            toml.write_text(toml.read_text().replace(f'slug = "{slug}"', f'slug = "{res["slug"]}"'))
+            slug = res["slug"]
+            print(f"vibeplat assigned slug {slug!r}; feed.toml updated")
         created = True
 
     if args.listing or created:
