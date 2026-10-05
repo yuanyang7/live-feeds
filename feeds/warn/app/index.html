@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="light dark">
+  <title>WARN Watch</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top wrap">
+    <div class="brand">
+      <span class="live" id="live" aria-hidden="true"></span>
+      <h1>WARN Watch</h1>
+    </div>
+    <p class="sub" data-i18n="tagline">Layoff notices filed with US states, as they're posted.</p>
+    <p class="status" id="status" aria-live="polite">&nbsp;</p>
+  </header>
+
+  <section class="stats wrap" aria-label="Summary">
+    <div class="stat"><b id="statNotices">–</b><span data-i18n="statNotices">Notices, last 30 days</span></div>
+    <div class="stat"><b id="statWorkers">–</b><span data-i18n="statWorkers">Workers, last 30 days</span></div>
+    <div class="stat accent"><b id="statNew">–</b><span data-i18n="statNew">New since your last visit</span></div>
+  </section>
+
+  <div class="bar">
+    <div class="wrap">
+      <nav class="chips" id="chips" aria-label="Filter by state"></nav>
+      <div class="tools">
+        <input type="search" id="q" autocomplete="off" enterkeyhint="search"
+               placeholder="Search company or city" data-i18n-placeholder="search" aria-label="Search">
+        <div class="seg" role="radiogroup" aria-label="Sort">
+          <button type="button" data-sort="latest" aria-pressed="true" data-i18n="latest">Latest</button>
+          <button type="button" data-sort="largest" aria-pressed="false" data-i18n="largest">Largest</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <main class="wrap" id="list" aria-busy="true">
+    <div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div>
+  </main>
+
+  <footer class="wrap foot">
+    <h2 data-i18n="aboutTitle">What's a WARN notice?</h2>
+    <p data-i18n="about">Under the federal WARN Act, employers with 100+ workers must give 60 days' notice before a plant closing or mass layoff, and file it with the state. States publish these notices; WARN Watch checks them every hour.</p>
+    <h2 data-i18n="sourcesTitle">Sources</h2>
+    <ul class="sources" id="sources"></ul>
+    <p class="fine" data-i18n="fine">Data comes straight from state labor departments and can lag or be revised. Counts are what employers reported.</p>
+  </footer>
+
+  <button class="toast" id="toast" type="button" hidden></button>
+
+  <script src="app.js"></script>
+</body>
+</html>

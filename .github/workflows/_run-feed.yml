@@ -1,0 +1,56 @@
+# Shared steps for every feed: scrape + push to vibeplat, then commit the
+# feed's state (rolling store, push hashes) so the next run diffs against it.
+name: run-feed
+
+on:
+  workflow_call:
+    inputs:
+      feed:
+        description: Folder under feeds/
+        required: true
+        type: string
+      account:
+        description: vibeplat account; the token comes from secret VIBEPLAT_TOKEN_<ACCOUNT>
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    # One feed at a time across the repo, so state commits never race.
+    concurrency:
+      group: live-feeds-state
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Run feed
+        env:
+          VIBEPLAT_TOKEN: ${{ secrets[format('VIBEPLAT_TOKEN_{0}', inputs.account)] }}
+        run: python feeds/${{ inputs.feed }}/run.py
+
+      # Runs even if a source failed: the states that worked were pushed.
+      - name: Commit state
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feeds/${{ inputs.feed }}/state
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -q -m "chore(${{ inputs.feed }}): update feed state"
+          for i in 1 2 3; do
+            git pull --rebase -q && git push -q && exit 0
+            sleep 5
+          done
+          exit 1
