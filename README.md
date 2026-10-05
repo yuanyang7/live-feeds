@@ -38,6 +38,23 @@ python scripts/publish_app.py warn [--listing] # upload a new build of the web a
 Tokens: CI uses the repo secret `VIBEPLAT_TOKEN_<ACCOUNT>` (e.g. `VIBEPLAT_TOKEN_ALEX`).
 Locally, `$VIBEPLAT_TOKEN` or `~/code/mini-games-hub/.vibeplat-tokens.json`.
 
+## Local timer (macOS)
+
+GitHub's scheduled runs start late and sometimes don't run at all, so this machine
+can fill the gaps:
+
+```sh
+scripts/install-local-timer.sh warn        # launchd agent, :47 past every hour
+tail -f ~/Library/Logs/live-feeds-warn.log
+launchctl bootout gui/$(id -u)/com.live-feeds.warn   # remove it
+```
+
+`scripts/local_timer.py` reads `meta.checkedAt` from vibeplat first and does nothing
+if the feed was checked in the last 50 minutes, so the laptop timer and the hourly
+Actions schedule together still mean at most one fetch an hour. It commits and pushes
+state the way CI does; if that races with a CI run the state commit is dropped and the
+next run rebuilds it from origin.
+
 ## Adding a feed
 
 1. Create `feeds/<name>/` with `feed.toml` (`slug`, `account`), `run.py`, `app/` and `listing/listing.json`.
