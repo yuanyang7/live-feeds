@@ -1,0 +1,6 @@
+# Bowl Check: dog and cat food recalls and FDA "do not feed" advisories, pushed to vibeplat.
+slug = "bowl-check"
+account = "alex"
+window_days = 730
+# What scripts/local_timer.py paces the feed by, and what the app shows to viewers.
+check_every_hours = 3

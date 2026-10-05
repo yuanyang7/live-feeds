@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="light dark">
+  <title>Bowl Check</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="head wrap">
+    <div class="logo">
+      <svg viewBox="0 0 48 48" aria-hidden="true">
+        <path d="M5 22h38a19 14 0 0 1-38 0Z" style="fill:var(--bowl)"/>
+        <path d="M5 22h38" style="stroke:var(--ink)" stroke-width="3" stroke-linecap="round"/>
+        <circle cx="17" cy="16" r="4" style="fill:var(--kibble)"/><circle cx="25" cy="13" r="4" style="fill:var(--kibble)"/>
+        <circle cx="32" cy="17" r="3.5" style="fill:var(--kibble)"/>
+        <path d="m16 30 5 4 10-8" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+      <div>
+        <h1>Bowl Check</h1>
+        <p class="sub" data-i18n="tagline">Dog and cat food recalls, straight from the FDA.</p>
+      </div>
+    </div>
+    <p class="status" id="status" aria-live="polite">&nbsp;</p>
+  </header>
+
+  <section class="wrap">
+    <div class="pets" role="radiogroup" aria-label="Your pets" data-i18n-label="petsLabel">
+      <button type="button" data-pet="dog" aria-pressed="false"><span aria-hidden="true">🐶</span> <span data-i18n="dogs">Dogs</span></button>
+      <button type="button" data-pet="cat" aria-pressed="false"><span aria-hidden="true">🐱</span> <span data-i18n="cats">Cats</span></button>
+      <button type="button" data-pet="both" aria-pressed="true"><span aria-hidden="true">🐾</span> <span data-i18n="both">Both</span></button>
+    </div>
+    <div class="glance" id="glance"></div>
+  </section>
+
+  <section class="wrap mine" aria-labelledby="mineTitle">
+    <div class="mine-head">
+      <h2 id="mineTitle" data-i18n="mineTitle">Brands you feed</h2>
+      <span class="hint" data-i18n="mineHint">We'll flag recalls that mention them.</span>
+    </div>
+    <div class="brands" id="brands"></div>
+    <form class="add" id="addBrand" autocomplete="off">
+      <input id="brandInput" maxlength="40" enterkeyhint="done" placeholder="Add a brand, e.g. Purina" data-i18n-placeholder="addBrand" aria-label="Add a brand">
+      <button type="submit" data-i18n="add">Add</button>
+    </form>
+  </section>
+
+  <div class="bar">
+    <div class="wrap">
+      <input type="search" id="q" autocomplete="off" enterkeyhint="search"
+             placeholder="Search brand, product, lot code or UPC" data-i18n-placeholder="search" aria-label="Search">
+    </div>
+  </div>
+
+  <main class="wrap" id="list" aria-busy="true">
+    <div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div>
+  </main>
+
+  <footer class="wrap foot">
+    <section class="todo">
+      <h2 data-i18n="todoTitle">If your pet's food is on the list</h2>
+      <ol>
+        <li data-i18n="todo1">Stop feeding it. Match the lot code, UPC and best-by date on your bag or can against the notice.</li>
+        <li data-i18n="todo2">Return it for a refund, or throw it away in a sealed bag where pets and wildlife can't reach it. Don't donate it.</li>
+        <li data-i18n="todo3">Wash bowls, scoops and storage bins, and your hands. Salmonella and Listeria can make people sick too.</li>
+        <li data-i18n="todo4">Call your vet if your pet has vomiting, diarrhea, lethargy or loss of appetite, and say what they ate.</li>
+        <li><span data-i18n="todo5">Got sick from food that isn't on the list? Tell the FDA:</span>
+          <a href="https://www.fda.gov/animal-veterinary/report-problem/how-report-pet-food-complaint" target="_blank" rel="noopener" data-i18n="todo5Link">report a pet food complaint</a>.</li>
+      </ol>
+    </section>
+    <h2 data-i18n="aboutTitle">What's in Bowl Check?</h2>
+    <p data-i18n="about">Recall announcements that the FDA posts for dog and cat food, treats, supplements and milk replacers, plus the FDA's own "do not feed" advisories, which sometimes cover food the maker hasn't recalled. Feed for horses, livestock, birds and reptiles, and animal drugs, are left out.</p>
+    <p id="freshCheck"></p>
+    <h2 data-i18n="sourcesTitle">Sources</h2>
+    <ul class="sources" id="sources"></ul>
+    <p class="fine" data-i18n="fine">Not every recall gets a public announcement; smaller ones may only appear in the FDA's weekly Enforcement Report. Always check the full notice on FDA.gov. Bowl Check isn't affiliated with the FDA.</p>
+  </footer>
+
+  <button class="toast" id="toast" type="button" hidden></button>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,17 @@
+name: pet-recalls
+
+on:
+  # No cron, same as warn: scripts/local_timer.py paces the feed from a laptop
+  # on its check_every_hours cadence; this is the manual escape hatch.
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  feed:
+    uses: ./.github/workflows/_run-feed.yml
+    with:
+      feed: pet-recalls
+      account: ALEX
+    secrets: inherit

@@ -1,0 +1,31 @@
+{
+  "name": "Bowl Check",
+  "tagline": "Dog and cat food recalls and FDA \"do not feed\" warnings, updated every 3 hours.",
+  "description": "Is your pet's food on a recall list? Bowl Check reads the FDA's recall announcements and its \"do not feed\" advisories every 3 hours and keeps only what matters to dog and cat owners: food, treats, supplements and milk replacers, with livestock feed and animal drugs left out. Pick dogs, cats or both, add the brands you feed so matching recalls get flagged, and search by brand, product, lot code or UPC. Searching a UPC opens the recall on the exact lot that matches. Each notice shows the reason, the lot table to check against your bag or can, whether illnesses were reported, product photos, the company's consumer line and a link to the full FDA notice. Covers the last two years.",
+  "tags": [
+    "pets",
+    "dogs",
+    "cats",
+    "tracker",
+    "safety",
+    "news",
+    "food"
+  ],
+  "ageRating": "FOUR_PLUS",
+  "primaryLocale": "en",
+  "remixExamplePrompts": [
+    "Add a 'Raw food only' toggle that shows only recalls whose title or product mentions raw, frozen or freeze-dried food.",
+    "Add a timeline chart at the top showing recalls per month for the selected pet over the last 2 years, colored by hazard (bacteria, foreign objects, nutrient levels).",
+    "Let me save a photo of my pet food bag's lot code and UPC, then show a big green 'Not recalled' or red 'Recalled' result by matching them against the lot tables.",
+    "Group the list by hazard type instead of by month, with a count per group and the hazard color as the section header.",
+    "Add a printable 'fridge sheet' view listing every recall from the last 6 months for my brands with lot codes in a compact table."
+  ],
+  "translations": [
+    {
+      "locale": "zh",
+      "name": "Bowl Check 猫狗粮召回",
+      "tagline": "猫粮狗粮召回与 FDA“请勿喂食”警示，每 3 小时更新。",
+      "description": "你家宠物的粮在召回名单上吗？Bowl Check 每 3 小时读取一次美国 FDA 的召回公告和“请勿喂食”警示，只保留与养猫养狗相关的内容：主粮、零食、营养补充剂和代乳粉，家畜饲料和兽药不在其中。选择狗、猫或都有，添加你家用的品牌，相关召回会被特别标出；还可以按品牌、产品、批号或 UPC 条码搜索，输入条码会直接定位到匹配的批次。每条公告都列出召回原因、可对照包装核对的批次表、是否有患病报告、产品照片、厂商消费者热线以及 FDA 完整公告链接。覆盖近两年的记录。"
+    }
+  ]
+}
