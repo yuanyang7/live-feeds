@@ -1,5 +1,45 @@
 [
  {
+  "co": "Jack in the Box",
+  "eff": "2026-12-02",
+  "id": "4f9bb081ed",
+  "kind": "closure",
+  "loc": "Kent",
+  "n": 15,
+  "posted": "2026-10-05",
+  "seen": "2026-10-05T18:47:06Z"
+ },
+ {
+  "co": "Quincy Foods",
+  "eff": "2026-11-15",
+  "id": "425fc5ba51",
+  "kind": "layoff",
+  "loc": "Quincy",
+  "n": 65,
+  "posted": "2026-10-02",
+  "seen": "2026-10-05T18:47:06Z"
+ },
+ {
+  "co": "National Frozen Foods Corporation",
+  "eff": "2026-11-15",
+  "id": "b455643b79",
+  "kind": "layoff",
+  "loc": "Moses Lake and Chehalis",
+  "n": 439,
+  "posted": "2026-10-02",
+  "seen": "2026-10-05T18:47:06Z"
+ },
+ {
+  "co": "Greenridge Farming Inc",
+  "eff": "2026-11-15",
+  "id": "89714bbed9",
+  "kind": "layoff",
+  "loc": "Pasco",
+  "n": 193,
+  "posted": "2026-10-02",
+  "seen": "2026-10-05T18:47:06Z"
+ },
+ {
   "co": "Manson Growers LLC",
   "eff": "2026-10-01",
   "id": "282d2e4926",
