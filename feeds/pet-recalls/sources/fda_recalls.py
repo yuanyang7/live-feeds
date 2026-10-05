@@ -5,13 +5,18 @@ plain GETs with JSON, newest first.
 The table's "Animal & Veterinary" filter misses some pet food recalls (Wild Coast
 Raw's bird flu recall, March 2025), so this reads every product type back to
 `since` and picks pet food out by its product-type tags and wording.
+
+The table is served by more than one search backend behind a load balancer, and
+they don't always agree: in October 2026 one of two was missing 17 rows, Wild
+Coast Raw's among them. A session sticks to one backend (AWSALB cookie), so
+_rows asks on a few fresh sessions and pages through the one listing the most.
 """
 
 import html
 import re
 import time
 
-from vibefeed import clean, parse_date
+from vibefeed import clean, http_session, parse_date
 
 from .common import FDA, exclusion, hazard, parse_page, rid, species
 
@@ -29,6 +34,7 @@ PARAMS = {
     "draw": "1",
 }
 PAGE = 250
+PROBES = 4
 CANDIDATE = re.compile(r"\b(?:pet|dogs?|cats?|canine|feline|pupp(?:y|ies)|kittens?)\b", re.I)
 
 
@@ -36,8 +42,24 @@ def _text(cell: str) -> str:
     return clean(html.unescape(re.sub(r"<[^>]+>", " ", cell or "")))
 
 
+def _fullest(http):
+    """The session whose backend lists the most rows: `http` first, then fresh
+    sessions until two backends disagree (the bigger one wins) or PROBES run out."""
+    best, best_total, seen = None, -1, set()
+    for i in range(PROBES):
+        s = http if i == 0 else http_session()
+        total = int(s.get(TABLE, params={**PARAMS, "start": 0, "length": 1}).json().get("recordsFiltered") or 0)
+        seen.add(total)
+        if total > best_total:
+            best, best_total = s, total
+        if len(seen) > 1:
+            break
+    return best
+
+
 def _rows(http, since):
     """Table rows newer than `since`, paging until the window is covered."""
+    http = _fullest(http)
     start = 0
     while True:
         data = http.get(TABLE, params={**PARAMS, "start": start, "length": PAGE}).json()

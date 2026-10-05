@@ -30,6 +30,8 @@ from vibefeed import Vibeplat, digest, dumps, http_session, load_json, push_keys
 STATE = FEED_DIR / "state"
 DEV_DATA = FEED_DIR / "app" / "dev-data"
 STATE_ONLY = ("det", "x")
+# Older than this when first listed: a catch-up, not news (see merge).
+LATE_DAYS = 30
 
 
 def iso(dt: datetime) -> str:
@@ -40,18 +42,26 @@ def last_date(r) -> str:
     return r.get("upd") or r["date"]
 
 
-def stamp(records, prev, now):
-    """Carry `seen` forward. On the first run everything is dated by its own
-    announcement, so the backfill doesn't all show up as new."""
+def merge(records, prev, since, now):
+    """Carry `seen` forward and keep stored records the source didn't list this time.
+
+    FDA's table search has answered with a few rows missing (Oct 2026), so a record
+    only leaves the store by ageing out of the window, not by one absent listing.
+    A notice first seen weeks after its own date (the first run's backfill, or a row
+    a flaky listing hid) is dated by its announcement, so it isn't badged as new.
+    """
     prev_by_id = {r["id"]: r for r in prev or []}
+    late = (now - timedelta(days=LATE_DAYS)).date().isoformat()
     for r in records:
         old = prev_by_id.get(r["id"])
         if old:
             r["seen"] = old["seen"]
-        elif prev is None:
+        elif prev is None or r["date"] < late:
             r["seen"] = f"{r['date']}T12:00:00Z"
         else:
             r["seen"] = iso(now)
+    listed = {r["id"] for r in records}
+    records += [r for r in prev or [] if r["id"] not in listed and last_date(r) >= since.isoformat()]
     return sorted(records, key=lambda r: (last_date(r), r["seen"], r["id"]), reverse=True)
 
 
@@ -76,7 +86,7 @@ def main():
             records = mod.fetch(http, since, {r["id"]: r for r in prev or []})
             if not records:
                 raise RuntimeError("source listed nothing in the window")
-            records = stamp(records, prev, now)
+            records = merge(records, prev, since, now)
             health.pop(code, None)
         except Exception as e:
             traceback.print_exc()
