@@ -1,21 +1,21 @@
 #!/usr/bin/env python3
 """Gap-filler for one feed, meant to be driven by launchd on a laptop.
 
-GitHub's scheduled runs start late and get dropped outright, so this runs the
-same feed from this machine and only when the published data has actually gone
+GitHub's scheduled runs start late and get dropped outright, so the feed is paced
+from this machine instead, and only runs when the published data has actually gone
 stale:
 
     python scripts/local_timer.py warn
 
 It reads `meta.checkedAt` from vibeplat first and exits without touching the
 sources unless the feed is overdue by the feed's own check_every_hours, so the
-timer can fire every hour and still cost the sources nothing while Actions is
-keeping up. If vibeplat can't be reached it runs anyway: a blip shouldn't stall
-the feed.
+agent can wake every hour and still only fetch once per cadence: the extra wakeups
+are how quickly it recovers after the laptop has been asleep. If vibeplat can't be
+reached it runs anyway: a blip shouldn't stall the feed.
 
-State is committed and pushed like CI does. If that races with a CI run and the
-rebase conflicts, the state commit is dropped (the data is already on vibeplat,
-and the next run rebuilds state from origin).
+State is committed and pushed the way a CI run would. If that races with a manual
+`gh workflow run`, and the rebase conflicts, the state commit is dropped (the data
+is already on vibeplat, and the next run rebuilds state from origin).
 """
 
 import argparse

@@ -4,8 +4,9 @@
 #
 #   scripts/install-local-timer.sh <feed> [minute]
 #
-# It fires at <minute> past every hour (default 47, offset from the Actions cron
-# at :17) and once at login, and catches up after the laptop wakes. Remove it:
+# It fires at <minute> past every hour (default 47) and once at login, and catches
+# up after the laptop wakes. The feed's own cadence comes from check_every_hours;
+# waking hourly is just how fast it recovers from a gap. Remove it:
 #
 #   launchctl bootout gui/$(id -u)/com.live-feeds.<feed>
 set -eu

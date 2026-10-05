@@ -11,7 +11,7 @@ lives in its own folder with its scraper, its committed state and the web app th
 ## How a feed works
 
 ```
-GitHub Actions (cron) ─▶ feeds/<name>/run.py ─▶ fetch + parse sources
+a timer (see below) ──▶ feeds/<name>/run.py ─▶ fetch + parse sources
                                              ─▶ merge into state/ (rolling window, first-seen times)
                                              ─▶ PUT owner-data keys that changed ─▶ vibeplat CDN ─▶ app polls
                          commit state/ back to the repo
@@ -22,8 +22,8 @@ GitHub Actions (cron) ─▶ feeds/<name>/run.py ─▶ fetch + parse sources
   spreadsheet restarts every July 1).
 - **Only changed keys are pushed.** Hashes live in `state/pushed.json`; `meta` (with
   `checkedAt` and per-key hashes) is pushed every run so the app knows what to refetch.
-- **One broken source doesn't break the rest.** It's reported in `meta`, the run exits non-zero
-  (GitHub emails you), and the other sources still update.
+- **One broken source doesn't break the rest.** It's reported in `meta` (the app shows it),
+  the run exits non-zero, and the other sources still update.
 
 ## Local use
 
@@ -40,8 +40,9 @@ Locally, `$VIBEPLAT_TOKEN` or `~/code/mini-games-hub/.vibeplat-tokens.json`.
 
 ## Local timer (macOS)
 
-GitHub's scheduled runs start late and sometimes don't run at all, so this machine
-can fill the gaps:
+GitHub's scheduled runs start late and sometimes don't run at all, so the feed is
+driven from this machine instead (`.github/workflows/<name>.yml` keeps only
+`workflow_dispatch`, for manual runs):
 
 ```sh
 scripts/install-local-timer.sh warn        # launchd agent, :47 past every hour
@@ -49,11 +50,16 @@ tail -f ~/Library/Logs/live-feeds-warn.log
 launchctl bootout gui/$(id -u)/com.live-feeds.warn   # remove it
 ```
 
-`scripts/local_timer.py` reads `meta.checkedAt` from vibeplat first and does nothing
-unless the feed is overdue by its own `check_every_hours`, so the agent can wake every
-hour and still only reach the sources when Actions has actually missed a slot. It commits
-and pushes state the way CI does; if that races with a CI run the state commit is dropped
-and the next run rebuilds it from origin.
+The agent wakes every hour, but `scripts/local_timer.py` reads `meta.checkedAt` from
+vibeplat first and does nothing unless the feed is overdue by its own `check_every_hours`.
+So the sources see one fetch per `check_every_hours`, and an hour is just how quickly the
+feed recovers after the laptop has been asleep or offline. It commits and pushes state the
+way a CI run would; if that races with one, the state commit is dropped and the next run
+rebuilds it from origin.
+
+With nothing running in the cloud, a laptop that stays shut means a stale feed: the app
+says so (`meta.checkedAt` drives its "updates may be delayed" line), but nothing emails
+you. `gh workflow run warn.yml` still runs the feed on Actions when that matters.
 
 ## Adding a feed
 
