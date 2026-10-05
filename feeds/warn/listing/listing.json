@@ -1,8 +1,16 @@
 {
   "name": "WARN Watch",
   "tagline": "Live feed of US layoff notices (WARN Act) from state labor departments.",
-  "description": "Employers with 100+ workers must file a WARN notice with the state 60 days before a mass layoff or plant closing. WARN Watch collects those notices from California, New York, Texas, Washington and New Jersey every hour and shows them in one clean, mobile-friendly feed: who, where, how many workers, and when it takes effect. Filter by state, search by company or city, sort by size, and see what's new since your last visit. Data comes straight from each state's official WARN list.",
-  "tags": ["dashboard", "economy", "data-viz", "tracker", "jobs", "layoffs", "news"],
+  "description": "Employers with 100+ workers must file a WARN notice with the state 60 days before a mass layoff or plant closing. WARN Watch collects those notices from California, New York, Washington and New Jersey every 3 hours and shows them in one clean, mobile-friendly feed: who, where, how many workers, and when it takes effect. Filter by state, search by company or city, sort by size, and see what's new since your last visit. Data comes straight from each state's official WARN list.",
+  "tags": [
+    "dashboard",
+    "economy",
+    "data-viz",
+    "tracker",
+    "jobs",
+    "layoffs",
+    "news"
+  ],
   "ageRating": "FOUR_PLUS",
   "primaryLocale": "en",
   "remixExamplePrompts": [
@@ -17,7 +25,7 @@
       "locale": "zh",
       "name": "WARN Watch 裁员通知",
       "tagline": "实时汇总美国各州劳工部门公布的裁员通知（WARN 法案）。",
-      "description": "按照美国 WARN 法案，100 人以上的雇主在大规模裁员或关厂前 60 天须向州政府提交通知。WARN Watch 每小时从加州、纽约、德州、华盛顿州和新泽西州收集这些通知，汇成一个简洁、适合手机浏览的信息流：哪家公司、在哪里、涉及多少员工、何时生效。可按州筛选、按公司或城市搜索、按规模排序，并查看上次访问以来的新增通知。数据直接来自各州官方 WARN 列表。"
+      "description": "按照美国 WARN 法案，100 人以上的雇主在大规模裁员或关厂前 60 天须向州政府提交通知。WARN Watch 每 3 小时从加州、纽约、华盛顿州和新泽西州收集这些通知，汇成一个简洁、适合手机浏览的信息流：哪家公司、在哪里、涉及多少员工、何时生效。可按州筛选、按公司或城市搜索、按规模排序，并查看上次访问以来的新增通知。数据直接来自各州官方 WARN 列表。"
     }
   ]
 }

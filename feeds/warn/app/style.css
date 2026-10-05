@@ -180,6 +180,8 @@ main { padding-top: 4px; min-height: 40vh; }
 .sources li { display: flex; justify-content: space-between; gap: 12px; padding: 7px 0; border-bottom: 1px solid var(--line); }
 .sources a { color: var(--text); text-decoration: none; }
 .sources .bad { color: var(--warn); }
+.no-tx { margin-top: 10px !important; }
+.no-tx a { color: var(--accent); }
 .fine { margin-top: 14px !important; }
 
 /* Toast */

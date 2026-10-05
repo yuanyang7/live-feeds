@@ -2,7 +2,7 @@
   "use strict";
 
   const V = window.vibe || null;
-  const STATES = ["CA", "NY", "TX", "WA", "NJ"];
+  const STATES = ["CA", "NY", "WA", "NJ"];
   const POLL_MS = 60 * 1000;
   const PAGE = 60;
   const DAY = 86400000;
@@ -47,6 +47,7 @@
       cadence: "checks every {h} hours", cadence1: "checks hourly",
       sourcesTitle: "Sources",
       fine: "Data comes straight from state labor departments and can lag or be revised. Counts are what employers reported.",
+      noTexas: "Why no Texas? The Texas Workforce Commission's site blocks automated access from cloud servers, so WARN Watch can't check it reliably.", noTexasLink: "See Texas notices on the TWC site",
       checked: "Checked {t}", stale: "Last checked {t} · updates may be delayed", loading: "Loading…",
       offline: "Couldn't reach the feed. Retrying…", noData: "No data yet — the feed hasn't run.",
       workers: "workers", worker: "worker", closure: "Closure", layoff: "Layoff", temp: "Temporary", isNew: "New",
@@ -70,6 +71,7 @@
       cadence: "每 {h} 小时检查", cadence1: "每小时检查",
       sourcesTitle: "数据来源",
       fine: "数据直接来自各州劳工部门，可能有延迟或修订。人数为雇主申报数。",
+      noTexas: "为什么没有德州？德州劳动力委员会（TWC）的网站会拦截来自云服务器的自动访问，WARN Watch 无法稳定获取。", noTexasLink: "到 TWC 网站查看德州通知",
       checked: "{t}检查", stale: "上次检查：{t} · 可能有延迟", loading: "加载中…",
       offline: "暂时无法连接数据源，正在重试…", noData: "暂无数据——数据源尚未运行。",
       workers: "人", worker: "人", closure: "关闭", layoff: "裁员", temp: "临时", isNew: "新",
@@ -246,6 +248,8 @@
         ? `<span>${s.latest ? esc(t("ok", { t: fmtDate.format(dayMs(s.latest)) })) : ""}</span>`
         : `<span class="bad">${esc(t("issue", { t: ago(s.failingSince || meta.checkedAt) }))}</span>`) +
       `</li>`).join("");
+    $("noTexas").innerHTML = `${esc(t("noTexas"))} <a href="https://www.twc.texas.gov/data-reports/warn-notice" ` +
+      `target="_blank" rel="noopener">${esc(t("noTexasLink"))}</a>`;
   }
 
   function renderAll() { renderStatus(); renderStats(); renderChips(); renderList(); renderFreshness(); renderSources(); }

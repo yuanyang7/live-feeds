@@ -57,5 +57,10 @@ class Vibeplat:
             headers={"Content-Type": "application/json"},
         )
 
+    def delete_owner_data(self, slug: str, key: str):
+        r = self.s.delete(f"{self.base}/apps/{slug}/owner-data/{key}", timeout=60)
+        if r.status_code != 404:  # already gone is fine
+            self._check(r)
+
     def owner_data_usage(self, slug: str):
         return self.get(f"/apps/{slug}/owner-data")

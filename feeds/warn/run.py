@@ -116,7 +116,7 @@ def main():
     codes = [c.strip().upper() for c in args.only.split(",")] if args.only else list(sources.ALL)
 
     http = http_session()
-    health = load_json(STATE / "health.json", {})
+    health = {k: v for k, v in load_json(STATE / "health.json", {}).items() if k in sources.ALL}
     values, meta_states, failed = {}, [], []
 
     for code in sources.ALL:

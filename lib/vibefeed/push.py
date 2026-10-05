@@ -29,8 +29,10 @@ def check_limits(values: dict) -> dict[str, int]:
 def push_keys(client: Vibeplat | None, slug: str, values: dict, pushed: dict, always=()) -> list[str]:
     """PUT each value whose digest differs from `pushed` (updated in place).
 
-    Keys in `always` are pushed regardless (e.g. a heartbeat). With client=None
-    nothing is sent and the would-be pushes are returned (dry run).
+    Keys in `always` are pushed regardless (e.g. a heartbeat). Keys in `pushed`
+    that are no longer in `values` are deleted from vibeplat, so dropping a source
+    doesn't leave its old data behind. With client=None nothing is sent and the
+    would-be pushes are returned (dry run).
     """
     check_limits(values)
     sent = []
@@ -42,4 +44,9 @@ def push_keys(client: Vibeplat | None, slug: str, values: dict, pushed: dict, al
             client.put_owner_data(slug, key, dumps(value).encode())
             pushed[key] = d
         sent.append(key)
+    for key in [k for k in pushed if k not in values]:
+        if client is not None:
+            client.delete_owner_data(slug, key)
+            del pushed[key]
+        sent.append(f"-{key}")
     return sent

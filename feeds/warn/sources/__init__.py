@@ -9,6 +9,8 @@ page) and fetch(http, since) -> list of raw notices:
 fetch less, but returning older rows is fine (run.py filters).
 """
 
-from . import ca, nj, ny, tx, wa
+from . import ca, nj, ny, wa
 
-ALL = {m.CODE: m for m in (ca, ny, tx, wa, nj)}
+# Texas (TWC) was dropped: its site answers datacenter IPs, including GitHub
+# Actions, with an empty bot-challenge 202 for both the page and the spreadsheets.
+ALL = {m.CODE: m for m in (ca, ny, wa, nj)}

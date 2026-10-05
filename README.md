@@ -6,7 +6,7 @@ lives in its own folder with its scraper, its committed state and the web app th
 
 | Feed | App | Schedule | Sources |
 |---|---|---|---|
-| [warn](feeds/warn) | [WARN Watch](https://vibeplat.ai/apps/warn-watch-v899yx) | every 3 hours | CA, NY, TX, WA, NJ WARN notice lists |
+| [warn](feeds/warn) | [WARN Watch](https://vibeplat.ai/apps/warn-watch-v899yx) | every 3 hours | CA, NY, WA, NJ WARN notice lists |
 
 ## How a feed works
 
