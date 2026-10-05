@@ -270,7 +270,13 @@
     if (!next) { if (initial) renderAll(); return; }
     const changed = next.states.filter((s) => !meta || (meta.states.find((o) => o.code === s.code) || {}).hash !== s.hash);
     const before = new Set(allNotices().map((n) => n.id));
-    await Promise.all(changed.map((s) => loadState(s.code).catch(() => {})));
+    const failed = new Set();
+    await Promise.all(changed.map((s) => loadState(s.code).catch(() => failed.add(s.code))));
+    // A state we couldn't fetch keeps its old hash, so the next poll tries it again
+    // instead of matching the new hash against notices we never got.
+    next.states = next.states.map((s) => (failed.has(s.code)
+      ? Object.assign({}, s, { hash: (meta && (meta.states.find((o) => o.code === s.code) || {}).hash) || null })
+      : s));
     meta = next;
     if (!initial) {
       const added = allNotices().filter((n) => !before.has(n.id));
