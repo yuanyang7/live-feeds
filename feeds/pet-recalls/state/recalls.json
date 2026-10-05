@@ -1,0 +1,2028 @@
+[
+ {
+  "brand": "FI",
+  "co": "Fi Barking Labs Corp",
+  "date": "2026-09-08",
+  "det": true,
+  "hz": "bacteria",
+  "id": "e8a8d9fa0a",
+  "kind": "recall",
+  "product": "Supplements",
+  "seen": "2026-09-08T12:00:00Z",
+  "sp": [
+   "dog"
+  ],
+  "sum": "Fi, of New York, NY, is recalling the supplements for dogs listed below because they have the potential to be contaminated with Salmonella due to an ingredient supplied to Fi’s manufacturer. The manufacturer has suspended production while it investigates. Fi is promptly notifying all affected custom",
+  "title": "Fi Recalls Supplements for Dogs Because of Possible Salmonella Contamination",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fi-recalls-supplements-dogs-because-possible-salmonella-contamination",
+  "why": "Potential to be contaminated with Salmonella"
+ },
+ {
+  "brand": "Northwest Naturals",
+  "co": "Northwest Naturals",
+  "date": "2026-08-28",
+  "det": true,
+  "hz": "bacteria",
+  "id": "fc13e1dd42",
+  "ill": "No illnesses have been reported to date in connection with this voluntary recall.",
+  "img": [
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_1_227.png?itok=Wml0o5K-",
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_2_176.png?itok=gIbHUpos",
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_3_101.png?itok=dYCEh3nv",
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_4_83.png?itok=WIvFtarN"
+  ],
+  "kind": "recall",
+  "product": "Chicken Recipe",
+  "seen": "2026-08-28T12:00:00Z",
+  "sp": [
+   "dog",
+   "cat"
+  ],
+  "sum": "Northwest Naturals of Portland, Oregon is voluntarily recalling 53 cases (1,272 lbs.) of Northwest Naturals Frozen Chicken Recipe (cat food 2 lbs. bag) and 19 cases (684 lbs.) of Northwest Naturals Frozen Raw Diet for Dogs Chicken Recipe (6 lbs. bag) in the two lots identified due to Salmonella and",
+  "tel": "1-866-637-1872",
+  "title": "Northwest Naturals Voluntarily Recalls Two Raw Pet Food Products Because of Possible Salmonella & Listeria Monocytogenes Health Risk",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/northwest-naturals-voluntarily-recalls-two-raw-pet-food-products-because-possible-salmonella",
+  "why": "Potential contamination with Salmonella and/or Listeria monocytogenes"
+ },
+ {
+  "brand": "Shelter’s Choice, Breeder’s Edge",
+  "co": "Revival Animal Health",
+  "date": "2026-08-26",
+  "det": true,
+  "hz": "nutrient",
+  "id": "9cbddcf97c",
+  "ill": "No illnesses resulting from the use of these products have been confirmed, but Revival is investigating nine complaints of potential gastrointestinal and bone development issues.",
+  "img": [
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_1_284.jpg?itok=5WJ5KNJU",
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_2_223.jpg?itok=JlTN-YmJ",
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_3_117.jpg?itok=i4PNxuM3",
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_4_82.png?itok=PjXoLLpd"
+  ],
+  "kind": "recall",
+  "lots": {
+   "h": [
+    "Brand",
+    "Product",
+    "UPC",
+    "Size",
+    "Best By Date(s)"
+   ],
+   "r": [
+    [
+     "Shelter's Choice",
+     "Feline Milk Replacer",
+     "817160011032",
+     "1 lb.",
+     "10/31/2026, 4/23/2027, 5/01/2027, 5/20/2027, 6/25/2027, 2/05/2028, 3/12/2028"
+    ],
+    [
+     "Shelter's Choice",
+     "Feline Milk Replacer",
+     "817160011049",
+     "3.5 lb.",
+     "10/31/2026, 5/20/2027, 6/25/2027, 8/06/2027"
+    ],
+    [
+     "Shelter's Choice",
+     "Feline Milk Replacer",
+     "817160011063",
+     "8 lb.",
+     "9/09/2026, 10/31/2026, 5/20/2027, 6/25/2027, 8/06/2027, 3/12/2028"
+    ],
+    [
+     "Breeder's Edge",
+     "Foster Care Feline Milk Replacer",
+     "817160010196",
+     "12 oz",
+     "9/09/2026, 4/16/2027, 4/18/2027, 6/25/2027 8/06/2027, 3/12/2028"
+    ],
+    [
+     "Breeder's Edge",
+     "Foster Care Feline Milk Replacer",
+     "817160011278",
+     "18 lb.",
+     "9/09/2026, 4/23/2027, 5/01/2027, 5/20/2027, 6/25/2027, 8/06/2027, 11/14/2027, 3/12/2028"
+    ],
+    [
+     "Breeder's Edge",
+     "Foster Care Feline Milk Replacer",
+     "817160010103",
+     "4.5 lb.",
+     "4/18/2027, 5/1/2027"
+    ]
+   ]
+  },
+  "product": "Feline Milk Replacers",
+  "seen": "2026-08-26T12:00:00Z",
+  "sp": [
+   "cat"
+  ],
+  "sum": "Revival Animal Health of Orange City, IA is recalling Breeder’s Edge® and Shelter’s Choice® Feline Milk Replacers due to low, levels of potassium, copper, folic acid, choline and/or pyridoxine (vitamin B6).",
+  "tel": "1-877-870-4059",
+  "title": "Revival Animal Health, LLC Voluntarily Recalls Feline Milk Replacers Due to Inconsistent Levels of Vitamins and Trace Minerals",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/revival-animal-health-llc-voluntarily-recalls-feline-milk-replacers-due-inconsistent-levels-vitamins",
+  "why": "Low levels of potassium, copper, folic acid, choline and/or pyridoxine (vitamin B6)"
+ },
+ {
+  "brand": "Fromm",
+  "co": "Fromm Family Foods LLC",
+  "date": "2026-08-21",
+  "det": true,
+  "hz": "foreign",
+  "id": "70c369d4b1",
+  "ill": "To date, there have been no reports of illness or injury related to the recalled products.",
+  "img": [
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_1_222.png?itok=lKNZVMbA",
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_2_171.png?itok=6rZcms8t"
+  ],
+  "kind": "recall",
+  "lots": {
+   "h": [
+    "Product Name",
+    "Net Weight",
+    "UPC",
+    "Lot Code"
+   ],
+   "r": [
+    [
+     "Fromm Turkey Pâté Wet Dog Food",
+     "12.2 oz. per can",
+     "072705118700",
+     "EP2A3306 551006 Best By 032029"
+    ],
+    [
+     "Fromm Diner Classics Milo's Meatloaf Pâté Wet Dog Food",
+     "12.5 oz. per can",
+     "072705132324",
+     "EP2A3306 551029 Best By 032029"
+    ]
+   ]
+  },
+  "product": "Fromm wet canned dog food",
+  "seen": "2026-08-21T12:00:00Z",
+  "sp": [
+   "dog"
+  ],
+  "sum": "August 21, 2026, FROMM FAMILY FOODS of MEQUON, Wisconsin is recalling 3,852 cases of Fromm Turkey Pâté Wet canned dog food and 1,973 cases of Fromm Diner Classics Milo's Meatloaf Pâté Wet canned dog food due to potential metal contamination.",
+  "tel": "1-800-325-6331",
+  "title": "Fromm Family Foods Voluntarily Recalls Turkey Pâté Wet Food For Dogs and Diner Classic Milo’s Meatloaf Pâté Wet Food For Dogs Due to Potential Metal Contamination",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fromm-family-foods-voluntarily-recalls-turkey-pate-wet-food-dogs-and-diner-classic-milos-meatloaf",
+  "why": "Potential metal contamination"
+ },
+ {
+  "brand": "Oma’s Pride",
+  "co": "Miller Foods, Inc.",
+  "date": "2026-08-17",
+  "det": true,
+  "hz": "bacteria",
+  "id": "3cbc14ba4e",
+  "ill": "“The firm updated the press release on August 17, to clarify that the illnesses occurred only in dogs; NO humans illnesses have been reported to date.”",
+  "kind": "recall",
+  "product": "Canine Food",
+  "seen": "2026-08-17T12:00:00Z",
+  "sp": [
+   "dog"
+  ],
+  "sum": "Oma's Pride of Avon, Connecticut, is voluntarily recalling one lot of Woof Complete Canine Chicken Recipe, 6 lb bag (Lot BB012729) because it is contaminated with Salmonella.",
+  "title": "UPDATED: Oma's Pride Voluntarily Recalls One Lot of Woof Complete Canine Chicken Recipe (6 Lb Bag) Because of Possible Salmonella Health Risk",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/updated-omas-pride-voluntarily-recalls-one-lot-woof-complete-canine-chicken-recipe-6-lb-bag-because",
+  "why": "Contaminated with Salmonella"
+ },
+ {
+  "brand": "American Regent, Inc. Animal Health",
+  "co": "American Regent, Inc. Animal Health",
+  "date": "2026-08-03",
+  "det": true,
+  "hz": "foreign",
+  "id": "af8cd28938",
+  "img": [
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_1_202.png?itok=DpsE0RdU",
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_2_155.png?itok=LWxaD6bJ"
+  ],
+  "kind": "recall",
+  "lots": {
+   "h": [
+    "Product Description",
+    "NADA",
+    "Lot #",
+    "Distribution Date",
+    "Expiration Date"
+   ],
+   "r": [
+    [
+     "Adequan Canine Injection, 100mg/1 mL 5 mL multi-dose vial",
+     "141-038",
+     "3369",
+     "05/22/2024",
+     "10/31/2026"
+    ],
+    [
+     "Adequan Canine Injection, 100mg/1 mL 5 mL multi-dose vial",
+     "141-038",
+     "25011",
+     "04/14/2025",
+     "12/31/2027"
+    ],
+    [
+     "Adequan i.m. Injection 500mg/5 mL 5 mL multi-dose vial",
+     "140-901",
+     "24416",
+     "05/08/2025",
+     "11/30/2027"
+    ],
+    [
+     "Adequan i.m. Injection 500mg/5 mL 5 mL multi-dose vial",
+     "140-901",
+     "25265P",
+     "01/22/2026",
+     "03/31/2027"
+    ]
+   ]
+  },
+  "product": "Adequan Canine Injection and Adequan i.m Injection for horses",
+  "seen": "2026-08-03T12:00:00Z",
+  "sp": [
+   "dog"
+  ],
+  "sum": "FOR IMMEDIATE RELEASE – July 31, 2026 – Shirley, NY, American Regent, Inc. Animal Health is conducting a nationwide recall of two lots (25011 and 3369) of Adequan® Canine Injection (for dogs), 100 mg/mL 5mL multi-dose vials and two lots (24416 and 25265P) of Adequan® i.m. Injection (for horses), 500",
+  "title": "American Regent, Inc. Animal Health Issues Nationwide Recall of Two Lots of Adequan® Canine and Two Lots of Adequan® I.M. Due to Visible Glass Fiber Material in the Product",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/american-regent-inc-animal-health-issues-nationwide-recall-two-lots-adequanr-canine-and-two-lots",
+  "why": "Visible glass fiber material in the product",
+  "x": "drug"
+ },
+ {
+  "brand": "Pedigree",
+  "co": "Mars Petcare US, Inc.",
+  "date": "2026-07-02",
+  "det": true,
+  "hz": "foreign",
+  "id": "bc6801c639",
+  "ill": "We have received no related reports of pet illness or injury to date.",
+  "img": [
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_1_193.png?itok=Hx1E1agE",
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_2_148.png?itok=Oi_cG4I5"
+  ],
+  "kind": "recall",
+  "product": "High Protein Chopped Chicken & Duck Flavor Wet Dog Food",
+  "seen": "2026-07-02T12:00:00Z",
+  "sp": [
+   "dog"
+  ],
+  "sum": "FRANKLIN, Tenn., (July 2, 2026): Mars Petcare US, Inc. is issuing a voluntary recall for two lots of PEDIGREE® Can High Protein Chopped Chicken & Duck Flavor 13.2oz for dogs.",
+  "tel": "1-800-525-5273",
+  "title": "Voluntary Recall of Two Lots of PEDIGREE® Can High Protein Chopped Chicken & Duck Flavor Wet Dog Food Due to Potential Fraudulent Distribution of Product Which May Contain Foreign Material",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntary-recall-two-lots-pedigreer-can-high-protein-chopped-chicken-duck-flavor-wet-dog-food-due",
+  "why": "Potential foreign plastic contamination"
+ },
+ {
+  "brand": "Breeder’s Edge, Shelter’s Choice",
+  "co": "Revival Animal Health",
+  "date": "2026-06-25",
+  "det": true,
+  "hz": "nutrient",
+  "id": "12946e61f5",
+  "img": [
+   "https://www.fda.gov/files/styles/recall_image_small/public/rev_image_1_10.png?itok=f8Edl1MK",
+   "https://www.fda.gov/files/styles/recall_image_small/public/rev_image_2_4.png?itok=bE5g7Ws0",
+   "https://www.fda.gov/files/styles/recall_image_small/public/rev_image_3_1.png?itok=nHQZ42F7",
+   "https://www.fda.gov/files/styles/recall_image_small/public/rev_image_4_0.png?itok=ZvRb5q9L"
+  ],
+  "kind": "recall",
+  "lots": {
+   "h": [
+    "Product Name",
+    "Net Weight",
+    "UPC",
+    "Best by Range"
+   ],
+   "r": [
+    [
+     "Breeder's Edge Foster Care GM Milk Replacer",
+     "1 lb.",
+     "817160010080",
+     "01/08/2028, 06/25/2027"
+    ],
+    [
+     "Breeder's Edge Foster Care GM Milk Replacer",
+     "5 lb.",
+     "817160010097",
+     "01/08/2028, 06/25/2027"
+    ],
+    [
+     "Shelter's Choice Canine Milk Replacer",
+     "1 lb.",
+     "817160011087",
+     "6/19/2026, 9/9/2026, 1/16/2027, 11/14/2027"
+    ],
+    [
+     "Shelter's Choice Canine Milk Replacer",
+     "3.5 lb.",
+     "817160011070",
+     "6/19/2026, 10/31/2026, 11/14/2027, 1/20/2028"
+    ],
+    [
+     "Shelter's Choice Canine Milk Replacer",
+     "8 lb.",
+     "817160011056",
+     "6/19/2026, 9/9/2026, 11/14/2027, 1/20/2028"
+    ],
+    [
+     "Breeder's Edge Foster Care Canine Milk Replacer",
+     "12 oz",
+     "817160010189",
+     "7/11/2026, 8/15/2026, 9/9/2026, 4/3/2027, 5/1/2027, 2/5/2028,"
+    ],
+    [
+     "Breeder's Edge Foster Care Canine Milk Replacer",
+     "18 lb.",
+     "817160011025",
+     "7/11/2026, 9/9/2026, 1/16/2027, 4/3/2027, 4/29/2027, 11/14/2027, 1/20/2028"
+    ],
+    [
+     "Breeder's Edge Foster Care Canine Milk Replacer",
+     "20 lb.",
+     "817160010172",
+     "6/19/2026"
+    ],
+    [
+     "Breeder's Edge Foster Care Canine Milk Replacer",
+     "4.5 lb.",
+     "817160010073",
+     "5/22/2026, 9/9/2026, 10/31/2026, 3/7/2027, 4/29/2027, 11/14/2027, 2/5/2028"
+    ]
+   ]
+  },
+  "product": "Canine milk replacer",
+  "seen": "2026-06-25T12:00:00Z",
+  "sp": [
+   "dog"
+  ],
+  "sum": "Revival Animal Health of Orange City, IA is recalling Breeder’s Edge® Foster Care® Canine, Shelter’s Choice® Canine Milk Replacers, and is expanding the current recall to include the Breeder’s Edge® Foster Care® GM (goat milk) products due to variable levels of Vitamin D resulting in either low or e",
+  "tel": "1-877-870-4059",
+  "title": "Revival Animal Health, LLC Voluntarily Recalls Canine and GM Milk Replacers Due to Low or Elevated Levels of Vitamin D",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/revival-animal-health-llc-voluntarily-recalls-canine-and-gm-milk-replacers-due-low-or-elevated",
+  "why": "Variable levels of Vitamin D"
+ },
+ {
+  "brand": "Steve’s Real Food",
+  "co": "Go Raw, LLC.",
+  "date": "2026-06-08",
+  "det": true,
+  "hz": "nutrient",
+  "id": "38812be27c",
+  "img": [
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_5_46.png?itok=Qv_S_Dox",
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_6_34.png?itok=mOkng9mp"
+  ],
+  "kind": "recall",
+  "lots": {
+   "h": [
+    "Product",
+    "Size",
+    "Lot Code",
+    "UPC",
+    "Best Buy Date"
+   ],
+   "r": [
+    [
+     "Quest Cat Food Chicken Recipe Freeze Dried Nuggets",
+     "10 oz. Bag",
+     "C25288",
+     "6-91730-18103- 1",
+     "10/15/2027"
+    ],
+    [
+     "Quest Cat Food Chicken Recipe Frozen Diet",
+     "2 lb. Bag",
+     "MCD25350",
+     "6-91730-17104- 9",
+     "6/16/2027"
+    ],
+    [
+     "Quest Cat Food Chicken Recipe Frozen Diet",
+     "12 lb. Bag",
+     "MCC25321",
+     "6-91730-17104-9",
+     "5/17/2027"
+    ]
+   ]
+  },
+  "product": "Freeze Dried Chicken Recipe Cat and Dog Food",
+  "seen": "2026-06-08T12:00:00Z",
+  "sp": [
+   "dog",
+   "cat"
+  ],
+  "sum": "Cottonwood Heights, Utah (June 8, 2026) Go Raw LLC is expanding its February 17, 2026 recall to include an additional lot of Freeze-Dried Chicken Recipe product due to potentially low levels of thiamine (Vitamin B1).",
+  "tel": "801-432-7478",
+  "title": "GO Raw LLC. Expands Voluntary Recall to Include One Lot of Steve’s Real Food Freeze-Dried Chicken Recipe Due to Low Thiamine (Vitamin B1) Levels",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/go-raw-llc-expands-voluntary-recall-include-one-lot-steves-real-food-freeze-dried-chicken-recipe-due",
+  "why": "May contain low levels of thiamine (Vitamin B1)"
+ },
+ {
+  "brand": "Raaw Energy",
+  "co": "Raaw Energy",
+  "date": "2026-05-22",
+  "det": true,
+  "hz": "bacteria",
+  "id": "7238a1a6de",
+  "kind": "recall",
+  "lots": {
+   "h": [
+    "Product",
+    "Sizes",
+    "Date Codes"
+   ],
+   "r": [
+    [
+     "4411 (Beef, Tripe, Duck Necks, and Chicken)",
+     "5-lb tubes",
+     "9.9.2025, 9.23.2025, 10.14.2025, 10.15.2025"
+    ],
+    [
+     "4411(Beef, Tripe, Duck Necks, and Chicken)",
+     "2-lb tubes",
+     "9.9.2025, 9.23.2025, 10.15.2025"
+    ],
+    [
+     "60/30/10 Chicken Medley",
+     "5-lb tubes",
+     "10.10.2025"
+    ],
+    [
+     "60/30/10 Chicken Medley",
+     "2-lb tubes",
+     "7.29.2025, 8.6.2025, 8.7.2025"
+    ],
+    [
+     "60/30/10 Turkey Medley",
+     "5-lb tubes",
+     "7.24.2025, 7.29.2025"
+    ],
+    [
+     "60/30/10 Turkey Medley",
+     "2-lb tubes",
+     "7.24.2025, 7.29.2025"
+    ],
+    [
+     "70/30/Beef Heart",
+     "5-lb tubes",
+     "8.19.2025"
+    ],
+    [
+     "70/30/Beef Heart",
+     "2-lb tubes",
+     "8.19.2025, 8.20.2025"
+    ],
+    [
+     "American Bully",
+     "5-lb tubes",
+     "10.21.2025, 11.7.2025"
+    ],
+    [
+     "American Bully",
+     "2-lb tubes",
+     "10.21.2025, 10.22.2025"
+    ],
+    [
+     "*Beef and Chicken",
+     "5-lb tubes",
+     "7.30.2025, 8.12.2025, 8.13.2025, 8.15.2025, 8.28.2025, 8.29.2025, 9.2.2025, 9.5.2025, 9.16.2025, 9.17.2025, 9.24.2025, 1"
+    ],
+    [
+     "Beef and Chicken",
+     "2-lb tubes",
+     "7.30.2025, 8.8.2025, 8.13.2025, 8.15.2025, 8.27.2025, 8.28.2025, 8.29.2025, 9.2.2025, 9.5.2025, 9.17.2025, 10.8.2025, 10"
+    ],
+    [
+     "*Beef and Chicken Tripe Medley",
+     "5-lb tubes",
+     "7.30.2025, 8.13.2025, 8.14.2025, 8.15.2025, 9.17.2025, 9.18.2025, 10.8.2025, 10.9.2025, 10.14.2025, 10.29.2025, 11.18.20"
+    ],
+    [
+     "Beef and Chicken Tripe Medley",
+     "2-lb tubes",
+     "7.30.2025, 7.31.2025, 8.5.2025, 8.6.2025, 8.15.2025, 9.18.2025, 10.9.2025, 10.11.2025, 11.5.2025, 11.19.2025"
+    ],
+    [
+     "Beef and Pork",
+     "5-lb tubes",
+     "7.17.2025"
+    ],
+    [
+     "Beef and Pork",
+     "2-lb tubes",
+     "7.17.2025, 10.31.2025, 11.1.2025"
+    ],
+    [
+     "Beef and Salmon",
+     "5-ln tubes",
+     "7.18.2025, 7.26.2025, 8.1.2025, 8.13.2025, 9.5.2025, 9.19.2025, 9.20.2025, 10.25.2025, 10.31.2025, 11.4.2025, 11.5.2025,"
+    ],
+    [
+     "Beef and Salmon",
+     "2-lb tubes",
+     "7.18.2025, 7.26.2025, 8.13.2025, 8.15.2025, 8.29.2025, 9.2.2025, 9.5.2025, 9.6.2025, 9.12.2025, 9.18.2025, 9.19.2025, 9."
+    ],
+    [
+     "*Beef and Turkey Medley",
+     "5-lb tubes",
+     "7.24.2025, 7.25.2025, 10.22.2025, 12.17.2025, 12.19.2025, 12.23.2025 3.31.26"
+    ],
+    [
+     "*Beef and Turkey Medley",
+     "2-l5-b b tubes",
+     "7.25.2025, 7.26.2025, 12.18.2025, 12.23.2025"
+    ],
+    [
+     "Beef Liver and Kidney",
+     "2-lb tubes",
+     "9.13.2025"
+    ],
+    [
+     "Beefturducken",
+     "5-lb tubes",
+     "11.25.2025"
+    ],
+    [
+     "Beefturducken",
+     "2-lb tubes",
+     "7.29.2025, 11.25.2025"
+    ],
+    [
+     "Chicken Hearts",
+     "2-lb tubes",
+     "11.7.2025"
+    ],
+    [
+     "*Chicken Medley",
+     "5-lb tubes",
+     "7.17.2025, 7.24.2025, 9.10.2025, 9.11.2025, 10.10.2025, 11.14.2025, 11.15.2025, 11.18.2025, 11.25.2025, 12.5.2025, 12.19"
+    ],
+    [
+     "*Chicken Medley",
+     "2-lb tubes",
+     "7.17.2025 , 7.23.2025, 8.5.2025, 8.7.2025, 8.26.2025, 9.26.2025,10.11.2025, 10.15.2025, 10.16.2025, 10.25.2025, 11.22.20"
+    ],
+    [
+     "Chips Agility",
+     "2-lb tubes",
+     "9.23.2025, 11.1.2025, 11.7.2025, 11.8.2025"
+    ],
+    [
+     "Chips Beef",
+     "5-lb tubes",
+     "7.22.2025"
+    ],
+    [
+     "Chips Beef",
+     "2-lb tubes",
+     "7.22.2025"
+    ],
+    [
+     "Country Soul",
+     "2-lb tubes",
+     "9.4.2025, 9.5.2025"
+    ],
+    [
+     "Dog's Best Friend",
+     "5-lb tubes",
+     "11.13.2025, 11.14.2025"
+    ],
+    [
+     "Dog's Best Friend",
+     "2-lb tubes",
+     "7.29.2025, 9.3.2025, 11.13.2025, 11.14.2025"
+    ],
+    [
+     "Duck",
+     "5-lb tubes",
+     "9.11.2025, 9.12.2025"
+    ],
+    [
+     "Duck",
+     "2-lb tubes",
+     "9.12.2025"
+    ],
+    [
+     "Green Tripe",
+     "5-lb tubes",
+     "11.5.2025"
+    ],
+    [
+     "Green Tripe",
+     "2-lb tubes",
+     "10.17.2025, 10.18.2025, 11.1.2025"
+    ],
+    [
+     "Heart Chunks",
+     "2-lb tubes",
+     "7.19.2025"
+    ],
+    [
+     "Heart Corazon",
+     "5-lb tubes",
+     "10.14.2025"
+    ],
+    [
+     "Heart Corazon",
+     "2-lb tubes",
+     "8.9.2025"
+    ],
+    [
+     "Hybrid Beef and Chicken",
+     "2-lb tubes",
+     "10.17.2025"
+    ],
+    [
+     "Hybrid Dog's Best Friend",
+     "2-lb tubes",
+     "7.29.2025"
+    ],
+    [
+     "Italian",
+     "5-lb tubes",
+     "10.14.2025"
+    ],
+    [
+     "Italian",
+     "2-lb tubes",
+     "8.7.2025, 8.8.2025"
+    ],
+    [
+     "Kidney and Liver",
+     "2-lb tubes",
+     "10.18.2025"
+    ],
+    [
+     "Lamb Beef and Chicken",
+     "5-lb tubes",
+     "12.2.2025"
+    ],
+    [
+     "Natural Remedies",
+     "2-lb tubes",
+     "9.4.2025, 9.9.2025"
+    ],
+    [
+     "Pork",
+     "5-lb tubes",
+     "8.1.2025, 11.1.2025, 12.13.2025"
+    ],
+    [
+     "Pork",
+     "2-lb tubes",
+     "10.14.2025, 11.1, 2025, 12.13.2025"
+    ],
+    [
+     "R Chicken",
+     "5-lb tubes",
+     "11.5.2025"
+    ],
+    [
+     "R Chicken",
+     "2-lb tubes",
+     "11.5.2025"
+    ],
+    [
+     "R Chicken with Pork",
+     "5-lb tubes",
+     "11.4.2025, 12.10.2025"
+    ],
+    [
+     "R Chicken with Pork",
+     "2-lb tubes",
+     "11.4.2025, 12.10.2025"
+    ],
+    [
+     "*Salmon",
+     "5-lb tubes",
+     "7.31.2025, 9.10.2025, 10.24.2025, 10.25.2025, 10.29.2025, 11.14.2025, 12.5.2025, 12.12.25, 12.20.2025"
+    ],
+    [
+     "Salmon",
+     "2-lb tubes",
+     "7.23.2025, 7.31.2025, 8.8.2025, 9.10.2025, 10.29.2025, 11.14.2025, 11.22.2025, 12.5.2025, 12.20.2025"
+    ],
+    [
+     "Terrestrial",
+     "5-lb tubes",
+     "10.7.2025"
+    ],
+    [
+     "Terrestrial",
+     "2-lb tubes",
+     "10.7.2025"
+    ],
+    [
+     "Turkey Chicken",
+     "5-lb tubes",
+     "9.25.2025, 10.24.2025, 12.19.2025, 12.20.2025"
+    ],
+    [
+     "Turkey Chicken",
+     "2-lb tubes",
+     "9.25.2025, 12.20.2025"
+    ],
+    [
+     "Turkey Medley",
+     "5-lb tubes",
+     "9.24.2025, 9.25.2025"
+    ],
+    [
+     "Turkey Medley",
+     "2-lb tubes",
+     "9.25.2025, 9.26.2025, 10.23.2025, 10.24.2025, 11.13.2025"
+    ],
+    [
+     "White Meat Turkey Breast",
+     "2-lb tubes",
+     "9.3.2025, 11.13.2025"
+    ],
+    [
+     "Whole Chicken",
+     "5-lb tubes",
+     "9.5.2025, 9.6.2025"
+    ],
+    [
+     "Whole Chicken",
+     "2-lb tubes",
+     "9.5.2025, 9.6.2025"
+    ]
+   ]
+  },
+  "product": "Dog Food",
+  "seen": "2026-05-22T12:00:00Z",
+  "sp": [
+   "dog"
+  ],
+  "sum": "Raaw Energy is voluntarily notifying the public of a recall involving products produced between 7/17/25 and 12/23/25 due to possible Listeria contamination. Another batch date is 3.31.26 Beef and Turkey Medley. While not all products from this period tested positive, this action is being taken out",
+  "tel": "732-414-1446",
+  "title": "Raaw Energy Expands Recall of Dog Food Because of Listeria Monocytogenes Health Risk",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/raaw-energy-expands-recall-dog-food-because-listeria-monocytogenes-health-risk",
+  "why": "Due to possible Listeria contamination"
+ },
+ {
+  "brand": "Albright’s",
+  "co": "Albright’s Raw Pet Food",
+  "date": "2026-05-07",
+  "det": true,
+  "hz": "bacteria",
+  "id": "093778481b",
+  "ill": "No illnesses associated with these lots have been confirmed or reported.",
+  "img": [
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_1_171.png?itok=Q_f632qv"
+  ],
+  "kind": "recall",
+  "lots": {
+   "h": [
+    "PRODUCT NAME/UPC",
+    "SIZE",
+    "Best Buy / Expiration",
+    "Lot Code"
+   ],
+   "r": [
+    [
+     "Albright's Raw Pet Food – Chicken Recipe for Dogs Compete and Balanced formula / 20855404008367",
+     "1lb pouch (30lb case)",
+     "28-Apr-27",
+     "C001730"
+    ]
+   ]
+  },
+  "product": "Chicken Recipe for Dogs",
+  "seen": "2026-05-07T12:00:00Z",
+  "sp": [
+   "dog"
+  ],
+  "sum": "Albright’s Raw Pet Food of Fort Wayne, Indiana out of an abundance of caution is voluntarily recalling one lot of its Chicken Recipe for Dogs Complete and Balanced because this lot has the potential to be contaminated with Salmonella.",
+  "tel": "866 729-4738",
+  "title": "Albright’s Raw Pet Food Announces Voluntary Recall of Select Chicken Recipe for Dogs Complete and Balanced, 1 lb Bricks (Lot #C001730)",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/albrights-raw-pet-food-announces-voluntary-recall-select-chicken-recipe-dogs-complete-and-balanced-1",
+  "why": "Potential to be contaminated with Salmonella"
+ },
+ {
+  "brand": "Breeder’s Edge, Shelter’s Choice",
+  "co": "Revival Animal Health",
+  "date": "2026-04-17",
+  "det": true,
+  "hz": "nutrient",
+  "id": "e68a72c3e7",
+  "img": [
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_1_244.jpg?itok=X0Xq5LMt",
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_2_191.jpg?itok=f3ryijzK",
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_3_102.jpg?itok=csYHWb1K"
+  ],
+  "kind": "recall",
+  "lots": {
+   "h": [
+    "Product Name",
+    "Net Weight",
+    "UPC",
+    "Best by Range"
+   ],
+   "r": [
+    [
+     "Shelter's Choice Canine Milk Replacer",
+     "1 lb.",
+     "817160011087",
+     "6/19/2026, 9/9/2026, 1/16/2027, 11/14/2027"
+    ],
+    [
+     "Shelter's Choice Canine Milk Replacer",
+     "3.5 lb.",
+     "817160011070",
+     "6/19/2026, 10/31/2026, 11/14/2027, 1/20/2028"
+    ],
+    [
+     "Shelter's Choice Canine Milk Replacer",
+     "8 lb.",
+     "817160011056",
+     "6/19/2026, 9/9/2026, 11/14/2027, 1/20/2028"
+    ],
+    [
+     "Breeder's Edge Foster Care Canine Milk Replacer",
+     "12 oz",
+     "817160010189",
+     "7/11/2026, 8/15/2026, 9/9/2026, 4/3/2027, 5/1/2027, 2/5/2028,"
+    ],
+    [
+     "Breeder's Edge Foster Care Canine Milk Replacer",
+     "18 lb.",
+     "817160011025",
+     "7/11/2026, 9/9/2026, 1/16/2027, 4/3/2027, 4/29/2027, 11/14/2027, 1/20/2028"
+    ],
+    [
+     "Breeder's Edge Foster Care Canine Milk Replacer",
+     "20 lb.",
+     "817160010172",
+     "6/19/2026"
+    ],
+    [
+     "Breeder's Edge Foster Care Canine Milk Replacer",
+     "4.5 lb.",
+     "817160010073",
+     "5/22/2026, 9/9/2026, 10/31/2026, 3/7/2027, 4/29/2027, 11/14/2027, 2/5/2028"
+    ]
+   ]
+  },
+  "product": "Canine milk replacer",
+  "seen": "2026-04-17T12:00:00Z",
+  "sp": [
+   "dog"
+  ],
+  "sum": "Revival Animal Health of Orange City, IA is recalling Breeder’s Edge® Foster Care® Canine and Shelter’s Choice® Canine Milk Replacers due to variable levels of Vitamin D resulting in both low and elevated levels in some of the canine milk replacers.",
+  "tel": "1-877-870-4059",
+  "title": "Revival Animal Health, LLC Voluntarily Recalls Canine Milk Replacers Due to Elevated Levels of Vitamin D",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/revival-animal-health-llc-voluntarily-recalls-canine-milk-replacers-due-elevated-levels-vitamin-d",
+  "why": "Variable levels of Vitamin D"
+ },
+ {
+  "brand": "Quest",
+  "co": "Go Raw LLC.",
+  "date": "2026-02-26",
+  "det": true,
+  "hz": "nutrient",
+  "id": "68f18e73a9",
+  "img": [
+   "https://www.fda.gov/files/styles/recall_image_small/public/11_1.png?itok=lJ27Bkog",
+   "https://www.fda.gov/files/styles/recall_image_small/public/22_0.png?itok=K7rFiV_G"
+  ],
+  "kind": "recall",
+  "lots": {
+   "h": [
+    "Product",
+    "Size",
+    "Lot Code",
+    "UPC",
+    "Best Buy Date"
+   ],
+   "r": [
+    [
+     "Quest Cat Food Chicken Recipe Frozen Diet",
+     "2 lb. Bag",
+     "MCD25350",
+     "6-91730-17104-9",
+     "6/16/2027"
+    ],
+    [
+     "Quest Cat Food Chicken Recipe Frozen Diet",
+     "2 lb. Bag",
+     "MCC25321",
+     "6-91730-17104-9",
+     "5/17/2027"
+    ]
+   ]
+  },
+  "product": "Cat Food Chicken Recipe Frozen",
+  "seen": "2026-02-26T12:00:00Z",
+  "sp": [
+   "cat"
+  ],
+  "sum": "Cottonwood Heights, Utah (February 26, 2026) Go Raw LLC is expanding its February 17, 2026, voluntary recall of a freeze-dried product to add two lots of select Quest Cat Food Chicken Recipe frozen products due to potentially low levels of thiamine (Vitamin B1). The two lots of Quest Cat Food Chick",
+  "tel": "(801) 432-7478",
+  "title": "GO Raw LLC. Expands Voluntary Recall of Quest Diet Cat Food Products Due to Low Thiamine Levels and Enacts Stop Sale of All Quest Products",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/go-raw-llc-expands-voluntary-recall-quest-diet-cat-food-products-due-low-thiamine-levels-and-enacts",
+  "why": "May contain low levels of thiamine (Vitamin B1)"
+ },
+ {
+  "brand": "Elite Treats",
+  "co": "Elite Treats, LLC.",
+  "date": "2026-02-24",
+  "det": true,
+  "done": true,
+  "hz": "bacteria",
+  "id": "a113e03859",
+  "ill": "No illnesses have been reported to date in connection with this problem.",
+  "img": [
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_2_123.png?itok=R8TgraC2",
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_1_161.png?itok=3LOxS3rU"
+  ],
+  "kind": "recall",
+  "product": "Chicken dog treats",
+  "seen": "2026-02-24T12:00:00Z",
+  "sp": [
+   "dog"
+  ],
+  "sum": "February 24, 2026-Elite Treats, LLC. of Boca Raton, FL, is recalling a single lot of \"Elite Treats Chicken Chips for Dogs\" 6-ounce bags because it may be contaminated with Salmonella. The product is packaged in a 6-ounce black and gold bag marked on the back side with lot number 24045 and an expirat",
+  "tel": "561-901-5310",
+  "title": "Elite Treats LLC Recalls Single Lot of Chicken Chips Due to Salmonella Contamination",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/elite-treats-llc-recalls-single-lot-chicken-chips-due-salmonella-contamination",
+  "why": "May be contaminated with Salmonella"
+ },
+ {
+  "brand": "Quest",
+  "co": "Go Raw LLC",
+  "date": "2026-02-17",
+  "det": true,
+  "hz": "nutrient",
+  "id": "39b6cf45a3",
+  "ill": "To date, the company has received one confirmed report of illness associated with the recalled product.",
+  "img": [
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_1_159.png?itok=x9daqP7I",
+   "https://www.fda.gov/files/styles/recall_image_small/public/updated_back_panel.png?itok=f9TFp8u6"
+  ],
+  "kind": "recall",
+  "lots": {
+   "h": [
+    "Product",
+    "Size",
+    "Lot Code",
+    "UPC",
+    "Best Buy Date"
+   ],
+   "r": [
+    [
+     "Quest Cat Food Chicken Recipe Freeze Dried Nugget",
+     "10 oz. Bag",
+     "C25288",
+     "6-91730-18103-1",
+     "10/15/2027"
+    ]
+   ]
+  },
+  "product": "Quest Cat Food Chicken Recipe Freeze Dried Nuggets, 10oz bag",
+  "seen": "2026-02-17T12:00:00Z",
+  "sp": [
+   "cat"
+  ],
+  "sum": "Go Raw LLC is voluntarily recalling a single lot of Quest Cat Food Chicken Recipe Freeze Dried Nuggets, 10oz bag, lot code #C25288, Best Buy Date 10/15/2027, because it may contain low levels of thiamine (Vitamin B1).",
+  "tel": "801-432-7478",
+  "title": "Go Raw, LLC. Issues Voluntary Recall of a Single Lot of Quest Cat Food Chicken Recipe Freeze Dried Nuggets Due to Low Levels of Thiamine (Vitamin B1)",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/go-raw-llc-issues-voluntary-recall-single-lot-quest-cat-food-chicken-recipe-freeze-dried-nuggets-due",
+  "why": "May contain low levels of thiamine (Vitamin B1)"
+ },
+ {
+  "brand": "Neogen",
+  "co": "Neogen Corporation",
+  "date": "2026-01-29",
+  "det": true,
+  "hz": "bacteria",
+  "id": "a8e87946d3",
+  "kind": "recall",
+  "product": "Vet HYCOAT® Hyaluronate Sodium Sterile Solution",
+  "seen": "2026-01-29T12:00:00Z",
+  "sp": [
+   "dog",
+   "cat"
+  ],
+  "sum": "LANSING, Mich. – (BUSINESS WIRE) – Neogen Corporation (NASDAQ: NEOG) is voluntarily recalling all lots within expiry of Neogen®Vet HYCOAT® Hyaluronate Sodium Sterile Solution, for use in dogs, cats, and horses, to the veterinarian level. Neogen distributes this product, which is manufactured by a th",
+  "tel": "(859) 254-1221",
+  "title": "Neogen Issues Voluntary Nationwide Recall of Neogen®Vet HYCOAT® Hyaluronate Sodium Sterile Solution",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/neogen-issues-voluntary-nationwide-recall-neogenrvet-hycoatr-hyaluronate-sodium-sterile-solution",
+  "why": "Microbial Contamination",
+  "x": "drug"
+ },
+ {
+  "brand": "Multiple brand names",
+  "co": "Gold Star Distribution, Inc.",
+  "date": "2025-12-26",
+  "det": true,
+  "hz": "bacteria",
+  "id": "71eacef426",
+  "ill": "No illnesses have been reported to date.",
+  "kind": "recall",
+  "lots": {
+   "h": [
+    "Company",
+    "Address",
+    "City"
+   ],
+   "r": [
+    [
+     "AFRICAN HALAL DELI, INC",
+     "301 E. LAKE ST.",
+     "MINNEAPOLIS"
+    ],
+    [
+     "AFRIK STORE",
+     "613 CEDAR AVE S.",
+     "MINNEAPOLIS"
+    ],
+    [
+     "AIMMART INTERNATIONAL MARKET",
+     "1435 W. 86TH ST.",
+     "Indianapolis"
+    ],
+    [
+     "AINU SHAMS HALAL FOOD LLC.",
+     "200 W LAKE ST. ST 351",
+     "Minneapolis"
+    ],
+    [
+     "ASHAMA GROCERY",
+     "804 UNIVERSITY AVE W",
+     "ST. PAUL"
+    ],
+    [
+     "BARAKA GROCERY INC",
+     "1005 N BROADWAY AVE",
+     "ROCHESTER"
+    ],
+    [
+     "BROTHERS IMPORTS",
+     "3012 PILLSBURY AVE SO",
+     "MINNEAPOLIS"
+    ],
+    [
+     "CASPIAN BISTRO RESTAURANT",
+     "2418 UNIVERSITY AVE SE",
+     "MINNEAPOLIS"
+    ],
+    [
+     "CENTRAL MARKET",
+     "3634 CENTRAL AVE NE",
+     "MINNEAOLIS"
+    ],
+    [
+     "CLIFF HALAL MARKET",
+     "1918 E CLIFF RD",
+     "Burnsville"
+    ],
+    [
+     "CLINTON HALAL MARKET",
+     "1930 CLINTON AVE S",
+     "MINNEAPOLIS"
+    ],
+    [
+     "DESI BROTHERS",
+     "8098 MORGAN CIR. SOUTH",
+     "Bloomington"
+    ],
+    [
+     "DURDUR MARKET",
+     "1552 EAST LAKE STR.",
+     "MINNEAPOLIS"
+    ],
+    [
+     "ELLIOT MARKET INC",
+     "1600 CHICAGO AVE",
+     "MINNEAPOLIS"
+    ],
+    [
+     "EP MART INC",
+     "8795 COLUMINE RD",
+     "Eden Prairie"
+    ],
+    [
+     "ETHIO MARKET",
+     "1316 MAYNARD DRIVE WEST",
+     "Saint Paul"
+    ],
+    [
+     "EZ STOP FOOD MARKET",
+     "7641 ZANE AVE",
+     "Brooklyn PARK"
+    ],
+    [
+     "FARGO HALAL MARKET",
+     "855 45TH STREET S.",
+     "Fargo"
+    ],
+    [
+     "FRIENDLY GROCERY & DELI",
+     "537 RICE ST Saint Paul",
+     "Saint Paul"
+    ],
+    [
+     "GHALEY GROCERIES MART",
+     "47 Little Canada Rd E",
+     "Saint Paul"
+    ],
+    [
+     "GOINKH TRADING LLC",
+     "1263 DONAHUE AVE",
+     "Saint Paul"
+    ],
+    [
+     "HALAL FOODS LLC.",
+     "13000 ALDRICH AVE SO.",
+     "BURNSVILLE"
+    ],
+    [
+     "HALAL MINI MARKET",
+     "410 CEDAR AVE S",
+     "MINNEAPOLIS"
+    ],
+    [
+     "JERUSALEM MARKET",
+     "4945 CENTRAL N.E",
+     "COLUMBIA HGTS"
+    ],
+    [
+     "JIMMY'S FOOD",
+     "1121 12TH AVE NO.",
+     "MINNEAPOLIS"
+    ],
+    [
+     "KALIS ADULT DAYCARE CENTER",
+     "2301 2ND AVE N.",
+     "MINNEAPOLIS"
+    ],
+    [
+     "KIMIS GROCERY STORE INC",
+     "517 12TH ST. SE",
+     "ROCHESTER"
+    ],
+    [
+     "KISMAYO DISCOUNT STORE",
+     "2932 W DIVISION",
+     "Saint Cloud"
+    ],
+    [
+     "KISMAYO HALAL",
+     "7595 148TH AVE",
+     "Apple Valley"
+    ],
+    [
+     "LA PICANTE MARKET",
+     "7914 BASS LAKE RD",
+     "New Hope"
+    ],
+    [
+     "LAKE STREET MARKET",
+     "201 W LAKE ST.",
+     "MINNEAPOLIS"
+    ],
+    [
+     "MCKNIGHT SHELL GAS",
+     "275 MC KNIGHT RD",
+     "ST.PAUL"
+    ],
+    [
+     "MIDWEST MARKET",
+     "2000 PORTLAND AVE. S",
+     "MINNEAPOLIS"
+    ],
+    [
+     "MILTON HALAL MARKET",
+     "757 MILTON ST N",
+     "Saint Paul"
+    ],
+    [
+     "MINNEAPOLIS HALAL MARKET LLC",
+     "2833 13th AVE SOUTH",
+     "MINNEAPOLIS"
+    ],
+    [
+     "MINNESOTA HALAL MARKET 1926",
+     "CHICAGO AVE. SO",
+     "MINNEAPOLIS"
+    ],
+    [
+     "MZ MARKET",
+     "232 Marshall Road",
+     "SHAKOPEE"
+    ],
+    [
+     "OASIS MARKET AND DELI",
+     "920 E LAKE ST SUITE 145",
+     "Minneapolis"
+    ],
+    [
+     "OSARI TRADING LLC",
+     "7308 ASPEN LN NORTH",
+     "BROOKLYN CENTER"
+    ],
+    [
+     "PALMS MARKET",
+     "105 85TH AVE NW",
+     "COON RAPIDS"
+    ],
+    [
+     "PANGEA WORLD MARKET",
+     "8500 SPRINGBROOK DR.",
+     "COON RAPIDS"
+    ],
+    [
+     "PANJHA BROTHERS LLC",
+     "3535 WEST ST. GERMAIN STR.",
+     "Saint Cloud"
+    ],
+    [
+     "PEACE MARKET",
+     "923 45TH AVE NE",
+     "Hilltop"
+    ],
+    [
+     "QALINLE FAMILY GROCERY",
+     "117 E SAINT GERMAIN ST",
+     "Saint Cloud"
+    ],
+    [
+     "SHABELLE GROCERY",
+     "2325 EAST FRANKLIN",
+     "MINNEAPOLIS"
+    ],
+    [
+     "ST PAUL GROCERY",
+     "470 LEXINGTON AVE.N",
+     "ST.PAUL"
+    ],
+    [
+     "STAR FOODS",
+     "818 LOWRY AVE.",
+     "MINNEAPOLIS"
+    ],
+    [
+     "STAR OCEAN",
+     "1211 W Pierce Butler Route",
+     "Saint Paul"
+    ],
+    [
+     "SUDAMIC IMPORT & EXPORT INC",
+     "2904 2ND NORTH",
+     "MINNEAPOLIS"
+    ],
+    [
+     "SUNRAY HALAL MARKET",
+     "373 PEDERSEN ST.",
+     "Saint Paul"
+    ],
+    [
+     "SUPER PLAZA HALAL FOODS",
+     "1525 S 4TH ST #100",
+     "MINNEAPOLIS"
+    ],
+    [
+     "TBS INTERNATIONAL MKT",
+     "7836 PORTLAND AVE. S",
+     "Bloomington"
+    ],
+    [
+     "VIENGCHAN ORIENTAL MKT",
+     "3050 BROOKDALE DRIVE",
+     "BROOKLYN CENTER"
+    ],
+    [
+     "WEST BANK MKT",
+     "417 CEDAR AVE.S.",
+     "MINNEAPOLIS"
+    ]
+   ]
+  },
+  "product": "All FDA-regulated products held at facility including drugs, medical devices, cosmetics, dietary supplements, human food, and pet food",
+  "seen": "2025-12-26T12:00:00Z",
+  "sp": [
+   "pet"
+  ],
+  "sum": "Gold Star Distribution, Inc. (Gold Star or “the Company”) is recalling all FDA regulated products listed in this press release due to the presence of rodent and avian contamination.",
+  "tel": "612-617-9800",
+  "title": "Gold Star Distribution Inc., Issues Recall of Certain FDA-Regulated Products in Three States Including Drugs, Devices, Cosmetics, Human Foods, and Pet Foods",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gold-star-distribution-inc-issues-recall-certain-fda-regulated-products-three-states-including-drugs",
+  "why": "Potential Salmonella contamination, presence of rodent and avian contamination and insanitary conditions during the storage process.",
+  "x": "drug"
+ },
+ {
+  "brand": "Country Vet, Heartland Harvest",
+  "co": "Consumers Supply Distributing, LLC",
+  "date": "2025-12-24",
+  "det": true,
+  "done": true,
+  "hz": "bacteria",
+  "id": "9674286dd7",
+  "ill": "No illnesses have been reported to date in connection with this problem.",
+  "img": [
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_1_144.png?itok=if61Xd3T",
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_2_107.png?itok=ETn-OlXQ",
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_3_68.png?itok=Blq_ovW3",
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_4_54.png?itok=azwMacIl"
+  ],
+  "kind": "recall",
+  "lots": {
+   "h": [
+    "PRODUCTS",
+    "UPC",
+    "Lot Code",
+    "Size",
+    "Expiration Date"
+   ],
+   "r": [
+    [
+     "Country Vet Biscuits – Original Meaty Flavor",
+     "899623000463",
+     "40906513",
+     "4 lb. bag",
+     "09/06/2026"
+    ],
+    [
+     "Heartland Harvest Dog Biscuits",
+     "840227340691",
+     "40906513",
+     "4 lb. bag",
+     "09/06/2026"
+    ]
+   ]
+  },
+  "product": "Dog Biscuits",
+  "seen": "2025-12-24T12:00:00Z",
+  "sp": [
+   "dog"
+  ],
+  "sum": "Consumers Supply Distributing, LLC of Sioux City, Iowa is recalling 4 lb. bags of Country Vet Biscuits – Original Meaty Flavor and 4 lb. bags of Heartland Harvest Dog Biscuits – Meaty Flavor with Chicken because they have the potential to be contaminated with Salmonella. Salmonella can affect animal",
+  "tel": "(712) 202-5609",
+  "title": "Consumers Supply Distributing, LLC Recalls Country Vet Biscuits for Dogs Due to Possible Salmonella Health Risk",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/consumers-supply-distributing-llc-recalls-country-vet-biscuits-dogs-due-possible-salmonella-health",
+  "why": "Potential to be contaminated with Salmonella"
+ },
+ {
+  "brand": "Nutrena® Country Feeds®",
+  "co": "Cargill Animal Nutrition & Health",
+  "date": "2025-12-10",
+  "det": true,
+  "done": true,
+  "hz": "toxin",
+  "id": "bc4e80e784",
+  "ill": "Cargill has not received any reports of injury or illness related to this product to date.",
+  "img": [
+   "https://www.fda.gov/files/styles/recall_image_small/public/1car.jpeg?itok=DaMaBDZk",
+   "https://www.fda.gov/files/styles/recall_image_small/public/2car.jpeg?itok=Cq-Quhl-"
+  ],
+  "kind": "recall",
+  "lots": {
+   "h": [
+    "Product",
+    "Size",
+    "Lot Code",
+    "Product Code",
+    "UPC",
+    "Species"
+   ],
+   "r": [
+    [
+     "Nutrena® Country Feeds® Cracked Corn",
+     "50 lb. bag",
+     "8152552407RG",
+     "95217",
+     "722304334765",
+     "Livestock"
+    ]
+   ]
+  },
+  "product": "Nutrena® Country Feeds® Cracked Corn for livestock, 50 lb. bag",
+  "seen": "2025-12-10T12:00:00Z",
+  "sp": [],
+  "sum": "MINNEAPOLIS, Minnesota (December 9, 2025) — Cargill Animal Nutrition & Health is conducting a voluntary recall of a single lot of Nutrena® Country Feeds® Cracked Corn for livestock because it may contain aflatoxin levels that exceed the Food and Drug Administration (FDA) action level for immature an",
+  "tel": "(800) 292-7694",
+  "title": "Cargill Conducts Voluntary Recall of a Single Lot of Nutrena® Country Feeds® Cracked Corn for Livestock Due to Elevated Levels of Aflatoxin",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/cargill-conducts-voluntary-recall-single-lot-nutrenar-country-feedsr-cracked-corn-livestock-due",
+  "why": "Product may contain aflatoxin levels that exceed the Food and Drug Administration (FDA) action level for immature animals, wildlife, equines, small ruminants, and dairy animals.",
+  "x": "other-animal"
+ },
+ {
+  "brand": "Bonnihill Farms",
+  "co": "Fromm Family Foods",
+  "date": "2025-12-03",
+  "det": true,
+  "done": true,
+  "hz": "foreign",
+  "id": "f27c83f734",
+  "ill": "Potential adverse reactions could occur in all size dogs, however, to date there are no reports of illness or injury reported from consumers.",
+  "img": [
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_1_212.jpg?itok=eDheZwUm",
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_2_166.jpg?itok=1a-l8BUw"
+  ],
+  "kind": "recall",
+  "lots": {
+   "h": [
+    "Product Name",
+    "Net Weight",
+    "UPC",
+    "Lot Code"
+   ],
+   "r": [
+    [
+     "Bonnihill BeefiBowls Beef Recipe",
+     "16 oz. per chub",
+     "072705135004",
+     "Best By 12/25/2026 B01"
+    ]
+   ]
+  },
+  "product": "BeefiBowls Beef Recipe gently cooked frozen dog food, 16 oz. chubs",
+  "seen": "2025-12-03T12:00:00Z",
+  "sp": [
+   "dog"
+  ],
+  "sum": "MEQUON, WIS. (DECEMBER 3, 2025) - FROMM FAMILY FOODS has issued a recall of 300 cases of Bonnihill Farms BeefiBowls Beef Recipe gently cooked frozen dog food due to potential foreign plastic contamination.",
+  "tel": "1-800-325-6331",
+  "title": "Fromm Family Foods Voluntarily Recalls Bonnihill BeefiBowls Food for Dogs Due to Potential Foreign Material Contamination",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fromm-family-foods-voluntarily-recalls-bonnihill-beefibowls-food-dogs-due-potential-foreign-material",
+  "why": "Potential foreign plastic contamination"
+ },
+ {
+  "brand": "Vetoquinol",
+  "co": "Vetoquinol USA",
+  "date": "2025-12-02",
+  "det": true,
+  "hz": "other",
+  "id": "b86ba0ab29",
+  "img": [
+   "https://www.fda.gov/files/styles/recall_image_small/public/foll.jpg?itok=milsINKf"
+  ],
+  "kind": "recall",
+  "lots": {
+   "h": [
+    "Kit Lot #",
+    "Diluent Lot #",
+    "Expiration Date",
+    "Distribution Begin Date",
+    "Distribution End Date"
+   ],
+   "r": [
+    [
+     "510578",
+     "840915",
+     "5/31/2026",
+     "08/30/2023",
+     "10/23/2023"
+    ],
+    [
+     "510579",
+     "844585",
+     "5/31/2026",
+     "10/23/2025",
+     "11/06/2023"
+    ],
+    [
+     "510580",
+     "844583",
+     "5/31/2026",
+     "11/06/2023",
+     "06/18/2024"
+    ],
+    [
+     "510581",
+     "934975",
+     "1/31/2027",
+     "06/18/2024",
+     "12/13/2024"
+    ],
+    [
+     "717059",
+     "934976",
+     "1/31/2027",
+     "06/09/2025",
+     "10/28/2025"
+    ],
+    [
+     "510582",
+     "934973",
+     "1/31/2027",
+     "12/13/2024",
+     "06/09/2025"
+    ]
+   ]
+  },
+  "product": "FOLLTROPIN Injectable Kits for Cattle",
+  "seen": "2025-12-02T12:00:00Z",
+  "sp": [],
+  "sum": "November 26, 2025 – Vetoquinol USA, Inc., Fort Worth, TX, is recalling six lots of FOLLTROPIN® (porcine pituitary-derived follicle stimulating hormone for injection) Kits, due to the presence of particulate matter in the sterile diluent vial.",
+  "tel": "(800) 267-5707",
+  "title": "Vetoquinol USA, Inc. Recalls Six Lots of FOLLTROPIN Injectable Kits for Cattle Due to Presence of Particulate Matter in Sterile Diluent Vial",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/vetoquinol-usa-inc-recalls-six-lots-folltropin-injectable-kits-cattle-due-presence-particulate",
+  "why": "Presence of particulate matter",
+  "x": "drug"
+ },
+ {
+  "brand": "Raw Bistro",
+  "co": "Raw Bistro Pet Fare",
+  "date": "2025-10-10",
+  "det": true,
+  "done": true,
+  "hz": "bacteria",
+  "id": "7a0753ec9d",
+  "ill": "To date, no illness of pets or humans related to this lot has been reported.",
+  "img": [
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_1_134.png?itok=-9FBNo4v",
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_2_100.png?itok=qVcVeCS6",
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_3_63.png?itok=xZJD4RNW",
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_4_50.png?itok=TFAMFRz9"
+  ],
+  "kind": "recall",
+  "product": "Frozen Beef Dog Food",
+  "seen": "2025-10-10T12:00:00Z",
+  "sp": [
+   "dog"
+  ],
+  "sum": "October 9, 2025 – Raw Bistro Pet Fare, Cannon Falls, MN is voluntarily recalling two product sizes of its frozen beef dog food because they may be contaminated with Salmonella.",
+  "tel": "(507) 291-3153",
+  "title": "Raw Bistro Pet Fare Voluntarily Recalls Frozen Beef Entrée Because of Possible Salmonella Health Risk",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/raw-bistro-pet-fare-voluntarily-recalls-frozen-beef-entree-because-possible-salmonella-health-risk",
+  "why": "Potential Foodborne Illness - Salmonella"
+ },
+ {
+  "brand": "Foodynamics",
+  "co": "Foodynamics",
+  "date": "2025-10-09",
+  "det": true,
+  "hz": "bacteria",
+  "id": "7c31818a41",
+  "kind": "recall",
+  "product": "Freeze Dried Pet Treats",
+  "seen": "2025-10-09T12:00:00Z",
+  "sp": [
+   "dog",
+   "cat"
+  ],
+  "sum": "Foodynamics is voluntarily recalling specific lots of Raw Dog Barkery,BellePepper Cats, and Kanu Pets brand freeze dried pet treats because they have the potential to be contaminated with Salmonella. Salmonella can affect animals eating the products and there is risk to humans handling contaminated",
+  "title": "CORRECTION: Foodynamics Recalls Raw Dog Barkery, BellePepper Cats, and Kanu Pets Brand Freeze-Dried Pet Treats Because Of Possible Salmonella Contamination",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/correction-foodynamics-recalls-raw-dog-barkery-bellepepper-cats-and-kanu-pets-brand-freeze-dried-pet",
+  "why": "Potential Foodborne Illness – Salmonella"
+ },
+ {
+  "brand": "Nature’s Own",
+  "co": "Best Buy Bones, Inc.",
+  "date": "2025-10-03",
+  "det": true,
+  "done": true,
+  "hz": "bacteria",
+  "id": "9ddf67f38f",
+  "ill": "No illnesses in dogs have been reported to date.",
+  "img": [
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_1_130.png?itok=-F_RvJMK",
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_2_97.png?itok=eRRiuNcB"
+  ],
+  "kind": "recall",
+  "product": "Pet Chews Bully Bites Treats",
+  "seen": "2025-10-03T12:00:00Z",
+  "sp": [
+   "dog"
+  ],
+  "sum": "October 3, 2025, Best Buy Bones, Inc. of Mount Morris, Michigan is recalling four lots of Nature’s Own Pet Chews Bully Bites 1 Pound pet treats in 16 oz. bags with a shared expiration date of September 2027because it has the potential to be contaminated with Salmonella. Salmonella can affect animals",
+  "tel": "(810) 687-2106",
+  "title": "Best Buy Bones, Inc. Recalls Nature’s Own Pet Chews Bully Bites Because of Possible Salmonella Health Risk",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/best-buy-bones-inc-recalls-natures-own-pet-chews-bully-bites-because-possible-salmonella-health-risk",
+  "why": "Potential Foodborne illness - Salmonella"
+ },
+ {
+  "brand": "Viva",
+  "co": "Viva Raw LLC.",
+  "date": "2025-08-25",
+  "det": true,
+  "hz": "bacteria",
+  "id": "1973be0642",
+  "ill": "No illnesses in dogs, cats, or humans related to these lots have been reported to date.",
+  "img": [
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_1_183.jpg?itok=4pF6jScC",
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_2_144.jpg?itok=Azl3kWvl",
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_3_79.jpg?itok=749Wye1c",
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_4_59.jpg?itok=mXXjjunL"
+  ],
+  "kind": "recall",
+  "product": "Ground Beef for Dogs and Ground Chicken for Dogs and Cats",
+  "seen": "2025-08-25T12:00:00Z",
+  "sp": [
+   "dog",
+   "cat"
+  ],
+  "sum": "August 25, 2025 – Viva Raw LLC, Charlotte, NC is voluntarily recalling two lots of dog and cat foods due to contamination with Salmonella and Listeria monocytogenes. The recall is for Lot 21495 (Viva Ground Beef for Dogs; Viva Beef & Turkey for Puppies) and Lot 21975 (Viva Ground Chicken for Dogs;",
+  "tel": "(919) 371-8882",
+  "title": "Viva Raw Issues Voluntary Recall of Two Lots of Dog and Cat Foods Due to Salmonella and Listeria Monocytogenes Contamination",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/viva-raw-issues-voluntary-recall-two-lots-dog-and-cat-foods-due-salmonella-and-listeria",
+  "why": "Salmonella and Listeria monocytogenes contamination"
+ },
+ {
+  "brand": "Payback®",
+  "co": "CHS, Inc.",
+  "date": "2025-07-09",
+  "det": true,
+  "hz": "nutrient",
+  "id": "57ac4f70d8",
+  "ill": "After receiving a customer report claiming this product may have resulted in illness or death, the company immediately began investigating and initiated the voluntary recall of the feed identified with the above lot number as it may contain elevated levels of copper.",
+  "img": [
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_1_102.png?itok=ZnyClpGG"
+  ],
+  "kind": "recall",
+  "lots": {
+   "h": [
+    "Product Name",
+    "Lot Number",
+    "Label Date"
+   ],
+   "r": [
+    [
+     "Payback® Champion Lamb Text B30 with Power Booster",
+     "M#134300",
+     "02/14/25"
+    ]
+   ]
+  },
+  "product": "Champion Lamb Text B30 with Power Booster",
+  "seen": "2025-07-09T12:00:00Z",
+  "sp": [],
+  "sum": "CHS Inc. is voluntarily recalling seven tons of Payback® Champion Lamb Text B30 with Power Booster due to potentially elevated levels of copper. Symptoms of copper toxicity in sheep include lethargy and anemia, grinding of teeth, thirst, off feed/poor appetite, pale to yellow mucous membranes, red/d",
+  "title": "CHS Inc. Recalls Payback Champion Lamb Feed Due to Elevated Copper Health Risk",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/chs-inc-recalls-payback-champion-lamb-feed-due-elevated-copper-health-risk",
+  "why": "Elevated levels of copper",
+  "x": "other-animal"
+ },
+ {
+  "brand": "Tetra",
+  "co": "Spectrum Brands Pet LLC",
+  "date": "2025-05-23",
+  "det": true,
+  "hz": "bacteria",
+  "id": "fedf3d5285",
+  "ill": "To date, SPG has not received any reports of illness or health-related complaints in any pets or consumers regarding this recall.",
+  "img": [
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_1_90.png?itok=ELAUVgAh"
+  ],
+  "kind": "recall",
+  "product": "ReptoMin 3-In-1 SELECT-A-FOOD reptile food",
+  "seen": "2025-05-23T12:00:00Z",
+  "sp": [
+   "pet"
+  ],
+  "sum": "Spectrum Brands Pet LLC (“SPG”) is voluntarily recalling its Tetra ReptoMin 3-In-1 SELECT-A-FOOD reptile food product intended for aquatic turtles due to potential contamination with Salmonella. The product is packaged in a plastic, 1.56oz container with a green label and a UPC Bar Code #: 0 46798 7",
+  "tel": "1-800-526-0650",
+  "title": "Spectrum Brands Pet LLC Recalls a Single Lot of Tetra Reptomin Reptile Food for Aquatic Turtles Because of Possible Salmonella Health Risk",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/spectrum-brands-pet-llc-recalls-single-lot-tetra-reptomin-reptile-food-aquatic-turtles-because",
+  "why": "Salmonella contamination",
+  "x": "other-animal"
+ },
+ {
+  "brand": "Dexased™ and Dexmedvet™",
+  "co": "Cronus Pharma LLC",
+  "date": "2025-04-24",
+  "det": true,
+  "hz": "other",
+  "id": "b556afa6b9",
+  "img": [
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_1_148.jpg?itok=_x-9LkJG",
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_2_117.jpg?itok=jZ_nlbqD"
+  ],
+  "kind": "recall",
+  "product": "Dexmedetomidine Hydrochloride Injection 0.5 mg/mL",
+  "seen": "2025-04-24T12:00:00Z",
+  "sp": [
+   "dog",
+   "cat"
+  ],
+  "sum": "East Brunswick, NJ, April 23, 2025 - CRONUS PHARMA LLC, on behalf of Cronus Pharma Specialities, Hyderabad, India is issuing a voluntary recall involving one batch comprising two distinct lots: Dexased™ (Aspen) and Dexmedvet™ (Cronus Pharma LLC). Both products contain Dexmedetomidine Hydrochloride I",
+  "tel": "1-844-227-6687",
+  "title": "Cronus Pharma LLC initiating Voluntary Recall for (Dexased™ -Aspen and Dexmedvet™ -Cronus Pharma LLC) of Dexmedetomidine Hydrochloride Injection 0.5 mg/mL For Veterinary Use Due to Presence of Particulate Matter",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/cronus-pharma-llc-initiating-voluntary-recall-dexasedtm-aspen-and-dexmedvettm-cronus-pharma-llc",
+  "why": "Presence of particulate matter",
+  "x": "drug"
+ },
+ {
+  "brand": "Blue Ridge Beef",
+  "co": "Blue Ridge Beef",
+  "date": "2025-04-11",
+  "det": true,
+  "hz": "bacteria",
+  "id": "c65b1ea88e",
+  "ill": "Due to a customer complaint of animal illness, samples of the products were collected on 3/20/25 by the New York State Department of Agriculture and Markets.",
+  "img": [
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_1_78.png?itok=D2FiUC9d",
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_2_55.png?itok=S5ZYyu38"
+  ],
+  "kind": "recall",
+  "lots": {
+   "h": [
+    "Product",
+    "Size",
+    "Lot Numbers"
+   ],
+   "r": [
+    [
+     "Blue Ridge Beef Puppy Mix",
+     "2 lb",
+     "N25 1230"
+    ],
+    [
+     "Blue Ridge Beef Kitten Mix",
+     "2 lb",
+     "N26 0114"
+    ]
+   ]
+  },
+  "product": "Puppy Mix and Kitten Mix",
+  "seen": "2025-04-11T12:00:00Z",
+  "sp": [
+   "dog",
+   "cat"
+  ],
+  "sum": "Blue Ridge Beef is recalling 1,080 lbs. of their 2 lb logs of Kitten Mix Lot # N26 0114 and 1,380 lbs of their 2 lb logs of Puppy Mix Lot # N25 1230 (Lot numbers are stamped in the clips on the end of the chubs/bags) due to contamination with Salmonella and Listeria.",
+  "tel": "704-873-2072",
+  "title": "Blue Ridge Beef Issues Voluntary Recall of Blue Ridge Beef Puppy Mix and Kitten Mix Due to Salmonella & Listeria Contamination",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/blue-ridge-beef-issues-voluntary-recall-blue-ridge-beef-puppy-mix-and-kitten-mix-due-salmonella",
+  "why": "Salmonella & Listeria contamination."
+ },
+ {
+  "brand": "Supercan",
+  "co": "Supercan Bulk",
+  "date": "2025-04-02",
+  "det": true,
+  "hz": "bacteria",
+  "id": "565920a97c",
+  "ill": "No illnesses have been reported to date.",
+  "img": [
+   "https://www.fda.gov/files/styles/recall_image_small/public/1_26.png?itok=x0Jl1CQj",
+   "https://www.fda.gov/files/styles/recall_image_small/public/2_19.png?itok=SWETQRP1"
+  ],
+  "kind": "recall",
+  "product": "Pig ear slivers",
+  "seen": "2025-04-02T12:00:00Z",
+  "sp": [
+   "pet"
+  ],
+  "sum": "4/1/2025, Supercan Bulk of Miami, Florida is recalling one lot of Supercan Pig Ear Slivers- Thick Cut Piggy Ear Slices pet treats in 500 piece bags, 15.9 oz, expiration date 11/09/2026, due to Salmonella contamination.",
+  "tel": "(689) 808-5419",
+  "title": "Supercan Bulk Recalls a Single Lot of Pig Ear Slivers Pet Treats Due to Salmonella Contamination",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/supercan-bulk-recalls-single-lot-pig-ear-slivers-pet-treats-due-salmonella-contamination",
+  "why": "Potential Foodborne Illness - Salmonella"
+ },
+ {
+  "brand": "Savage Pet",
+  "co": "Savage Pet",
+  "date": "2025-03-15",
+  "det": true,
+  "done": true,
+  "hz": "virus",
+  "id": "d3a007d014",
+  "kind": "recall",
+  "product": "Cat Food Chicken",
+  "seen": "2025-03-15T12:00:00Z",
+  "sp": [
+   "cat"
+  ],
+  "sum": "Savage Pet of El Cajon, CA is recalling 66 Large Chicken Boxes 84 oz. and 74 Small Chicken Boxes 21 oz. with the lot code/best by date of 11152026 because it has the potential to contain H5N1, also known as bird flu.",
+  "title": "Savage Pet Recalls Savage Cat Food Chicken – Large and Small Boxes Because of Possible Bird Flu Health Risk",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/savage-pet-recalls-savage-cat-food-chicken-large-and-small-boxes-because-possible-bird-flu-health",
+  "why": "Possible Bird Flu Health Risk"
+ },
+ {
+  "brand": "ADM Animal Nutrition",
+  "co": "ADM Animal Nutrition",
+  "date": "2025-03-05",
+  "det": true,
+  "hz": "nutrient",
+  "id": "dba7495030",
+  "ill": "No illnesses or deficiency impacts have been reported to date.",
+  "img": [
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_1_71.png?itok=ERYAQQA0",
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_2_45.png?itok=d4p7dvF-",
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_3_24.png?itok=CGx41Evl",
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_4_19.png?itok=39L3EcgQ"
+  ],
+  "kind": "recall",
+  "product": "Cattle Feed",
+  "seen": "2025-03-05T12:00:00Z",
+  "sp": [],
+  "sum": "ADM Animal Nutrition, a division of ADM (NYSE: ADM), is recalling specific pelleted animal feed products because they may contain elevated levels of copper or have levels of zinc below the represented amounts which could be harmful to cattle.",
+  "tel": "800-217-2007",
+  "title": "ADM Recalls Select Pelleted Cattle Nutrition Feed Products",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/adm-recalls-select-pelleted-cattle-nutrition-feed-products",
+  "why": "Elevated levels or deficient levels of nutrients which may be harmful to cattle",
+  "x": "other-animal"
+ },
+ {
+  "brand": "Nova-Tech",
+  "co": "Nova-Tech, Inc.",
+  "date": "2025-03-05",
+  "det": true,
+  "hz": "other",
+  "id": "1ae48dc98a",
+  "img": [
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_1_70.png?itok=xKEyLYi_",
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_2_44.png?itok=VTJf1gnq"
+  ],
+  "kind": "recall",
+  "product": "Lactate Ringers Injection 5000 mL",
+  "seen": "2025-03-05T12:00:00Z",
+  "sp": [],
+  "sum": "Grand Island, Nebraska, Nova-Tech, Inc. is voluntarily recalling one (1) lot of Lactated Ringers Injection for Animal Use Only to the end user level. The Lactated Ringers Injection has been found to potentially contain fiber- like visible particles.",
+  "tel": "308-381-8841",
+  "title": "Nova-Tech, Inc. Issues Voluntary Nationwide Recall of Lactated Ringers 5 L Injectable Solution for Veterinary Use Due to Potential Presence of Fiber-like Particles",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/nova-tech-inc-issues-voluntary-nationwide-recall-lactated-ringers-5-l-injectable-solution-veterinary",
+  "why": "Potential presence of fiber-like particles.",
+  "x": "drug"
+ },
+ {
+  "brand": "Wild Coast Raw",
+  "co": "Wild Coast LLC dba Wild Coast Raw",
+  "date": "2025-03-01",
+  "det": true,
+  "hz": "virus",
+  "id": "ef66e9e840",
+  "img": [
+   "https://www.fda.gov/files/styles/recall_image_small/public/wild_coast_packaging.jpg?itok=UqFGZSsF"
+  ],
+  "kind": "recall",
+  "product": "Frozen Boneless Free Range Chicken Formula raw pet food for cats",
+  "seen": "2025-03-01T12:00:00Z",
+  "sp": [
+   "cat"
+  ],
+  "sum": "Wild Coast LLC dba Wild Coast Raw of Olympia, WA is recalling lots of frozen Boneless Free Range Chicken Formula raw pet food for cats because it has the potential to be contaminated with Highly Pathogenic Avian Influenza (HPAI) H5N1 also known as bird flu. H5N1 can be transmitted to animals eating",
+  "tel": "(360) 591-3543",
+  "title": "Voluntary Recall of Wild Coast Raw Boneless Free Range Chicken Formula Raw Pet Food Because of Possible Bird Flu Health Risk",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntary-recall-wild-coast-raw-boneless-free-range-chicken-formula-raw-pet-food-because-possible",
+  "why": "Possible Bird Flu Health Risk"
+ },
+ {
+  "brand": "Blue Ridge Beef",
+  "co": "Blue Ridge Beef",
+  "date": "2025-01-31",
+  "det": true,
+  "hz": "bacteria",
+  "id": "3cf1afbac7",
+  "img": [
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_1_61.png?itok=pDVNsfSh"
+  ],
+  "kind": "recall",
+  "lots": {
+   "h": [
+    "Product",
+    "Size",
+    "UPC",
+    "Lot Numbers"
+   ],
+   "r": [
+    [
+     "Natural Mix",
+     "2 lb",
+     "854298001054",
+     "N25/12/31 (lot)"
+    ]
+   ]
+  },
+  "product": "Natural Mix",
+  "seen": "2025-01-31T12:00:00Z",
+  "sp": [
+   "pet"
+  ],
+  "sum": "January 31, 2025– Blue Ridge Beef is recalling 5,700 lbs. of their 2 lb log Natural Mix due to a contamination of Salmonella. Lot # N25/12/31 (Lot numbers are stamped in the clips on the end of the chubs/bags) UPC# 854298001054.",
+  "tel": "704-873-2072",
+  "title": "Blue Ridge Beef Issues a Recall of Blue Ridge Beef Natural Mix Due to Salmonella Contamination",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/blue-ridge-beef-issues-recall-blue-ridge-beef-natural-mix-due-salmonella-contamination",
+  "why": "Salmonella contamination"
+ },
+ {
+  "brand": "Blue Ridge Beef",
+  "co": "Blue Ridge Beef",
+  "date": "2025-01-03",
+  "det": true,
+  "hz": "bacteria",
+  "id": "8ca9ca7564",
+  "ill": "Due to a customer complaint of animal illness, a sample of the product was collected on 12/12/2024 by the Massachusetts Department of Agriculture Resources and tested by the Massachusetts State Public Health Laboratory.",
+  "img": [
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_1_52.png?itok=7o-all-0",
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_2_34.png?itok=pLmwN0-M"
+  ],
+  "kind": "recall",
+  "lots": {
+   "h": [
+    "Product",
+    "Size",
+    "UPC",
+    "Lot Number"
+   ],
+   "r": [
+    [
+     "Kitten Mix",
+     "2 1b",
+     "854298001436",
+     "N25-0716"
+    ]
+   ]
+  },
+  "product": "Kitten mix pet food",
+  "seen": "2025-01-03T12:00:00Z",
+  "sp": [
+   "cat"
+  ],
+  "sum": "STATESVILLE, NC - January 3, 2025- Blue Ridge Beef is recalling 1,350 lbs. of their 2 1b log Kitten Mix Lot N25-0716 UPC 8542980013436 due to a contamination of Salmonella. (Lot numbers are stamped in the clips on the end of the chubs/bags).",
+  "tel": "704-873-2072",
+  "title": "Blue Ridge Beef Recalls Blue Ridge Beef Kitten Mix Due to Salmonella Contamination",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/blue-ridge-beef-recalls-blue-ridge-beef-kitten-mix-due-salmonella-contamination",
+  "why": "Potential to be contaminated with Salmonella"
+ },
+ {
+  "brand": "Blue Ridge Beef",
+  "co": "Blue Ridge Beef",
+  "date": "2024-12-04",
+  "det": true,
+  "hz": "bacteria",
+  "id": "36ace11df2",
+  "ill": "The problem was discovered when a customer's litter of puppies became ill and reported the issue to VDACS",
+  "img": [
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_1_45.png?itok=u3lbhmER"
+  ],
+  "kind": "recall",
+  "lots": {
+   "h": [
+    "Product",
+    "Size",
+    "UPC",
+    "Lot Numbers"
+   ],
+   "r": [
+    [
+     "Puppy Mix",
+     "2 lb",
+     "854298001696",
+     "08/06/N25 (lot) 08/16/N25 (lot)"
+    ]
+   ]
+  },
+  "product": "Puppy Mix",
+  "seen": "2024-12-04T12:00:00Z",
+  "sp": [
+   "dog"
+  ],
+  "sum": "Blue Ridge Beef is recalling 9,600 lbs of their 2 lb log Puppy Mix Lot #08/06/N25 & 08/16/N25 UPC 854298001696 due to a contamination of Salmonella. (Lot numbers are stamped in the clips on the end of the chubs/bags)",
+  "tel": "704-873-2072",
+  "title": "Blue Ridge Beef Issues Voluntary Recall Blue Ridge Beef Puppy Mix Due to Salmonella Contamination",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/blue-ridge-beef-issues-voluntary-recall-blue-ridge-beef-puppy-mix-due-salmonella-contamination",
+  "why": "Potential Foodborne Illness - Salmonella"
+ },
+ {
+  "brand": "Hollywood Feed",
+  "co": "Carolina Prime Pet",
+  "date": "2024-11-23",
+  "det": true,
+  "hz": "bacteria",
+  "id": "ec8963b4b2",
+  "ill": "No illnesses have been reported to date in connection with this problem.",
+  "img": [
+   "https://www.fda.gov/files/styles/recall_image_small/public/hollywood_feed_label.png?itok=1uyuDs83"
+  ],
+  "kind": "recall",
+  "product": "Carolina Made Chicken Chips Dog Treats",
+  "seen": "2024-11-23T12:00:00Z",
+  "sp": [
+   "dog"
+  ],
+  "sum": "Carolina Prime Pet, Inc. of Lenoir, NC, is recalling 400 16-ounce bags of \"Hollywood Feed Carolina Made Chicken Chips\" treats for dogs because they have the potential to be contaminated with Salmonella.",
+  "tel": "828-394-6460",
+  "title": "Carolina Prime Pet, Inc. Recalls “Hollywood Feed Carolina Made Chicken Chips” Because of Possible Salmonella Health Risk",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/carolina-prime-pet-inc-recalls-hollywood-feed-carolina-made-chicken-chips-because-possible",
+  "why": "Potentially contaminated with Salmonella"
+ },
+ {
+  "brand": "Gaines Family Farmstead",
+  "co": "Gaines Pet Treats LLC",
+  "date": "2024-11-22",
+  "det": true,
+  "hz": "bacteria",
+  "id": "e76a22ab50",
+  "ill": "This is the only lot number identified as potentially contaminated, no illnesses have been reported to date in connection with this problem and Gaines has made every effort possible to recover the potentially contaminated products.",
+  "img": [
+   "https://www.fda.gov/files/styles/recall_image_small/public/chicken_chips_front_pdf-1.jpg?itok=MwcrcabQ",
+   "https://www.fda.gov/files/styles/recall_image_small/public/chicken_chips_back_pdf-1.jpg?itok=LVxkgpKx"
+  ],
+  "kind": "recall",
+  "product": "Chicken Chips Dog Treats",
+  "seen": "2024-11-22T12:00:00Z",
+  "sp": [
+   "dog"
+  ],
+  "sum": "Gaines Pet Treats LLC, of Birmingham, AL is voluntarily recalling 204, 5-ounce bags of \"Gaines Family Farmstead Chicken Chips\" treats for dogs due to the possibility of Salmonella contamination.",
+  "title": "Gaines Pet Treats LLC Voluntarily Recalls “Gaines Family Farmstead Chicken Chips for Dogs” Due to Possible Salmonella Contamination",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gaines-pet-treats-llc-voluntarily-recalls-gaines-family-farmstead-chicken-chips-dogs-due-possible",
+  "why": "Potential Salmonella Contamination"
+ }
+]

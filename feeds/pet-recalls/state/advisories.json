@@ -1,0 +1,458 @@
+[
+ {
+  "date": "2026-01-23",
+  "det": true,
+  "hz": "bacteria",
+  "id": "bc7cff9d39",
+  "ill": "Since the original issuance of this advisory in January 2026, the FDA has received additional consumer complaints of illness in animals who have consumed recalled product.",
+  "kind": "advisory",
+  "lots": {
+   "h": [
+    "Product",
+    "Sizes",
+    "Date Codes"
+   ],
+   "r": [
+    [
+     "4411 (Beef, Tripe, Duck Necks, and Chicken)",
+     "2-lb tubes",
+     "9.9.25, 9.23.25, 10.15.25"
+    ],
+    [
+     "4411 (Beef, Tripe, Duck Necks, and Chicken)",
+     "5-lb tubes",
+     "9.9.25, 9.23.25, 10.14.25, 10.15.25"
+    ],
+    [
+     "60/30/10 Chicken Medley",
+     "2-lb tubes",
+     "7.29.25, 8.6.25, 8.7.25"
+    ],
+    [
+     "60/30/10 Chicken Medley",
+     "5-lb tubes",
+     "10.10.25"
+    ],
+    [
+     "60/30/10 Turkey Medley",
+     "2-lb tubes",
+     "7.24.25, 7.29.25"
+    ],
+    [
+     "60/30/10 Turkey Medley",
+     "5-lb tubes",
+     "7.24.25, 7.29.25"
+    ],
+    [
+     "70/30/Beef Heart",
+     "2-lb tubes",
+     "8.19.25, 8.20.25"
+    ],
+    [
+     "70/30/Beef Heart",
+     "5-lb tubes",
+     "8.19.25"
+    ],
+    [
+     "American Bully",
+     "2-lb tubes",
+     "10.21.25, 10.22.25"
+    ],
+    [
+     "American Bully",
+     "5-lb tubes",
+     "10.21.25, 11.7.25"
+    ],
+    [
+     "Beef and Chicken",
+     "2-lb tubes",
+     "7.30.25, 8.8.25, 8.13.25, 8.15.25, 8.27.25, 8.28.25, 8.29.25, 9.2.25, 9.5.25, 9.17.25, 10.8.25, 10.17.25, 10.22.25, 10.3"
+    ],
+    [
+     "Beef and Chicken",
+     "5-lb tubes",
+     "7.30.25, 8.12.25, 8.13.25, 8.15.25, 8.28.25, 8.29.25, 9.2.25, 9.5.25, 9.16.25, 9.17.25, 9.24.25, 10.7.25, 10.8.25, 10.30"
+    ],
+    [
+     "Beef and Chicken Tripe Medley",
+     "2-lb tubes",
+     "7.30.25, 7.31.25, 8.5.25, 8.6.25, 8.15.25, 9.18.25, 10.9.25, 10.11.25, 11.5.25, 11.19.25"
+    ],
+    [
+     "Beef and Chicken Tripe Medley",
+     "5-lb tubes",
+     "7.30.25, 8.13.25, 8.14.25, 8.15.25, 9.17.25, 9.18.25, 10.8.25, 10.9.25, 10.14.25, 10.29.25, 11.18.25, 11.25.25, 12.9.25"
+    ],
+    [
+     "Beef and Pork",
+     "2-lb tubes",
+     "7.17.25, 10.31.25, 11.1.25"
+    ],
+    [
+     "Beef and Pork",
+     "5-lb tubes",
+     "7.17.25"
+    ],
+    [
+     "Beef and Salmon",
+     "2-lb tubes",
+     "7.18.25, 7.26.25, 8.13.25, 8.15.25, 8.29.25, 9.2.25, 9.5.25, 9.6.25, 9.12.25, 9.18.25, 9.19.25, 9.20.25, 10.25.25, 10.31"
+    ],
+    [
+     "Beef and Salmon",
+     "5-lb tubes",
+     "7.18.25, 7.26.25, 8.1.25, 8.13.25, 9.5.25, 9.19.25, 9.20.25, 10.25.25, 10.31.25, 11.4.25, 11.5.25, 11.7.25, 11.8.25, 11."
+    ],
+    [
+     "Beef and Turkey Medley",
+     "2-lb tubes",
+     "7.25.25, 7.26.25, 12.23.25"
+    ],
+    [
+     "Beef and Turkey Medley",
+     "5-lb tubes",
+     "7.24.25, 7.25.25, 10.22.25, 12.17.25, 12.19.25, 12.23.25 3.31.26"
+    ],
+    [
+     "Beef Liver and Kidney",
+     "2-lb tubes",
+     "9.13.25"
+    ],
+    [
+     "Beefturducken",
+     "2-lb tubes",
+     "7.29.25, 11.25.25"
+    ],
+    [
+     "Beefturducken",
+     "5-lb tubes",
+     "11.25.25"
+    ],
+    [
+     "Chicken Hearts",
+     "2-lb tubes",
+     "11.7.25"
+    ],
+    [
+     "Chicken Medley",
+     "2-lb tubes",
+     "7.23.25, 8.5.25, 8.7.25, 8.26.25, 9.26.25,10.11.25, 10.15.25, 10.16.25, 10.25.25, 11.22.25, 12.5.25"
+    ],
+    [
+     "Chicken Medley",
+     "5-lb tubes",
+     "7.17.25, 7.24.25, 9.10.25, 9.11.25, 10.10.25, 11.14.25, 11.15.25, 11.18.25, 11.25.25, 12.5.25, 12.19.25"
+    ],
+    [
+     "Chips Agility",
+     "2-lb tubes",
+     "9.23.25, 11.1.25, 11.7.25, 11.8.25"
+    ],
+    [
+     "Chips Beef",
+     "2-lb tubes",
+     "7.22.25"
+    ],
+    [
+     "Chips Beef",
+     "5-lb tubes",
+     "7.22.25"
+    ],
+    [
+     "Country Soul",
+     "2-lb tubes",
+     "9.4.25, 9.5.25"
+    ],
+    [
+     "Dog's Best Friend",
+     "2-lb tubes",
+     "7.29.25, 9.3.25, 11.13.25, 11.14.25"
+    ],
+    [
+     "Dog's Best Friend",
+     "5-lb tubes",
+     "11.13.25, 11.14.25"
+    ],
+    [
+     "Duck",
+     "2-lb tubes",
+     "9.12.25"
+    ],
+    [
+     "Duck",
+     "5-lb tubes",
+     "9.11.25, 9.12.25"
+    ],
+    [
+     "Green Tripe",
+     "2-lb tubes",
+     "10.17.25, 10.18.25, 11.1.25"
+    ],
+    [
+     "Green Tripe",
+     "5-lb tubes",
+     "11.5.25"
+    ],
+    [
+     "Heart Chunks",
+     "2-lb tubes",
+     "7.19.25"
+    ],
+    [
+     "Heart Corazon",
+     "2-lb tubes",
+     "8.9.25"
+    ],
+    [
+     "Heart Corazon",
+     "5-lb tubes",
+     "10.14.25"
+    ],
+    [
+     "Hybrid Beef and Chicken",
+     "2-lb tubes",
+     "10.17.25"
+    ],
+    [
+     "Hybrid Dog's Best Friend",
+     "2-lb tubes",
+     "7.29.25"
+    ],
+    [
+     "Italian",
+     "2-lb tubes",
+     "8.7.25, 8.8.25"
+    ],
+    [
+     "Italian",
+     "5-lb tubes",
+     "10.14.25"
+    ],
+    [
+     "Kidney and Liver",
+     "2-lb tubes",
+     "10.18.25"
+    ],
+    [
+     "Lamb Beef and Chicken",
+     "5-lb tubes",
+     "12.2.25"
+    ],
+    [
+     "Natural Remedies",
+     "2-lb tubes",
+     "9.4.25, 9.9.25"
+    ],
+    [
+     "Pork",
+     "2-lb tubes",
+     "10.14.25, 11.1.25, 12.13.25"
+    ],
+    [
+     "Pork",
+     "5-lb tubes",
+     "8.1.25, 11.1.25, 12.13.25"
+    ],
+    [
+     "R Chicken",
+     "2-lb tubes",
+     "11.5.25"
+    ],
+    [
+     "R Chicken",
+     "5-lb tubes",
+     "11.5.25"
+    ],
+    [
+     "R Chicken with Pork",
+     "2-lb tubes",
+     "11.4.25, 12.10.25"
+    ],
+    [
+     "R Chicken with Pork",
+     "5-lb tubes",
+     "11.4.25, 12.10.25"
+    ],
+    [
+     "Salmon",
+     "2-lb tubes",
+     "7.23.25, 7.31.25, 8.8.25, 9.10.25, 10.29.25, 11.14.25, 11.22.25, 12.5.25, 12.20.25"
+    ],
+    [
+     "Salmon",
+     "5-lb tubes",
+     "7.31.25, 9.10.25, 10.24.25, 10.25.25, 10.29.25, 11.14.25, 12.20.25"
+    ],
+    [
+     "Terrestrial",
+     "2-lb tubes",
+     "10.7.25"
+    ],
+    [
+     "Terrestrial",
+     "5-lb tubes",
+     "10.7.25"
+    ],
+    [
+     "Turkey Chicken",
+     "2-lb tubes",
+     "9.25.25, 12.20.25"
+    ],
+    [
+     "Turkey Chicken",
+     "5-lb tubes",
+     "9.25.25, 10.24.25, 12.19.25, 12.20.25"
+    ],
+    [
+     "Turkey Medley",
+     "2-lb tubes",
+     "9.25.25, 9.26.25, 10.23.25, 10.24.25, 11.13.25"
+    ],
+    [
+     "Turkey Medley",
+     "5-lb tubes",
+     "9.24.25, 9.25.25"
+    ],
+    [
+     "White Meat Turkey Breast",
+     "2-lb tubes",
+     "9.3.25, 11.13.25"
+    ],
+    [
+     "Whole Chicken",
+     "2-lb tubes",
+     "9.5.25, 9.6.25"
+    ],
+    [
+     "Whole Chicken",
+     "5-lb tubes",
+     "9.5.25, 9.6.25"
+    ]
+   ]
+  },
+  "seen": "2026-01-23T12:00:00Z",
+  "sp": [
+   "dog"
+  ],
+  "sum": "FDA is cautioning pet owners that eight samples of Raaw Energy dog food have tested positive for one or more types of bacteria, specifically: Listeria monocytogenes (L. monocytogenes), Salmonella, and Campylobacter jejuni.",
+  "title": "FDA Advisory: Do Not Feed Eight Lots of Raaw Energy Dog Food Due to Contamination with Harmful Bacteria",
+  "upd": "2026-05-22",
+  "url": "https://www.fda.gov/animal-veterinary/outbreaks-and-advisories/fda-advisory-do-not-feed-eight-lots-raaw-energy-dog-food-due-contamination-harmful-bacteria",
+  "why": "Contamination with Harmful Bacteria"
+ },
+ {
+  "date": "2026-03-13",
+  "det": true,
+  "hz": "nutrient",
+  "id": "f310338799",
+  "ill": "The agency tested additional Quest Cat Food lots due to additional reports of cat illnesses associated with Quest Cat Food.",
+  "kind": "advisory",
+  "lots": {
+   "h": [
+    "Quest Cat Food Product",
+    "Lot Code",
+    "Best By or Use By Date",
+    "Level of Thiamine",
+    "Percentage of minimum thiamine level"
+   ],
+   "r": [
+    [
+     "Prey Model Chicken Recipe Freeze Dried Nuggets",
+     "C25288",
+     "10/15/27",
+     "0.22 mg/kg",
+     "3.9%"
+    ],
+    [
+     "Prey Model Chicken Diet Bite Size Nuggets, frozen",
+     "MCD25350",
+     "06/16/27",
+     "No thiamine detected",
+     "0%"
+    ],
+    [
+     "Prey Model Chicken Diet Bite Size Nuggets, frozen",
+     "MCC25321",
+     "05/17/27",
+     "No thiamine detected",
+     "0%"
+    ],
+    [
+     "Prey Model Pork Recipe Freeze Dried Nuggets",
+     "C25358",
+     "12/24/27",
+     "Less than 0.1 mg/kg",
+     "Less than 1.8%"
+    ],
+    [
+     "Prey Model Beef Recipe Freeze Dried Nuggets",
+     "C25318",
+     "11/14/27",
+     "Less than 0.1 mg/kg",
+     "Less than 1.8%"
+    ],
+    [
+     "Prey Model White Fish Freeze Dried Nuggets",
+     "C25337",
+     "12/03/27",
+     "0.85 mg/kg",
+     "15.2%"
+    ],
+    [
+     "Prey Model Chicken Recipe Freeze Dried Nuggets",
+     "C25336",
+     "12/02/27",
+     "0.21 mg/kg",
+     "3.75%"
+    ],
+    [
+     "Prey Model Pork Recipe Freeze Dried Nuggets",
+     "C25321",
+     "11/17/27",
+     "0.32 mg/kg",
+     "5.7%"
+    ]
+   ]
+  },
+  "seen": "2026-03-13T12:00:00Z",
+  "sp": [
+   "cat"
+  ],
+  "sum": "FDA is cautioning the public that agency testing shows eight lots of Quest Cat Food contain extremely low or no thiamine (vitamin B1), a vitamin essential to cat health. Continued feeding could result in thiamine deficiency, which causes serious health issues in cats, including death.",
+  "title": "FDA Advisory: Certain Lots of Quest Cat Food Pose Serious Health Risks Due to Extremely Low Levels of Thiamine (Vitamin B1)",
+  "url": "https://www.fda.gov/animal-veterinary/outbreaks-and-advisories/fda-advisory-certain-lots-quest-cat-food-pose-serious-health-risks-due-extremely-low-levels-thiamine",
+  "why": "Extremely Low Levels of Thiamine (Vitamin B1)"
+ },
+ {
+  "date": "2025-09-24",
+  "det": true,
+  "hz": "bacteria",
+  "id": "d6dd784c04",
+  "ill": "The FDA is aware of cases in which humans and/or animals have gotten sick from exposure to Salmonella -contaminated pet foods (Salmonella -human cases, Salmonella -kitten, Salmonella -kitten, dog).",
+  "kind": "advisory",
+  "seen": "2025-09-24T12:00:00Z",
+  "sp": [
+   "dog"
+  ],
+  "sum": "FDA is alerting pet owners not to feed 2 lots of Darwin’s BioLogics frozen beef dog food after one sample tested positive for Listeria monocytogenes and a second sample tested positive for Salmonella and Listeria monocytogenes. These harmful bacteria can infect both people and pets.",
+  "title": "FDA Advisory: Do Not Feed Two Lots of Darwin’s Natural Pet Products BioLogics Dog Food Due to Salmonella and Listeria monocytogenes",
+  "url": "https://www.fda.gov/animal-veterinary/outbreaks-and-advisories/fda-advisory-do-not-feed-two-lots-darwins-natural-pet-products-biologics-dog-food-due-salmonella-and",
+  "why": "Salmonella and Listeria monocytogenes"
+ },
+ {
+  "date": "2025-07-29",
+  "det": true,
+  "hz": "bacteria",
+  "id": "94892efa3a",
+  "ill": "According to complaint information provided to the FDA, a dog in the household that exclusively ate Darwin’s pet food began vomiting one day before the child fell ill.",
+  "kind": "advisory",
+  "seen": "2025-07-29T12:00:00Z",
+  "sp": [
+   "dog"
+  ],
+  "sum": "The FDA is cautioning pet owners that samples of Darwin’s Natural Selections and BioLogics dog food made by Arrow Reliance, Inc. tested positive for E. coli O157:H7 and Salmonella. The E. coli led to severe illness in a young child.",
+  "title": "FDA Advisory: Do Not Feed Certain Lots of Darwin’s Natural Pet Products Pet Food Due to E. coli O157:H7 and Salmonella",
+  "url": "https://www.fda.gov/animal-veterinary/outbreaks-and-advisories/fda-advisory-do-not-feed-certain-lots-darwins-natural-pet-products-pet-food-due-e-coli-o157h7-and",
+  "why": "E. coli O157:H7 and Salmonella"
+ }
+]
