@@ -2,7 +2,7 @@ name: warn
 
 on:
   schedule:
-    - cron: "17 * * * *" # hourly; off the top of the hour, when Actions is busiest
+    - cron: "17 */3 * * *" # every 3 hours (feed.toml check_every_hours); off the top of the hour, when Actions is busiest
   workflow_dispatch:
 
 permissions:

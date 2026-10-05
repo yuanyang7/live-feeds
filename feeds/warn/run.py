@@ -158,7 +158,8 @@ def main():
         status = "ok" if ok else f"FAILED ({error})"
         print(f"{code}: {len(records)} notices in window, {status}")
 
-    meta = {"v": 1, "checkedAt": iso(now), "windowDays": cfg["window_days"], "states": meta_states}
+    meta = {"v": 1, "checkedAt": iso(now), "checkEveryHours": cfg["check_every_hours"],
+            "windowDays": cfg["window_days"], "states": meta_states}
 
     if args.dry_run:
         DEV_DATA.mkdir(parents=True, exist_ok=True)

@@ -4,7 +4,6 @@
   const V = window.vibe || null;
   const STATES = ["CA", "NY", "TX", "WA", "NJ"];
   const POLL_MS = 60 * 1000;
-  const STALE_MS = 3 * 60 * 60 * 1000; // feed runs hourly; 3h without a check = something's off
   const PAGE = 60;
   const DAY = 86400000;
 
@@ -39,7 +38,13 @@
       statNotices: "Notices, last 30 days", statWorkers: "Workers, last 30 days", statNew: "New since your last visit",
       search: "Search company or city", latest: "Latest", largest: "Largest", all: "All",
       aboutTitle: "What's a WARN notice?",
-      about: "Under the federal WARN Act, employers with 100+ workers must give 60 days' notice before a plant closing or mass layoff, and file it with the state. States publish these notices; WARN Watch checks them every hour.",
+      about: "Under the federal WARN Act, employers with 100+ workers must give 60 days' notice before a plant closing or mass layoff, and file it with the state. States publish these notices, and WARN Watch collects them in one place.",
+      freshTitle: "How often is this updated?",
+      freshCheck: "WARN Watch checks each state's official list every {h} hours.",
+      freshCheck1: "WARN Watch checks each state's official list every hour.",
+      freshStates: "States post new notices on their own schedules, usually a few times a week and often several days after the employer filed. New Jersey only lists the month a notice was posted.",
+      freshPage: "While you have this page open, it refreshes itself every minute, so new notices appear without reloading.",
+      cadence: "checks every {h} hours", cadence1: "checks hourly",
       sourcesTitle: "Sources",
       fine: "Data comes straight from state labor departments and can lag or be revised. Counts are what employers reported.",
       checked: "Checked {t}", stale: "Last checked {t} · updates may be delayed", loading: "Loading…",
@@ -56,7 +61,13 @@
       statNotices: "30天内通知", statWorkers: "30天内涉及人数", statNew: "上次来访后新增",
       search: "搜索公司或城市", latest: "最新", largest: "规模最大", all: "全部",
       aboutTitle: "什么是 WARN 通知？",
-      about: "根据美国联邦 WARN 法案，100 人以上的雇主在关厂或大规模裁员前须提前 60 天通知，并向州政府备案。各州会公开这些通知；WARN Watch 每小时检查一次。",
+      about: "根据美国联邦 WARN 法案，100 人以上的雇主在关厂或大规模裁员前须提前 60 天通知，并向州政府备案。各州会公开这些通知，WARN Watch 把它们汇总在一处。",
+      freshTitle: "多久更新一次？",
+      freshCheck: "WARN Watch 每 {h} 小时检查一次各州的官方列表。",
+      freshCheck1: "WARN Watch 每小时检查一次各州的官方列表。",
+      freshStates: "各州按各自的节奏发布新通知，通常每周几次，且往往在雇主提交几天之后。新泽西州只公布通知发布的月份。",
+      freshPage: "页面打开期间每分钟自动刷新，新通知无需重新加载即可出现。",
+      cadence: "每 {h} 小时检查", cadence1: "每小时检查",
       sourcesTitle: "数据来源",
       fine: "数据直接来自各州劳工部门，可能有延迟或修订。人数为雇主申报数。",
       checked: "{t}检查", stale: "上次检查：{t} · 可能有延迟", loading: "加载中…",
@@ -213,10 +224,18 @@
   function renderStatus() {
     const el = $("status"), live = $("live");
     if (!meta) { el.textContent = t("loading"); return; }
-    const stale = Date.now() - Date.parse(meta.checkedAt) > STALE_MS;
-    el.textContent = stale ? t("stale", { t: ago(meta.checkedAt) }) : t("checked", { t: ago(meta.checkedAt) });
+    const h = meta.checkEveryHours || 1;
+    // Missing two scheduled runs in a row (plus slack for late Actions starts) means something's off.
+    const stale = Date.now() - Date.parse(meta.checkedAt) > (2 * h + 1) * 3600 * 1000;
+    el.textContent = stale ? t("stale", { t: ago(meta.checkedAt) })
+      : t("checked", { t: ago(meta.checkedAt) }) + " · " + (h === 1 ? t("cadence1") : t("cadence", { h }));
     el.classList.toggle("stale", stale);
     live.classList.toggle("on", !stale);
+  }
+
+  function renderFreshness() {
+    const h = (meta && meta.checkEveryHours) || 1;
+    $("freshCheck").textContent = h === 1 ? t("freshCheck1") : t("freshCheck", { h });
   }
 
   function renderSources() {
@@ -229,7 +248,7 @@
       `</li>`).join("");
   }
 
-  function renderAll() { renderStatus(); renderStats(); renderChips(); renderList(); renderSources(); }
+  function renderAll() { renderStatus(); renderStats(); renderChips(); renderList(); renderFreshness(); renderSources(); }
 
   // ---- loading & live updates ----
   async function loadState(code) {
