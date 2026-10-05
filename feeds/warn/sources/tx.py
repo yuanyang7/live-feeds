@@ -2,6 +2,7 @@
 
 import io
 import re
+from datetime import date
 
 from openpyxl import load_workbook
 
@@ -22,12 +23,17 @@ def fetch(http, since):
     for href in re.findall(r'href="(/sites/default/files/[^"]*warn-act-listings-(\d{4})[^"]*\.xlsx)"', html):
         links[int(href[1])] = href[0]
     if not links:
-        snippet = " ".join(html[:120].split())
-        raise RuntimeError(f"no WARN spreadsheet links on the TWC page (HTTP {resp.status_code}, {len(html)} bytes: {snippet!r})")
+        # The page is behind a bot challenge from datacenter IPs (empty 202); the
+        # spreadsheets live at a stable path, so try this year's and last year's.
+        year = date.today().year
+        links = {y: f"/sites/default/files/oei/docs/warn-act-listings-{y}-twc.xlsx" for y in (year - 1, year)}
     rows = []
     for year in sorted(links)[-2:]:
-        wb = load_workbook(io.BytesIO(http.get("https://www.twc.texas.gov" + links[year], headers=HEADERS).content),
-                           read_only=True, data_only=True)
+        xr = http.get("https://www.twc.texas.gov" + links[year], headers=HEADERS)
+        if xr.status_code != 200 or not xr.content.startswith(b"PK"):
+            raise RuntimeError(f"TWC page (HTTP {resp.status_code}) and {year} spreadsheet "
+                               f"(HTTP {xr.status_code}, {len(xr.content)} bytes) both blocked")
+        wb = load_workbook(io.BytesIO(xr.content), read_only=True, data_only=True)
         it = wb.worksheets[0].iter_rows(values_only=True)
         header = [clean(h).upper() for h in next(it)]
         col = header.index
