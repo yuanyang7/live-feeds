@@ -1,0 +1,41 @@
+# feedback-loop — target configuration for live-feeds.
+# No secrets here. No Discord either: reports arrive through
+# `feedback-loop report`, Tool Hub's Report button, or GitHub issues.
+
+target:
+  name: live-feeds
+  repo: yuanyang7/live-feeds
+  baseBranch: main
+
+discord: null
+
+github:
+  titlePrefix: "[feedback]"
+  labels:
+    source: feedback
+    agentReady: agent-ready
+    needsDecision: needs-decision
+
+intake:
+  backend: cli
+  model: claude-sonnet-5-5
+  minConfidence: 0.7
+  lookbackLimit: 100
+
+worker:
+  # Low stakes: a scraper and a static app. Anything cleared starts on its
+  # own; pacing is maxOpenPRs, so it can't outrun the merge button.
+  auto: ready
+  maxOpenPRs: 2
+  maxRunsPerDay: 6
+  dailyBudgetUsd: 10
+  maxFixAttempts: 2
+  denyPaths:
+    - scripts/publish_app.py
+    - scripts/install-local-timer.sh
+    - .github/
+    - feeds/*/state/
+    - .feedback-loop/
+
+agentdeck:
+  url: http://localhost:7878

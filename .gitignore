@@ -4,3 +4,7 @@ __pycache__/
 .DS_Store
 feeds/*/app/dev-data/
 .vibeplat-tokens.json
+
+# feedback-loop worker worktrees and hand-off notes
+.worktrees/
+HANDOFF.md
