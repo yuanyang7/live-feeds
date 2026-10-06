@@ -206,39 +206,6 @@
   "why": "Economic"
  },
  {
-  "co": "Meta",
-  "eff": "2026-08-20",
-  "id": "44ed815f25",
-  "kind": "layoff",
-  "loc": "New York",
-  "n": 417,
-  "posted": "2026-08-20",
-  "seen": "2026-08-20T12:00:00Z",
-  "why": "Economic"
- },
- {
-  "co": "Meta",
-  "eff": "2026-08-20",
-  "id": "434243e686",
-  "kind": "layoff",
-  "loc": "New York",
-  "n": 354,
-  "posted": "2026-08-20",
-  "seen": "2026-08-20T12:00:00Z",
-  "why": "Economic"
- },
- {
-  "co": "Meta",
-  "eff": "2026-08-20",
-  "id": "abcb1b4910",
-  "kind": "layoff",
-  "loc": "New York",
-  "n": 389,
-  "posted": "2026-08-20",
-  "seen": "2026-08-20T12:00:00Z",
-  "why": "Economic"
- },
- {
   "co": "Sky Chefs, LLC",
   "eff": "2026-10-07",
   "id": "0898d078e8",
