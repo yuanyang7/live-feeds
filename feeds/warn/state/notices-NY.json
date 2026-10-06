@@ -1,5 +1,16 @@
 [
  {
+  "co": "SYPartners, LLC",
+  "eff": "2026-12-31",
+  "id": "fb7b9bca7c",
+  "kind": "layoff",
+  "loc": "New York",
+  "n": 31,
+  "posted": "2026-10-06",
+  "seen": "2026-10-06T21:47:09Z",
+  "why": "Economic"
+ },
+ {
   "co": "Stefanini Inc",
   "eff": "2026-09-20",
   "id": "d54fbb8e18",
