@@ -567,27 +567,5 @@
   "n": 42,
   "posted": "2026-07-08",
   "seen": "2026-07-08T12:00:00Z"
- },
- {
-  "co": "Lutheran Social Services of New York",
-  "eff": "2026-03-31",
-  "id": "71de6669e6",
-  "kind": "layoff",
-  "loc": "Bronx",
-  "n": 37,
-  "posted": "2026-07-07",
-  "seen": "2026-07-07T12:00:00Z",
-  "why": "Contract Expiration"
- },
- {
-  "co": "Lutheran Social Services of New York",
-  "eff": "2026-03-31",
-  "id": "c44298f9fc",
-  "kind": "layoff",
-  "loc": "Bronx",
-  "n": 20,
-  "posted": "2026-07-07",
-  "seen": "2026-07-07T12:00:00Z",
-  "why": "Contract Expiration"
  }
 ]

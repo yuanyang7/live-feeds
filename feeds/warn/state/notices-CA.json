@@ -3644,27 +3644,5 @@
   "n": 180,
   "posted": "2026-07-08",
   "seen": "2026-07-08T12:00:00Z"
- },
- {
-  "co": "Obsidian",
-  "eff": "2026-09-04",
-  "id": "9088ecc3ca",
-  "ind": "Arts Entertainment and Recreation",
-  "kind": "layoff",
-  "loc": "Dr. Irvine",
-  "n": 52,
-  "posted": "2026-07-07",
-  "seen": "2026-07-07T12:00:00Z"
- },
- {
-  "co": "DHL Supply Chain",
-  "eff": "2026-09-03",
-  "id": "1c34ae07bc",
-  "ind": "Transportation and Warehousing",
-  "kind": "closure",
-  "loc": "Fullerton",
-  "n": 33,
-  "posted": "2026-07-07",
-  "seen": "2026-07-07T12:00:00Z"
  }
 ]
