@@ -1,5 +1,15 @@
 [
  {
+  "co": "Starbucks",
+  "eff": "2026-11-14",
+  "id": "1c97d5e126",
+  "kind": "closure",
+  "loc": "Seattle, Redmond, Vancouver, and Spokane",
+  "n": 51,
+  "posted": "2026-10-07",
+  "seen": "2026-10-07T18:47:09Z"
+ },
+ {
   "co": "Jack in the Box",
   "eff": "2026-12-02",
   "id": "4f9bb081ed",
