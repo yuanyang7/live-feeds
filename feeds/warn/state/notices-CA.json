@@ -3787,27 +3787,5 @@
   "n": 96,
   "posted": "2026-07-09",
   "seen": "2026-07-09T12:00:00Z"
- },
- {
-  "co": "LeeMAH Electronics",
-  "eff": "2026-09-08",
-  "id": "e9a7eb2692",
-  "ind": "Manufacturing",
-  "kind": "closure",
-  "loc": "Brisbane",
-  "n": 212,
-  "posted": "2026-07-08",
-  "seen": "2026-07-08T12:00:00Z"
- },
- {
-  "co": "Chevron",
-  "eff": "2026-09-01",
-  "id": "4e9e67a348",
-  "ind": "Mining Quarrying Oil and Gas Exraction",
-  "kind": "layoff",
-  "loc": "San Ramon",
-  "n": 180,
-  "posted": "2026-07-08",
-  "seen": "2026-07-08T12:00:00Z"
  }
 ]
