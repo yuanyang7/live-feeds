@@ -3765,27 +3765,5 @@
   "n": 6,
   "posted": "2026-07-10",
   "seen": "2026-07-10T12:00:00Z"
- },
- {
-  "co": "Xpress Delivery LLC (DSJ9)",
-  "eff": "2026-09-09",
-  "id": "2b9d696c84",
-  "ind": "Transportation and Warehousing",
-  "kind": "closure",
-  "loc": "Oakland",
-  "n": 80,
-  "posted": "2026-07-09",
-  "seen": "2026-07-09T12:00:00Z"
- },
- {
-  "co": "OnPoint Logistics LLC",
-  "eff": "2026-09-07",
-  "id": "ddf72a8a42",
-  "ind": "Transportation and Warehousing",
-  "kind": "closure",
-  "loc": "San Francisco",
-  "n": 96,
-  "posted": "2026-07-09",
-  "seen": "2026-07-09T12:00:00Z"
  }
 ]
