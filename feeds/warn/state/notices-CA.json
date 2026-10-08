@@ -1,5 +1,60 @@
 [
  {
+  "co": "ODS Technologies LP and Betfair Interactive US LLC",
+  "eff": "2026-11-30",
+  "id": "7a68135e85",
+  "ind": "Arts Entertainment and Recreation",
+  "kind": "layoff",
+  "loc": "Los Angeles",
+  "n": 2,
+  "posted": "2026-10-07",
+  "seen": "2026-10-08T21:47:06Z"
+ },
+ {
+  "co": "Beachbody, LLC",
+  "eff": "2026-12-07",
+  "id": "19eda509ea",
+  "ind": "Professional Scientific and Technical Services",
+  "kind": "layoff",
+  "loc": "El Segundo",
+  "n": 80,
+  "posted": "2026-10-07",
+  "seen": "2026-10-08T21:47:06Z"
+ },
+ {
+  "co": "Neogen Care Home Health Agency",
+  "eff": "2026-09-11",
+  "id": "894aa67259",
+  "ind": "Healthcare and Social Assistance",
+  "kind": "closure",
+  "loc": "Sherman Oaks",
+  "n": 148,
+  "posted": "2026-10-06",
+  "seen": "2026-10-08T21:47:06Z"
+ },
+ {
+  "co": "Cayuga Home for Children",
+  "eff": "2027-01-04",
+  "id": "8044f52b19",
+  "ind": "Healthcare and Social Assistance",
+  "kind": "closure",
+  "loc": "Los Angeles",
+  "n": 12,
+  "posted": "2026-10-06",
+  "seen": "2026-10-08T21:47:06Z"
+ },
+ {
+  "co": "Caribou Biosciences, Inc.",
+  "eff": "2026-12-07",
+  "id": "f39fdc2489",
+  "ind": "Professional Scientific and Technical Services",
+  "kind": "closure",
+  "loc": "Berkeley",
+  "n": 87,
+  "posted": "2026-10-06",
+  "seen": "2026-10-08T21:47:06Z"
+ },
+ {
   "co": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc. (74 N. Pasadena Ave.)",
   "eff": "2026-12-04",
   "id": "29b024f007",
@@ -268,17 +323,6 @@
   "co": "Constellis, LLC (5130 N. Clark Ave.)",
   "eff": "2026-10-31",
   "id": "cffb402c60",
-  "ind": "Administrative and Support and Waste Management and Remediation",
-  "kind": "layoff",
-  "loc": "Lakewood",
-  "n": 5,
-  "posted": "2026-09-29",
-  "seen": "2026-09-29T12:00:00Z"
- },
- {
-  "co": "Constellis, LLC (5130 N. Clark Ave.)",
-  "eff": "2026-10-31",
-  "id": "04258aa6f8",
   "ind": "Administrative and Support and Waste Management and Remediation",
   "kind": "layoff",
   "loc": "Lakewood",
