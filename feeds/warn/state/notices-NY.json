@@ -1,5 +1,27 @@
 [
  {
+  "co": "InvaGen Pharmaceuticals, Inc.",
+  "eff": "2026-11-27",
+  "id": "3e05f32deb",
+  "kind": "layoff",
+  "loc": "Central Islip",
+  "n": 160,
+  "posted": "2026-10-08",
+  "seen": "2026-10-09T12:47:07Z",
+  "why": "Economic"
+ },
+ {
+  "co": "InvaGen Pharmaceuticals, Inc.",
+  "eff": "2026-11-27",
+  "id": "c5d4f9e148",
+  "kind": "layoff",
+  "loc": "Suffolk",
+  "n": 45,
+  "posted": "2026-10-08",
+  "seen": "2026-10-09T12:47:07Z",
+  "why": "Economic"
+ },
+ {
   "co": "SYPartners, LLC",
   "eff": "2026-12-31",
   "id": "fb7b9bca7c",
