@@ -3765,27 +3765,5 @@
   "posted": "2026-07-14",
   "seen": "2026-07-14T12:00:00Z",
   "tmp": true
- },
- {
-  "co": "The Vons Companies Inc.",
-  "eff": "2026-09-05",
-  "id": "35abb8b0c0",
-  "ind": "Retail Trade",
-  "kind": "closure",
-  "loc": "Pasadena",
-  "n": 55,
-  "posted": "2026-07-13",
-  "seen": "2026-07-13T12:00:00Z"
- },
- {
-  "co": "GEODIS",
-  "eff": "2026-09-03",
-  "id": "8d1e817c95",
-  "ind": "Transportation and Warehousing",
-  "kind": "closure",
-  "loc": "Redlands",
-  "n": 81,
-  "posted": "2026-07-13",
-  "seen": "2026-07-13T12:00:00Z"
  }
 ]
