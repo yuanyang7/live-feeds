@@ -42,9 +42,10 @@
       freshTitle: "How often is this updated?",
       freshCheck: "WARN Watch checks each state's official list every {h} hours.",
       freshCheck1: "WARN Watch checks each state's official list every hour.",
+      freshCheck24: "WARN Watch checks each state's official list once a day.",
       freshStates: "States post new notices on their own schedules, usually a few times a week and often several days after the employer filed. New Jersey only lists the month a notice was posted.",
       freshPage: "While you have this page open, it refreshes itself every minute, so new notices appear without reloading.",
-      cadence: "checks every {h} hours", cadence1: "checks hourly",
+      cadence: "checks every {h} hours", cadence1: "checks hourly", cadence24: "checks daily",
       sourcesTitle: "Sources",
       fine: "Data comes straight from state labor departments and can lag or be revised. Counts are what employers reported.",
       noTexas: "Why no Texas? The Texas Workforce Commission's site blocks automated access from cloud servers, so WARN Watch can't check it reliably.", noTexasLink: "See Texas notices on the TWC site",
@@ -66,9 +67,10 @@
       freshTitle: "多久更新一次？",
       freshCheck: "WARN Watch 每 {h} 小时检查一次各州的官方列表。",
       freshCheck1: "WARN Watch 每小时检查一次各州的官方列表。",
+      freshCheck24: "WARN Watch 每天检查一次各州的官方列表。",
       freshStates: "各州按各自的节奏发布新通知，通常每周几次，且往往在雇主提交几天之后。新泽西州只公布通知发布的月份。",
       freshPage: "页面打开期间每分钟自动刷新，新通知无需重新加载即可出现。",
-      cadence: "每 {h} 小时检查", cadence1: "每小时检查",
+      cadence: "每 {h} 小时检查", cadence1: "每小时检查", cadence24: "每天检查",
       sourcesTitle: "数据来源",
       fine: "数据直接来自各州劳工部门，可能有延迟或修订。人数为雇主申报数。",
       noTexas: "为什么没有德州？德州劳动力委员会（TWC）的网站会拦截来自云服务器的自动访问，WARN Watch 无法稳定获取。", noTexasLink: "到 TWC 网站查看德州通知",
@@ -83,6 +85,8 @@
     },
   };
   const t = (k, vars) => (STR[lang][k] || STR.en[k] || k).replace(/\{(\w+)\}/g, (_, n) => (vars && n in vars ? vars[n] : ""));
+  // Cadence wording: "hourly" and "daily" read better than "every 1/24 hours".
+  const every = (k, h) => t(h === 1 ? k + "1" : h === 24 ? k + "24" : k, { h });
   document.documentElement.lang = lang === "zh" ? "zh-CN" : "en";
   document.querySelectorAll("[data-i18n]").forEach((el) => { el.textContent = t(el.dataset.i18n); });
   document.querySelectorAll("[data-i18n-placeholder]").forEach((el) => { el.placeholder = t(el.dataset.i18nPlaceholder); });
@@ -230,14 +234,14 @@
     // Missing two scheduled runs in a row (plus slack for late Actions starts) means something's off.
     const stale = Date.now() - Date.parse(meta.checkedAt) > (2 * h + 1) * 3600 * 1000;
     el.textContent = stale ? t("stale", { t: ago(meta.checkedAt) })
-      : t("checked", { t: ago(meta.checkedAt) }) + " · " + (h === 1 ? t("cadence1") : t("cadence", { h }));
+      : t("checked", { t: ago(meta.checkedAt) }) + " · " + every("cadence", h);
     el.classList.toggle("stale", stale);
     live.classList.toggle("on", !stale);
   }
 
   function renderFreshness() {
     const h = (meta && meta.checkEveryHours) || 1;
-    $("freshCheck").textContent = h === 1 ? t("freshCheck1") : t("freshCheck", { h });
+    $("freshCheck").textContent = every("freshCheck", h);
   }
 
   function renderSources() {

@@ -6,8 +6,8 @@ lives in its own folder with its scraper, its committed state and the web app th
 
 | Feed | App | Schedule | Sources |
 |---|---|---|---|
-| [warn](feeds/warn) | [WARN Watch](https://vibeplat.ai/apps/warn-watch-v899yx) | every 3 hours | CA, NY, WA, NJ WARN notice lists |
-| [pet-recalls](feeds/pet-recalls) | [Bowl Check](https://vibeplat.ai/apps/bowl-check-8kxye9) | every 3 hours | FDA recall announcements and pet food advisories (dog and cat food only) |
+| [warn](feeds/warn) | [WARN Watch](https://vibeplat.ai/apps/warn-watch-v899yx) | daily | CA, NY, WA, NJ WARN notice lists |
+| [pet-recalls](feeds/pet-recalls) | [Bowl Check](https://vibeplat.ai/apps/bowl-check-8kxye9) | daily | FDA recall announcements and pet food advisories (dog and cat food only) |
 
 ## How a feed works
 

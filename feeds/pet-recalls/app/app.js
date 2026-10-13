@@ -56,9 +56,10 @@
       windowNote: "Showing the last {n} years of FDA notices.", items: "{n} notices", item: "1 notice",
       checked: "Checked {t}", stale: "Last checked {t} · updates may be delayed", loading: "Loading…",
       offline: "Couldn't reach the feed. Retrying…",
-      cadence: "checks every {h} hours", cadence1: "checks hourly",
+      cadence: "checks every {h} hours", cadence1: "checks hourly", cadence24: "checks daily",
       freshCheck: "Bowl Check reads the FDA's lists every {h} hours. While this page is open it refreshes itself, so new notices show up without reloading.",
       freshCheck1: "Bowl Check reads the FDA's lists every hour. While this page is open it refreshes itself, so new notices show up without reloading.",
+      freshCheck24: "Bowl Check reads the FDA's lists once a day. While this page is open it refreshes itself, so new notices show up without reloading.",
       newToast: "{n} new notices — tap to see", newToast1: "1 new notice — tap to see",
       issue: "Source issue since {t}", ok: "Latest {t}",
       todoTitle: "If your pet's food is on the list",
@@ -94,9 +95,10 @@
       windowNote: "显示近 {n} 年的 FDA 公告。", items: "{n} 条", item: "1 条",
       checked: "{t}检查", stale: "上次检查：{t} · 可能有延迟", loading: "加载中…",
       offline: "暂时无法连接数据源，正在重试…",
-      cadence: "每 {h} 小时检查", cadence1: "每小时检查",
+      cadence: "每 {h} 小时检查", cadence1: "每小时检查", cadence24: "每天检查",
       freshCheck: "Bowl Check 每 {h} 小时读取一次 FDA 列表。页面打开期间会自动刷新，新公告无需重新加载即可出现。",
       freshCheck1: "Bowl Check 每小时读取一次 FDA 列表。页面打开期间会自动刷新，新公告无需重新加载即可出现。",
+      freshCheck24: "Bowl Check 每天读取一次 FDA 列表。页面打开期间会自动刷新，新公告无需重新加载即可出现。",
       newToast: "{n} 条新公告 — 点击查看", newToast1: "1 条新公告 — 点击查看",
       issue: "数据源异常，始于{t}", ok: "最新 {t}",
       todoTitle: "如果你家宠物的食品在名单上",
@@ -112,6 +114,8 @@
     },
   };
   const t = (k, vars) => (STR[lang][k] || STR.en[k] || k).replace(/\{(\w+)\}/g, (_, n) => (vars && n in vars ? vars[n] : ""));
+  // Cadence wording: "hourly" and "daily" read better than "every 1/24 hours".
+  const every = (k, h) => t(h === 1 ? k + "1" : h === 24 ? k + "24" : k, { h });
   document.documentElement.lang = lang === "zh" ? "zh-CN" : "en";
   document.querySelectorAll("[data-i18n]").forEach((el) => { el.textContent = t(el.dataset.i18n); });
   document.querySelectorAll("[data-i18n-placeholder]").forEach((el) => { el.placeholder = t(el.dataset.i18nPlaceholder); });
@@ -322,13 +326,13 @@
     // Missing two runs in a row (plus slack) means something's off.
     const stale = Date.now() - Date.parse(meta.checkedAt) > (2 * h + 1) * 3600 * 1000;
     el.textContent = stale ? t("stale", { t: ago(meta.checkedAt) })
-      : t("checked", { t: ago(meta.checkedAt) }) + " · " + (h === 1 ? t("cadence1") : t("cadence", { h }));
+      : t("checked", { t: ago(meta.checkedAt) }) + " · " + every("cadence", h);
     el.classList.toggle("stale", stale);
   }
 
   function renderSources() {
     const h = (meta && meta.checkEveryHours) || 1;
-    $("freshCheck").textContent = h === 1 ? t("freshCheck1") : t("freshCheck", { h });
+    $("freshCheck").textContent = every("freshCheck", h);
     if (!meta) return;
     $("sources").innerHTML = meta.sources.map((s) =>
       `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a>` +

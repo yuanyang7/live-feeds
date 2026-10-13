@@ -3,4 +3,4 @@ slug = "warn-watch-v899yx"
 account = "alex"
 window_days = 90
 # What scripts/local_timer.py paces the feed by, and what the app shows to viewers.
-check_every_hours = 3
+check_every_hours = 24
