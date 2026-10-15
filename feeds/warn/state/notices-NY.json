@@ -1,5 +1,16 @@
 [
  {
+  "co": "Mezz57th, LLC",
+  "eff": "2026-12-07",
+  "id": "4622865b9a",
+  "kind": "closure",
+  "loc": "M New York",
+  "n": 71,
+  "posted": "2026-10-13",
+  "seen": "2026-10-15T02:47:03Z",
+  "why": "Economic"
+ },
+ {
   "co": "Air Company Holdings Inc.",
   "eff": "2026-08-02",
   "id": "deffb1f0fb",
@@ -554,16 +565,5 @@
   "n": 22,
   "posted": "2026-07-17",
   "seen": "2026-07-17T12:00:00Z"
- },
- {
-  "co": "IPIC Theaters, LLC.",
-  "eff": "2026-05-28",
-  "id": "7d48b0e087",
-  "kind": "closure",
-  "loc": "New York",
-  "n": 58,
-  "posted": "2026-07-16",
-  "seen": "2026-07-16T12:00:00Z",
-  "why": "Bankruptcy"
  }
 ]
