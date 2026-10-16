@@ -1,5 +1,138 @@
 [
  {
+  "co": "The Neil Jones Food Company dba Tomatek",
+  "eff": "2026-12-14",
+  "id": "5ac057d347",
+  "ind": "Manufacturing",
+  "kind": "layoff",
+  "loc": "Firebaugh",
+  "n": 116,
+  "posted": "2026-10-14",
+  "seen": "2026-10-16T02:47:02Z",
+  "tmp": true
+ },
+ {
+  "co": "Menzies Aviation",
+  "eff": "2026-11-19",
+  "id": "1a39b6f044",
+  "ind": "Transportation and Warehousing",
+  "kind": "layoff",
+  "loc": "Los Angeles",
+  "n": 137,
+  "posted": "2026-10-14",
+  "seen": "2026-10-16T02:47:02Z"
+ },
+ {
+  "co": "ServiceNow, Inc.",
+  "eff": "2026-12-14",
+  "id": "60d5d34948",
+  "ind": "Information",
+  "kind": "layoff",
+  "loc": "Santa Clara",
+  "n": 2,
+  "posted": "2026-10-13",
+  "seen": "2026-10-16T02:47:02Z"
+ },
+ {
+  "co": "ServiceNow, Inc.",
+  "eff": "2026-12-14",
+  "id": "18a9f767a2",
+  "ind": "Information",
+  "kind": "layoff",
+  "loc": "San Diego",
+  "n": 18,
+  "posted": "2026-10-13",
+  "seen": "2026-10-16T02:47:02Z"
+ },
+ {
+  "co": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",
+  "eff": "2026-12-11",
+  "id": "ebacadacdd",
+  "ind": "Healthcare and Social Assistance",
+  "kind": "layoff",
+  "loc": "Pleasanton",
+  "n": 7,
+  "posted": "2026-10-13",
+  "seen": "2026-10-16T02:47:02Z"
+ },
+ {
+  "co": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",
+  "eff": "2026-12-11",
+  "id": "09e90ab7c8",
+  "ind": "Healthcare and Social Assistance",
+  "kind": "layoff",
+  "loc": "Sacramento",
+  "n": 1,
+  "posted": "2026-10-13",
+  "seen": "2026-10-16T02:47:02Z"
+ },
+ {
+  "co": "Phillips 66 - Wilmington",
+  "eff": "2026-12-09",
+  "id": "f31676146a",
+  "ind": "Manufacturing",
+  "kind": "closure",
+  "loc": "Wilmington",
+  "n": 5,
+  "posted": "2026-10-12",
+  "seen": "2026-10-16T02:47:02Z"
+ },
+ {
+  "co": "Phillips 66 - Carson",
+  "eff": "2026-12-09",
+  "id": "6841cdb842",
+  "ind": "Manufacturing",
+  "kind": "closure",
+  "loc": "Carson",
+  "n": 3,
+  "posted": "2026-10-12",
+  "seen": "2026-10-16T02:47:02Z"
+ },
+ {
+  "co": "Sapporo U.S.A. - Executive Place",
+  "eff": "2026-12-11",
+  "id": "0eec1a9ea3",
+  "ind": "Wholesale Trade",
+  "kind": "closure",
+  "loc": "Escondido",
+  "n": 1,
+  "posted": "2026-10-09",
+  "seen": "2026-10-16T02:47:02Z"
+ },
+ {
+  "co": "Sapporo U.S.A - Citracado Parkway",
+  "eff": "2026-12-11",
+  "id": "e706f3dc17",
+  "ind": "Wholesale Trade",
+  "kind": "closure",
+  "loc": "Escondido",
+  "n": 2,
+  "posted": "2026-10-09",
+  "seen": "2026-10-16T02:47:02Z"
+ },
+ {
+  "co": "Jacuzzi",
+  "eff": "2026-12-07",
+  "id": "8fd92687d2",
+  "ind": "Retail Trade",
+  "kind": "closure",
+  "loc": "Chino",
+  "n": 42,
+  "posted": "2026-10-08",
+  "seen": "2026-10-16T02:47:02Z"
+ },
+ {
+  "co": "Haas Automation, Inc.",
+  "eff": "2027-01-04",
+  "id": "3b7815a402",
+  "ind": "Manufacturing",
+  "kind": "layoff",
+  "loc": "Oxnard",
+  "n": 74,
+  "posted": "2026-10-08",
+  "seen": "2026-10-16T02:47:02Z"
+ },
+ {
   "co": "ODS Technologies LP and Betfair Interactive US LLC",
   "eff": "2026-11-30",
   "id": "7a68135e85",
@@ -2412,7 +2545,7 @@
   "eff": "2026-11-02",
   "id": "227bbabe5c",
   "ind": "Manufacturing",
-  "kind": "",
+  "kind": "layoff",
   "loc": "Oxnard",
   "n": 73,
   "posted": "2026-08-20",
@@ -3576,83 +3709,5 @@
   "n": 25,
   "posted": "2026-07-20",
   "seen": "2026-07-20T12:00:00Z"
- },
- {
-  "co": "Ventura Coastal",
-  "eff": "2026-09-18",
-  "id": "e0a71d5d35",
-  "ind": "Manufacturing",
-  "kind": "layoff",
-  "loc": "Tipton",
-  "n": 71,
-  "posted": "2026-07-17",
-  "seen": "2026-07-17T12:00:00Z",
-  "tmp": true
- },
- {
-  "co": "NBCUniversal Media, LLC -1440",
-  "eff": "2026-08-28",
-  "id": "435f401e22",
-  "ind": "Arts Entertainment and Recreation",
-  "kind": "layoff",
-  "loc": "Universal City",
-  "n": 87,
-  "posted": "2026-07-17",
-  "seen": "2026-07-17T12:00:00Z"
- },
- {
-  "co": "NBCUniversal Media, LLC - 1460",
-  "eff": "2026-08-28",
-  "id": "eb61aeec48",
-  "ind": "Arts Entertainment and Recreation",
-  "kind": "layoff",
-  "loc": "Universal City",
-  "n": 55,
-  "posted": "2026-07-17",
-  "seen": "2026-07-17T12:00:00Z"
- },
- {
-  "co": "NBCUniversal Media, LLC - 1360",
-  "eff": "2026-08-28",
-  "id": "ef3e78f4da",
-  "ind": "Arts Entertainment and Recreation",
-  "kind": "layoff",
-  "loc": "Universal City",
-  "n": 5,
-  "posted": "2026-07-17",
-  "seen": "2026-07-17T12:00:00Z"
- },
- {
-  "co": "NBCUniversal Media, LLC - 1320",
-  "eff": "2026-08-28",
-  "id": "0793a8f2a9",
-  "ind": "Arts Entertainment and Recreation",
-  "kind": "layoff",
-  "loc": "Universal City",
-  "n": 3,
-  "posted": "2026-07-17",
-  "seen": "2026-07-17T12:00:00Z"
- },
- {
-  "co": "Monterey Mushrooms, LLC",
-  "eff": "2026-09-20",
-  "id": "54d0091610",
-  "ind": "Agriculture Forestry Fishing Hunting",
-  "kind": "layoff",
-  "loc": "Morgan Hill",
-  "n": 253,
-  "posted": "2026-07-17",
-  "seen": "2026-07-17T12:00:00Z"
- },
- {
-  "co": "Aramark Campus, LLC",
-  "eff": "2026-07-31",
-  "id": "bcf4feb4ca",
-  "ind": "Accommodation and Food Services",
-  "kind": "layoff",
-  "loc": "Redlands",
-  "n": 94,
-  "posted": "2026-07-17",
-  "seen": "2026-07-17T12:00:00Z"
  }
 ]
