@@ -3665,49 +3665,5 @@
   "n": 61,
   "posted": "2026-07-21",
   "seen": "2026-07-21T12:00:00Z"
- },
- {
-  "co": "Wind & Sea Restaurant",
-  "eff": "2026-09-15",
-  "id": "ed06ba3c07",
-  "ind": "Accommodation and Food Services",
-  "kind": "closure",
-  "loc": "Orange",
-  "n": 198,
-  "posted": "2026-07-20",
-  "seen": "2026-07-20T12:00:00Z"
- },
- {
-  "co": "Queen City Staffing",
-  "eff": "2026-09-13",
-  "id": "94c2c97ca3",
-  "ind": "Administrative and Support and Waste Management and Remediation",
-  "kind": "closure",
-  "loc": "Santa Rosa",
-  "n": 49,
-  "posted": "2026-07-20",
-  "seen": "2026-07-20T12:00:00Z"
- },
- {
-  "co": "Magic Leap, Inc.",
-  "eff": "2026-10-01",
-  "id": "b7aa6bdc4c",
-  "ind": "Professional Scientific and Technical Services",
-  "kind": "layoff",
-  "loc": "Sunnyvale",
-  "n": 76,
-  "posted": "2026-07-20",
-  "seen": "2026-07-20T12:00:00Z"
- },
- {
-  "co": "DesigneRX Pharmaceuticals, Inc.",
-  "eff": "2026-09-21",
-  "id": "84af7bbd58",
-  "ind": "Professional Scientific and Technical Services",
-  "kind": "layoff",
-  "loc": "Vacaville",
-  "n": 25,
-  "posted": "2026-07-20",
-  "seen": "2026-07-20T12:00:00Z"
  }
 ]
