@@ -3621,38 +3621,5 @@
   "n": 91,
   "posted": "2026-07-23",
   "seen": "2026-07-23T12:00:00Z"
- },
- {
-  "co": "Pixar",
-  "eff": "2026-09-26",
-  "id": "a9c501d4a9",
-  "ind": "Arts Entertainment and Recreation",
-  "kind": "layoff",
-  "loc": "Emeryville",
-  "n": 108,
-  "posted": "2026-07-22",
-  "seen": "2026-07-22T12:00:00Z"
- },
- {
-  "co": "CraftForce Services, Inc. (2753 Giffen Avenue)",
-  "eff": "2026-09-20",
-  "id": "8aeb909ed8",
-  "ind": "Administrative and Support and Waste Management and Remediation",
-  "kind": "closure",
-  "loc": "Santa Rosa",
-  "n": 7,
-  "posted": "2026-07-22",
-  "seen": "2026-07-22T12:00:00Z"
- },
- {
-  "co": "CraftForce Services, Inc. (2330 Circadian Way)",
-  "eff": "2026-09-20",
-  "id": "69703b82bf",
-  "ind": "Administrative and Support and Waste Management and Remediation",
-  "kind": "closure",
-  "loc": "Santa Rosa",
-  "n": 51,
-  "posted": "2026-07-22",
-  "seen": "2026-07-22T12:00:00Z"
  }
 ]

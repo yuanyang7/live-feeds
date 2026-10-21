@@ -1,5 +1,38 @@
 [
  {
+  "co": "Altera Digital Health, Inc.",
+  "eff": "2026-12-31",
+  "id": "c972ea9ad8",
+  "kind": "layoff",
+  "loc": "Suffolk",
+  "n": 133,
+  "posted": "2026-10-20",
+  "seen": "2026-10-21T03:47:08Z",
+  "why": "Contract Expiration"
+ },
+ {
+  "co": "Resideo, LLC. D/B/A ADI",
+  "eff": "2026-09-15",
+  "id": "fdc240f116",
+  "kind": "closure",
+  "loc": "Feura Bush",
+  "n": 55,
+  "posted": "2026-10-19",
+  "seen": "2026-10-21T03:47:08Z",
+  "why": "Relocation of Business"
+ },
+ {
+  "co": "Bowery F&B, LLC",
+  "eff": "2026-12-21",
+  "id": "15ce712eba",
+  "kind": "closure",
+  "loc": "New York",
+  "n": 28,
+  "posted": "2026-10-19",
+  "seen": "2026-10-21T03:47:08Z",
+  "why": "Economic"
+ },
+ {
   "co": "FreedomRoads, LLC.; CWI, LLC.; Meyer's RV Centers, LLC.",
   "eff": "2026-12-08",
   "id": "cad92642c7",
@@ -473,37 +506,5 @@
   "n": 26,
   "posted": "2026-07-24",
   "seen": "2026-07-24T12:00:00Z"
- },
- {
-  "co": "VanDeMark Chemical Inc.",
-  "eff": "2026-05-25",
-  "id": "321418ec9d",
-  "kind": "closure",
-  "loc": "Lockport",
-  "n": 0,
-  "posted": "2026-07-22",
-  "seen": "2026-07-22T12:00:00Z",
-  "why": "Economic"
- },
- {
-  "co": "Piedmont Airlines, Inc.",
-  "eff": "2026-09-10",
-  "id": "f8542934ce",
-  "kind": "closure",
-  "loc": "Syracuse",
-  "n": 88,
-  "posted": "2026-07-22",
-  "seen": "2026-07-22T12:00:00Z",
-  "why": "Contract Loss"
- },
- {
-  "co": "H&M Fashion USA, Inc.",
-  "eff": "2026-09-04",
-  "id": "830eeb3788",
-  "kind": "layoff",
-  "loc": "New York",
-  "n": 76,
-  "posted": "2026-07-22",
-  "seen": "2026-07-22T12:00:00Z"
  }
 ]
