@@ -1,5 +1,38 @@
 [
  {
+  "co": "Etain, LLC.",
+  "eff": "2026-08-03",
+  "id": "95c405890e",
+  "kind": "closure",
+  "loc": "Warren",
+  "n": 0,
+  "posted": "2026-10-23",
+  "seen": "2026-10-24T06:47:04Z",
+  "why": "Economic"
+ },
+ {
+  "co": "Acme Markets, Inc.",
+  "eff": "2026-12-10",
+  "id": "5ddcaa3f9c",
+  "kind": "closure",
+  "loc": "Rye Brook",
+  "n": 38,
+  "posted": "2026-10-23",
+  "seen": "2026-10-24T06:47:04Z",
+  "why": "Expiration of Lease"
+ },
+ {
+  "co": "Mezz57th, LLC",
+  "eff": "2026-12-23",
+  "id": "fb861686ae",
+  "kind": "closure",
+  "loc": "M New York",
+  "n": 71,
+  "posted": "2026-10-22",
+  "seen": "2026-10-24T06:47:04Z",
+  "why": "Economic"
+ },
+ {
   "co": "Altera Digital Health, Inc.",
   "eff": "2026-12-31",
   "id": "c972ea9ad8",

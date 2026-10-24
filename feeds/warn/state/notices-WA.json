@@ -1,5 +1,15 @@
 [
  {
+  "co": "Starbucks",
+  "eff": "2026-12-31",
+  "id": "2019b4e4bc",
+  "kind": "closure",
+  "loc": "Seatac, Seattle",
+  "n": 135,
+  "posted": "2026-10-23",
+  "seen": "2026-10-24T06:47:04Z"
+ },
+ {
   "co": "DSquared Hospitality Company dba Sidekicks Pub",
   "eff": "2026-12-20",
   "id": "b616b24a9e",
