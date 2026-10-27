@@ -1,5 +1,21 @@
 [
  {
+  "date": "2026-10-26",
+  "det": true,
+  "hz": "bacteria",
+  "id": "a512b95ae4",
+  "ill": "The FDA collected and tested these samples after receiving a consumer complaint about two cats that developed gastrointestinal illness after eating Darwin’s Natural Selections Chicken Recipe for Cats.",
+  "kind": "advisory",
+  "seen": "2026-10-27T06:17:07Z",
+  "sp": [
+   "cat"
+  ],
+  "sum": "The FDA is cautioning pet owners that samples of Darwin’s Natural Selections cat food made by Arrow Reliance, Inc. tested positive for Salmonella.",
+  "title": "FDA Advisory: Do Not Feed Two Lots of Darwin’s Natural Pet Products Chicken Recipe Cat Food Due to Salmonella",
+  "url": "https://www.fda.gov/animal-veterinary/outbreaks-and-advisories/fda-advisory-do-not-feed-two-lots-darwins-natural-pet-products-chicken-recipe-cat-food-due",
+  "why": "Salmonella"
+ },
+ {
   "date": "2026-01-23",
   "det": true,
   "hz": "bacteria",
