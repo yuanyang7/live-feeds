@@ -442,27 +442,5 @@
   "posted": "2026-08-03",
   "seen": "2026-08-03T12:00:00Z",
   "why": "Sale of Business"
- },
- {
-  "co": "Flagship Logistics, LLC.",
-  "eff": "2026-06-30",
-  "id": "00fa286cd5",
-  "kind": "closure",
-  "loc": "North Bath",
-  "n": 43,
-  "posted": "2026-07-28",
-  "seen": "2026-07-28T12:00:00Z",
-  "why": "Economic Expiration of Lease Other"
- },
- {
-  "co": "Brinker International Payroll Company, L.P.",
-  "eff": "2026-09-28",
-  "id": "bd3ce79f0a",
-  "kind": "closure",
-  "loc": "Garden City",
-  "n": 57,
-  "posted": "2026-07-28",
-  "seen": "2026-07-28T12:00:00Z",
-  "why": "Economic Expiration of Lease"
  }
 ]
