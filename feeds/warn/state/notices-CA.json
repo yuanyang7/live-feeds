@@ -1,5 +1,84 @@
 [
  {
+  "co": "Tawa, Inc. dba 99 Ranch Market",
+  "eff": "2026-11-15",
+  "id": "a83eca14b9",
+  "ind": "Retail Trade",
+  "kind": "closure",
+  "loc": "Chino",
+  "n": 49,
+  "posted": "2026-10-26",
+  "seen": "2026-10-28T06:47:14Z"
+ },
+ {
+  "co": "Everidge Inc.",
+  "eff": "2027-02-26",
+  "id": "4837d6404d",
+  "ind": "Manufacturing",
+  "kind": "closure",
+  "loc": "Rancho Cucamonga",
+  "n": 90,
+  "posted": "2026-10-26",
+  "seen": "2026-10-28T06:47:14Z"
+ },
+ {
+  "co": "The Madrona",
+  "eff": "2027-01-03",
+  "id": "825ea5b57f",
+  "ind": "Accommodation and Food Services",
+  "kind": "closure",
+  "loc": "Healdsburg",
+  "n": 77,
+  "posted": "2026-10-23",
+  "seen": "2026-10-28T06:47:14Z",
+  "tmp": true
+ },
+ {
+  "co": "Conduent State & Local Solutions, Inc.",
+  "eff": "2026-12-22",
+  "id": "cdd37ab624",
+  "ind": "Professional Scientific and Technical Services",
+  "kind": "layoff",
+  "loc": "San Francisco",
+  "n": 64,
+  "posted": "2026-10-23",
+  "seen": "2026-10-28T06:47:14Z"
+ },
+ {
+  "co": "Intel Corporation",
+  "eff": "2026-10-31",
+  "id": "ebbf0cdd98",
+  "ind": "Manufacturing",
+  "kind": "layoff",
+  "loc": "Folsom",
+  "n": 67,
+  "posted": "2026-10-22",
+  "seen": "2026-10-28T06:47:14Z"
+ },
+ {
+  "co": "Georg Fischer Signet LLC",
+  "eff": "2026-12-21",
+  "id": "3c05f817cd",
+  "ind": "Manufacturing",
+  "kind": "closure",
+  "loc": "Baldwin Park",
+  "n": 107,
+  "posted": "2026-10-22",
+  "seen": "2026-10-28T06:47:14Z",
+  "tmp": true
+ },
+ {
+  "co": "24Hr Homecare",
+  "eff": "2026-12-17",
+  "id": "7602403304",
+  "ind": "Healthcare and Social Assistance",
+  "kind": "layoff",
+  "loc": "El Segundo",
+  "n": 875,
+  "posted": "2026-10-22",
+  "seen": "2026-10-28T06:47:14Z"
+ },
+ {
   "co": "eBay Inc.",
   "eff": "2026-10-21",
   "id": "7e70e585b4",
@@ -374,7 +453,7 @@
   "eff": "2027-01-04",
   "id": "3b7815a402",
   "ind": "Manufacturing",
-  "kind": "layoff",
+  "kind": "",
   "loc": "Oxnard",
   "n": 74,
   "posted": "2026-10-08",
@@ -3515,38 +3594,5 @@
   "n": 15,
   "posted": "2026-07-30",
   "seen": "2026-07-30T12:00:00Z"
- },
- {
-  "co": "Tencent America LLC",
-  "eff": "2026-09-28",
-  "id": "98f0247b26",
-  "ind": "Information",
-  "kind": "layoff",
-  "loc": "Irvine",
-  "n": 68,
-  "posted": "2026-07-29",
-  "seen": "2026-07-29T12:00:00Z"
- },
- {
-  "co": "Federal Express Corporation",
-  "eff": "2026-09-29",
-  "id": "e24ba57916",
-  "ind": "Transportation and Warehousing",
-  "kind": "closure",
-  "loc": "Dr Palm Springs",
-  "n": 62,
-  "posted": "2026-07-29",
-  "seen": "2026-07-29T12:00:00Z"
- },
- {
-  "co": "Federal Express Corporation",
-  "eff": "2026-09-28",
-  "id": "75f5c66c47",
-  "ind": "Transportation and Warehousing",
-  "kind": "closure",
-  "loc": "Victorville",
-  "n": 54,
-  "posted": "2026-07-29",
-  "seen": "2026-07-29T12:00:00Z"
  }
 ]
