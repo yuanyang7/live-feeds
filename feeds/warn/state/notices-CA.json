@@ -3561,38 +3561,5 @@
   "n": 10,
   "posted": "2026-07-31",
   "seen": "2026-07-31T12:00:00Z"
- },
- {
-  "co": "Sunnyside Restaurant and Lodge",
-  "eff": "2026-10-04",
-  "id": "1c100d23db",
-  "ind": "Accommodation and Food Services",
-  "kind": "closure",
-  "loc": "Tahoe City",
-  "n": 47,
-  "posted": "2026-07-30",
-  "seen": "2026-07-30T12:00:00Z"
- },
- {
-  "co": "International Rescue Committee, Inc.",
-  "eff": "2026-09-30",
-  "id": "c59b8df2d2",
-  "ind": "Healthcare and Social Assistance",
-  "kind": "layoff",
-  "loc": "Sacramento",
-  "n": 41,
-  "posted": "2026-07-30",
-  "seen": "2026-07-30T12:00:00Z"
- },
- {
-  "co": "International Rescue Committee, Inc.",
-  "eff": "2026-09-30",
-  "id": "f42b9a784f",
-  "ind": "Healthcare and Social Assistance",
-  "kind": "layoff",
-  "loc": "Turlock",
-  "n": 15,
-  "posted": "2026-07-30",
-  "seen": "2026-07-30T12:00:00Z"
  }
 ]
