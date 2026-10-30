@@ -1,5 +1,82 @@
 [
  {
+  "co": "Levy",
+  "eff": "2026-12-31",
+  "id": "fb445de449",
+  "ind": "Accommodation and Food Services",
+  "kind": "closure",
+  "loc": "Oakland",
+  "n": 181,
+  "posted": "2026-10-28",
+  "seen": "2026-10-30T06:47:12Z"
+ },
+ {
+  "co": "Dropbox, Inc.",
+  "eff": "2026-11-18",
+  "id": "8a79364fb4",
+  "ind": "Professional Scientific and Technical Services",
+  "kind": "layoff",
+  "loc": "San Francisco",
+  "n": 57,
+  "posted": "2026-10-28",
+  "seen": "2026-10-30T06:47:12Z"
+ },
+ {
+  "co": "Artiva Biotherapeutics, Inc.",
+  "eff": "2026-12-31",
+  "id": "3abc658641",
+  "ind": "Professional Scientific and Technical Services",
+  "kind": "layoff",
+  "loc": "San Diego",
+  "n": 131,
+  "posted": "2026-10-28",
+  "seen": "2026-10-30T06:47:12Z"
+ },
+ {
+  "co": "24 Hr Homecare",
+  "eff": "2027-01-01",
+  "id": "f5a999687e",
+  "ind": "Healthcare and Social Assistance",
+  "kind": "layoff",
+  "loc": "El Segundo",
+  "n": 14,
+  "posted": "2026-10-28",
+  "seen": "2026-10-30T06:47:12Z"
+ },
+ {
+  "co": "Walt Disney Parks & Resorts US, Inc.",
+  "eff": "2026-12-29",
+  "id": "82411eeeaa",
+  "ind": "Arts Entertainment and Recreation",
+  "kind": "layoff",
+  "loc": "Glendale",
+  "n": 159,
+  "posted": "2026-10-27",
+  "seen": "2026-10-30T06:47:12Z"
+ },
+ {
+  "co": "Tawa, Inc. dba 99 Ranch Market",
+  "eff": "2026-12-05",
+  "id": "c6920b9e57",
+  "ind": "Retail Trade",
+  "kind": "closure",
+  "loc": "Pleasanton",
+  "n": 54,
+  "posted": "2026-10-27",
+  "seen": "2026-10-30T06:47:12Z"
+ },
+ {
+  "co": "Frontapp, Inc.",
+  "eff": "2026-10-27",
+  "id": "25c87747ba",
+  "ind": "Information",
+  "kind": "layoff",
+  "loc": "San Francisco",
+  "n": 53,
+  "posted": "2026-10-27",
+  "seen": "2026-10-30T06:47:12Z"
+ },
+ {
   "co": "Tawa, Inc. dba 99 Ranch Market",
   "eff": "2026-11-15",
   "id": "a83eca14b9",
@@ -3473,93 +3550,5 @@
   "n": 135,
   "posted": "2026-08-03",
   "seen": "2026-08-03T12:00:00Z"
- },
- {
-  "co": "Yamaha Motor Finance Corporation U.S.A.",
-  "eff": "2026-10-01",
-  "id": "710aebeb7f",
-  "ind": "Finance and Insurance",
-  "kind": "closure",
-  "loc": "Cypress",
-  "n": 61,
-  "posted": "2026-07-31",
-  "seen": "2026-07-31T12:00:00Z"
- },
- {
-  "co": "WeDriveU, Inc.",
-  "eff": "2026-10-01",
-  "id": "45f61cb599",
-  "ind": "Transportation and Warehousing",
-  "kind": "closure",
-  "loc": "Bakersfield",
-  "n": 34,
-  "posted": "2026-07-31",
-  "seen": "2026-07-31T12:00:00Z"
- },
- {
-  "co": "WeDriveU, Inc.",
-  "eff": "2026-10-01",
-  "id": "90f60482f5",
-  "ind": "Transportation and Warehousing",
-  "kind": "closure",
-  "loc": "Mojave",
-  "n": 12,
-  "posted": "2026-07-31",
-  "seen": "2026-07-31T12:00:00Z"
- },
- {
-  "co": "WeDriveU, Inc.",
-  "eff": "2026-10-01",
-  "id": "96fafb041c",
-  "ind": "Transportation and Warehousing",
-  "kind": "closure",
-  "loc": "Lake Isabella",
-  "n": 15,
-  "posted": "2026-07-31",
-  "seen": "2026-07-31T12:00:00Z"
- },
- {
-  "co": "WeDriveU, Inc.",
-  "eff": "2026-10-01",
-  "id": "29db0859a5",
-  "ind": "Transportation and Warehousing",
-  "kind": "closure",
-  "loc": "Lebec",
-  "n": 1,
-  "posted": "2026-07-31",
-  "seen": "2026-07-31T12:00:00Z"
- },
- {
-  "co": "WeDriveU, Inc.",
-  "eff": "2026-10-01",
-  "id": "3428db89e2",
-  "ind": "Transportation and Warehousing",
-  "kind": "closure",
-  "loc": "Tehachapi",
-  "n": 1,
-  "posted": "2026-07-31",
-  "seen": "2026-07-31T12:00:00Z"
- },
- {
-  "co": "Visa",
-  "eff": "2026-10-01",
-  "id": "09cc056d8a",
-  "ind": "Finance and Insurance",
-  "kind": "layoff",
-  "loc": "Blvd Foster City",
-  "n": 320,
-  "posted": "2026-07-31",
-  "seen": "2026-07-31T12:00:00Z"
- },
- {
-  "co": "Veritone, Inc.",
-  "eff": "2026-09-28",
-  "id": "cfc36f129f",
-  "ind": "Professional Scientific and Technical Services",
-  "kind": "layoff",
-  "loc": "Irvine",
-  "n": 10,
-  "posted": "2026-07-31",
-  "seen": "2026-07-31T12:00:00Z"
  }
 ]
