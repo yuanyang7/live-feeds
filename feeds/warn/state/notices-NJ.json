@@ -1,5 +1,16 @@
 [
  {
+  "co": "Comcast",
+  "eff": "2027-01-27",
+  "id": "a248a8dd46",
+  "kind": "",
+  "loc": "Atlantic, Burlington, Camden, Cumberland, Gloucester, Mercer, Monmouth, Ocean, and Union counties",
+  "n": 119,
+  "pm": true,
+  "posted": "2026-10-31",
+  "seen": "2026-10-31T06:47:07Z"
+ },
+ {
   "co": "Conduent State & Local Solutions, Inc",
   "eff": "2027-01-21",
   "id": "8363ae4e8b",
@@ -240,93 +251,5 @@
   "pm": true,
   "posted": "2026-09-01",
   "seen": "2026-09-01T12:00:00Z"
- },
- {
-  "co": "Optum",
-  "eff": "2026-12-07",
-  "id": "7b8c31cef9",
-  "kind": "",
-  "loc": "Basking Ridge",
-  "n": 57,
-  "pm": true,
-  "posted": "2026-08-01",
-  "seen": "2026-08-01T12:00:00Z"
- },
- {
-  "co": "JP Morgan Chase",
-  "eff": "8/19/26 - 11/15/26",
-  "id": "ea9f7c2744",
-  "kind": "",
-  "loc": "Jersey City",
-  "n": 63,
-  "pm": true,
-  "posted": "2026-08-01",
-  "seen": "2026-08-01T12:00:00Z"
- },
- {
-  "co": "Grocery Delivery E-Services USA, Inc DBA Hello Fresh",
-  "eff": "2026-11-17",
-  "id": "9070495525",
-  "kind": "",
-  "loc": "Swedesboro",
-  "n": 374,
-  "pm": true,
-  "posted": "2026-08-01",
-  "seen": "2026-08-01T12:00:00Z"
- },
- {
-  "co": "Gerresheimer",
-  "eff": "9/1/26 - 7/30/27",
-  "id": "6ae641e939",
-  "kind": "",
-  "loc": "Vineland",
-  "n": 139,
-  "pm": true,
-  "posted": "2026-08-01",
-  "seen": "2026-08-01T12:00:00Z"
- },
- {
-  "co": "Enablx, Inc.",
-  "eff": "12/31/26 - 3/31/27",
-  "id": "0226122dca",
-  "kind": "",
-  "loc": "Rockaway Twp.",
-  "n": 187,
-  "pm": true,
-  "posted": "2026-08-01",
-  "seen": "2026-08-01T12:00:00Z"
- },
- {
-  "co": "Citibank, N.A.",
-  "eff": "2026-10-31",
-  "id": "15971fe624",
-  "kind": "",
-  "loc": "Hudson County",
-  "n": 59,
-  "pm": true,
-  "posted": "2026-08-01",
-  "seen": "2026-08-01T12:00:00Z"
- },
- {
-  "co": "Cenlar FSB",
-  "eff": "8/21/26 - 10/30/26",
-  "id": "8adc87f8f6",
-  "kind": "",
-  "loc": "Ewing Twp.",
-  "n": 50,
-  "pm": true,
-  "posted": "2026-08-01",
-  "seen": "2026-08-01T12:00:00Z"
- },
- {
-  "co": "Cellares Corporation",
-  "eff": "2026-11-19",
-  "id": "5d329918a9",
-  "kind": "",
-  "loc": "Bridgewater",
-  "n": 68,
-  "pm": true,
-  "posted": "2026-08-01",
-  "seen": "2026-08-01T12:00:00Z"
  }
 ]
