@@ -3517,38 +3517,5 @@
   "n": 65,
   "posted": "2026-08-04",
   "seen": "2026-08-04T12:00:00Z"
- },
- {
-  "co": "TPE Acquisition, LLC - 5116",
-  "eff": "2026-09-30",
-  "id": "537e42ad8f",
-  "ind": "Transportation and Warehousing",
-  "kind": "closure",
-  "loc": "Chino",
-  "n": 3,
-  "posted": "2026-08-03",
-  "seen": "2026-08-03T12:00:00Z"
- },
- {
-  "co": "TPE Acquisition, LLC - 5026",
-  "eff": "2026-09-30",
-  "id": "e794a5c823",
-  "ind": "Transportation and Warehousing",
-  "kind": "closure",
-  "loc": "Chino",
-  "n": 12,
-  "posted": "2026-08-03",
-  "seen": "2026-08-03T12:00:00Z"
- },
- {
-  "co": "Chime Financial, Inc.",
-  "eff": "2026-09-30",
-  "id": "ee37514626",
-  "ind": "Finance and Insurance",
-  "kind": "layoff",
-  "loc": "San Francisco",
-  "n": 135,
-  "posted": "2026-08-03",
-  "seen": "2026-08-03T12:00:00Z"
  }
 ]
