@@ -3495,27 +3495,5 @@
   "n": 18,
   "posted": "2026-08-05",
   "seen": "2026-08-05T12:00:00Z"
- },
- {
-  "co": "San Francisco Pretrial Diversion Project, Inc.",
-  "eff": "2026-11-13",
-  "id": "5ee616c84b",
-  "ind": "Healthcare and Social Assistance",
-  "kind": "closure",
-  "loc": "San Francisco",
-  "n": 82,
-  "posted": "2026-08-04",
-  "seen": "2026-08-04T12:00:00Z"
- },
- {
-  "co": "Nutanix, Inc.",
-  "eff": "2026-10-05",
-  "id": "43a50cfdcc",
-  "ind": "Information",
-  "kind": "layoff",
-  "loc": "San Jose",
-  "n": 65,
-  "posted": "2026-08-04",
-  "seen": "2026-08-04T12:00:00Z"
  }
 ]

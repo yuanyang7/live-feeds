@@ -1,5 +1,15 @@
 [
  {
+  "co": "Alaska Airlines",
+  "eff": "2026-12-31",
+  "id": "c08d457869",
+  "kind": "layoff",
+  "loc": "Seattle, Spokane, Renton",
+  "n": 121,
+  "posted": "2026-10-30",
+  "seen": "2026-11-03T06:47:05Z"
+ },
+ {
   "co": "Comcast",
   "eff": "2026-12-31",
   "id": "113dc54c3d",
@@ -624,15 +634,5 @@
   "n": 52,
   "posted": "2026-08-05",
   "seen": "2026-08-05T12:00:00Z"
- },
- {
-  "co": "Zillow Group",
-  "eff": "2026-10-05",
-  "id": "5c874f3108",
-  "kind": "layoff",
-  "loc": "Seattle",
-  "n": 91,
-  "posted": "2026-08-04",
-  "seen": "2026-08-04T12:00:00Z"
  }
 ]
