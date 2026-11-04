@@ -1,5 +1,15 @@
 [
  {
+  "co": "Amazon",
+  "eff": "2026-12-07",
+  "id": "80c40ac159",
+  "kind": "layoff",
+  "loc": "Sumner, Pasco, Bellevue, Redmond, Seattle and Remote",
+  "n": 95,
+  "posted": "2026-11-02",
+  "seen": "2026-11-04T06:47:05Z"
+ },
+ {
   "co": "Alaska Airlines",
   "eff": "2026-12-31",
   "id": "c08d457869",
@@ -614,25 +624,5 @@
   "n": 24,
   "posted": "2026-08-12",
   "seen": "2026-08-12T12:00:00Z"
- },
- {
-  "co": "Salesforce, Inc.",
-  "eff": "2026-10-05",
-  "id": "26c93aa7fb",
-  "kind": "layoff",
-  "loc": "Seattle, Bellevue",
-  "n": 59,
-  "posted": "2026-08-05",
-  "seen": "2026-08-05T12:00:00Z"
- },
- {
-  "co": "Google",
-  "eff": "2026-09-06",
-  "id": "1f3ee033a6",
-  "kind": "layoff",
-  "loc": "Various locations in Washington",
-  "n": 52,
-  "posted": "2026-08-05",
-  "seen": "2026-08-05T12:00:00Z"
  }
 ]
