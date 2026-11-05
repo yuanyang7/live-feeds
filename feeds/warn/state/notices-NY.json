@@ -410,38 +410,5 @@
   "posted": "2026-08-11",
   "seen": "2026-08-11T12:00:00Z",
   "why": "Sale of Business"
- },
- {
-  "co": "Citigroup Technology, Inc.",
-  "eff": "2026-04-18",
-  "id": "152a067a28",
-  "kind": "layoff",
-  "loc": "New York",
-  "n": 3,
-  "posted": "2026-08-06",
-  "seen": "2026-08-06T12:00:00Z",
-  "why": "Economic"
- },
- {
-  "co": "Citigroup Global Markets, Inc.",
-  "eff": "2026-04-14",
-  "id": "5c07658213",
-  "kind": "layoff",
-  "loc": "New York",
-  "n": 58,
-  "posted": "2026-08-06",
-  "seen": "2026-08-06T12:00:00Z",
-  "why": "Economic"
- },
- {
-  "co": "Citibank, N.A.",
-  "eff": "2026-04-14",
-  "id": "0d0ee0417c",
-  "kind": "layoff",
-  "loc": "New York",
-  "n": 820,
-  "posted": "2026-08-06",
-  "seen": "2026-08-06T12:00:00Z",
-  "why": "Economic"
  }
 ]

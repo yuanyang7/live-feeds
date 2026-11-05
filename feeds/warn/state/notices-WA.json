@@ -1,5 +1,15 @@
 [
  {
+  "co": "Seattle Marriott Redmond",
+  "eff": "2027-01-05",
+  "id": "4f3f4bf1c6",
+  "kind": "closure",
+  "loc": "Redmond",
+  "n": 91,
+  "posted": "2026-11-04",
+  "seen": "2026-11-05T06:47:06Z"
+ },
+ {
   "co": "Amazon",
   "eff": "2026-12-07",
   "id": "80c40ac159",
