@@ -1,5 +1,38 @@
 [
  {
+  "co": "Meta",
+  "eff": "2026-08-20",
+  "id": "26aafdb46e",
+  "kind": "layoff",
+  "loc": "New York",
+  "n": 361,
+  "posted": "2026-11-05",
+  "seen": "2026-11-06T06:47:06Z",
+  "why": "Economic"
+ },
+ {
+  "co": "Meta",
+  "eff": "2026-08-20",
+  "id": "fb9bc2d9bf",
+  "kind": "layoff",
+  "loc": "New York",
+  "n": 267,
+  "posted": "2026-11-05",
+  "seen": "2026-11-06T06:47:06Z",
+  "why": "Economic"
+ },
+ {
+  "co": "Meta",
+  "eff": "2026-08-20",
+  "id": "fae50a8804",
+  "kind": "layoff",
+  "loc": "New York",
+  "n": 304,
+  "posted": "2026-11-05",
+  "seen": "2026-11-06T06:47:06Z",
+  "why": "Economic"
+ },
+ {
   "co": "Urban Resource Institute",
   "eff": "2026-06-30",
   "id": "e65b203af6",
