@@ -1,5 +1,92 @@
 [
  {
+  "co": "S.S. Delivery Systems LLC",
+  "eff": "2026-03-31",
+  "id": "1213ff0d87",
+  "kind": "closure",
+  "loc": "Rochester",
+  "n": 4,
+  "posted": "2026-11-09",
+  "seen": "2026-11-10T06:47:08Z",
+  "why": "Contract Loss"
+ },
+ {
+  "co": "S.S. Delivery Systems LLC",
+  "eff": "2026-03-31",
+  "id": "52321c9feb",
+  "kind": "closure",
+  "loc": "Rochester",
+  "n": 45,
+  "posted": "2026-11-09",
+  "seen": "2026-11-10T06:47:08Z",
+  "why": "Contract Loss"
+ },
+ {
+  "co": "GU Markets, LLC.",
+  "eff": "2026-12-05",
+  "id": "0768f8b1c7",
+  "kind": "closure",
+  "loc": "Sherrill",
+  "n": 19,
+  "posted": "2026-11-09",
+  "seen": "2026-11-10T06:47:08Z",
+  "why": "Economic"
+ },
+ {
+  "co": "GU Markets, LLC.",
+  "eff": "2026-12-05",
+  "id": "aea3236fe5",
+  "kind": "closure",
+  "loc": "Cortland",
+  "n": 27,
+  "posted": "2026-11-09",
+  "seen": "2026-11-10T06:47:08Z",
+  "why": "Economic"
+ },
+ {
+  "co": "Cayuga Home for Children",
+  "eff": "2027-01-04",
+  "id": "deee27bd54",
+  "kind": "closure",
+  "loc": "New York",
+  "n": 34,
+  "posted": "2026-11-09",
+  "seen": "2026-11-10T06:47:08Z",
+  "why": "Contract Expiration Other"
+ },
+ {
+  "co": "Cayuga Home for Children",
+  "eff": "2027-01-04",
+  "id": "cb5f2ec51d",
+  "kind": "closure",
+  "loc": "Auburn",
+  "n": 4,
+  "posted": "2026-11-09",
+  "seen": "2026-11-10T06:47:08Z",
+  "why": "Contract Expiration Other"
+ },
+ {
+  "co": "Old Navy LLC",
+  "eff": "2027-01-22",
+  "id": "d8807ac18a",
+  "kind": "closure",
+  "loc": "New York",
+  "n": 44,
+  "posted": "2026-11-06",
+  "seen": "2026-11-10T06:47:08Z",
+  "why": "Economic"
+ },
+ {
+  "co": "CPS 5 LLC",
+  "eff": "2027-01-18",
+  "id": "c864b532d0",
+  "kind": "closure",
+  "loc": "New York",
+  "n": 80,
+  "posted": "2026-11-06",
+  "seen": "2026-11-10T06:47:08Z"
+ },
+ {
   "co": "InvaGen Pharmaceuticals, Inc.",
   "eff": "2026-11-27",
   "id": "7599a5ffdb",
@@ -421,27 +508,5 @@
   "posted": "2026-08-18",
   "seen": "2026-08-18T12:00:00Z",
   "why": "Economic"
- },
- {
-  "co": "Republic National Distributing Company New York, LLC.",
-  "eff": "2026-07-31",
-  "id": "f2ad68fd66",
-  "kind": "closure",
-  "loc": "New York",
-  "n": 86,
-  "posted": "2026-08-11",
-  "seen": "2026-08-11T12:00:00Z",
-  "why": "Sale of Business"
- },
- {
-  "co": "Republic National Distributing Company New York, LLC.",
-  "eff": "2026-07-31",
-  "id": "5ed56d1e75",
-  "kind": "closure",
-  "loc": "East Syracuse",
-  "n": 46,
-  "posted": "2026-08-11",
-  "seen": "2026-08-11T12:00:00Z",
-  "why": "Sale of Business"
  }
 ]
