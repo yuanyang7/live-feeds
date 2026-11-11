@@ -1,5 +1,38 @@
 [
  {
+  "co": "Health Research Inc.",
+  "eff": "2026-12-24",
+  "id": "d5e2852268",
+  "kind": "closure",
+  "loc": "Elm & Carlton Sts Buffalo",
+  "n": 760,
+  "posted": "2026-11-10",
+  "seen": "2026-11-11T06:47:05Z",
+  "why": "Contract Termination"
+ },
+ {
+  "co": "Coral Graphic Services, Inc.",
+  "eff": "2026-07-30",
+  "id": "23f11a169a",
+  "kind": "closure",
+  "loc": "Hicksville",
+  "n": 85,
+  "posted": "2026-11-10",
+  "seen": "2026-11-11T06:47:05Z",
+  "why": "Relocation of Business"
+ },
+ {
+  "co": "Conduent State & Local Solutions, Inc.",
+  "eff": "2027-01-21",
+  "id": "c192a4d49f",
+  "kind": "closure",
+  "loc": "Endicott",
+  "n": 49,
+  "posted": "2026-11-10",
+  "seen": "2026-11-11T06:47:05Z",
+  "why": "Sale of Business"
+ },
+ {
   "co": "S.S. Delivery Systems LLC",
   "eff": "2026-03-31",
   "id": "1213ff0d87",
