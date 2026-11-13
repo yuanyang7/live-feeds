@@ -1,5 +1,137 @@
 [
  {
+  "co": "Ambulnz NY2, LLC.",
+  "eff": "2026-12-31",
+  "id": "987891affc",
+  "kind": "closure",
+  "loc": "Walton",
+  "n": 7,
+  "posted": "2026-11-12",
+  "seen": "2026-11-13T06:47:08Z",
+  "why": "Economic"
+ },
+ {
+  "co": "Ambulnz NY2, LLC.",
+  "eff": "2026-12-31",
+  "id": "b0f62bda47",
+  "kind": "closure",
+  "loc": "Beacon",
+  "n": 4,
+  "posted": "2026-11-12",
+  "seen": "2026-11-13T06:47:08Z",
+  "why": "Economic"
+ },
+ {
+  "co": "Ambulnz NY2, LLC.",
+  "eff": "2026-12-31",
+  "id": "86b6a83a4f",
+  "kind": "closure",
+  "loc": "Cohoes",
+  "n": 0,
+  "posted": "2026-11-12",
+  "seen": "2026-11-13T06:47:08Z",
+  "why": "Economic"
+ },
+ {
+  "co": "Ambulnz NY2, LLC.",
+  "eff": "2026-12-31",
+  "id": "c371183a9b",
+  "kind": "closure",
+  "loc": "Glens Falls",
+  "n": 3,
+  "posted": "2026-11-12",
+  "seen": "2026-11-13T06:47:08Z",
+  "why": "Economic"
+ },
+ {
+  "co": "Ambulnz NY2, LLC.",
+  "eff": "2026-12-31",
+  "id": "f7ce4317bf",
+  "kind": "closure",
+  "loc": "Nyack",
+  "n": 1,
+  "posted": "2026-11-12",
+  "seen": "2026-11-13T06:47:08Z",
+  "why": "Economic"
+ },
+ {
+  "co": "Ambulnz NY2, LLC.",
+  "eff": "2026-12-31",
+  "id": "7ce6e00744",
+  "kind": "closure",
+  "loc": "Saratoga Springs",
+  "n": 0,
+  "posted": "2026-11-12",
+  "seen": "2026-11-13T06:47:08Z",
+  "why": "Economic"
+ },
+ {
+  "co": "Ambulnz NY2, LLC.",
+  "eff": "2026-12-31",
+  "id": "979a41e3b9",
+  "kind": "closure",
+  "loc": "Middletown",
+  "n": 6,
+  "posted": "2026-11-12",
+  "seen": "2026-11-13T06:47:08Z",
+  "why": "Economic"
+ },
+ {
+  "co": "Ambulnz NY2, LLC.",
+  "eff": "2026-12-31",
+  "id": "1ca800beba",
+  "kind": "closure",
+  "loc": "Orange",
+  "n": 36,
+  "posted": "2026-11-12",
+  "seen": "2026-11-13T06:47:08Z",
+  "why": "Economic"
+ },
+ {
+  "co": "Ambulnz NY2, LLC.",
+  "eff": "2026-12-31",
+  "id": "564185dc49",
+  "kind": "closure",
+  "loc": "Rensselaer",
+  "n": 20,
+  "posted": "2026-11-12",
+  "seen": "2026-11-13T06:47:08Z",
+  "why": "Economic"
+ },
+ {
+  "co": "Ambulnz NY2, LLC.",
+  "eff": "2026-12-31",
+  "id": "668e270d3d",
+  "kind": "closure",
+  "loc": "Ulster",
+  "n": 7,
+  "posted": "2026-11-12",
+  "seen": "2026-11-13T06:47:08Z",
+  "why": "Economic"
+ },
+ {
+  "co": "Ambulnz NY2, LLC.",
+  "eff": "2026-12-31",
+  "id": "9d1e8a3da3",
+  "kind": "closure",
+  "loc": "Delaware",
+  "n": 1,
+  "posted": "2026-11-12",
+  "seen": "2026-11-13T06:47:08Z",
+  "why": "Economic"
+ },
+ {
+  "co": "Craft Beer Guild Distributing of New York, LLC.",
+  "eff": "2027-01-28",
+  "id": "bb18361823",
+  "kind": "closure",
+  "loc": "New Paltz",
+  "n": 91,
+  "posted": "2026-11-10",
+  "seen": "2026-11-13T06:47:08Z",
+  "why": "Relocation of Business"
+ },
+ {
   "co": "Health Research Inc.",
   "eff": "2026-12-24",
   "id": "d5e2852268",
