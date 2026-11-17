@@ -651,27 +651,5 @@
   "posted": "2026-08-21",
   "seen": "2026-08-21T12:00:00Z",
   "why": "Economic"
- },
- {
-  "co": "Sky Chefs, LLC",
-  "eff": "2026-10-07",
-  "id": "0898d078e8",
-  "kind": "layoff",
-  "loc": "Queens",
-  "n": 471,
-  "posted": "2026-08-18",
-  "seen": "2026-08-18T12:00:00Z",
-  "why": "Contract Loss"
- },
- {
-  "co": "Ferraro Foods of New York North, LLC.",
-  "eff": "2026-07-07",
-  "id": "22dc516e21",
-  "kind": "closure",
-  "loc": "Utica",
-  "n": 62,
-  "posted": "2026-08-18",
-  "seen": "2026-08-18T12:00:00Z",
-  "why": "Economic"
  }
 ]

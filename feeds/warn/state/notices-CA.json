@@ -1,69 +1,201 @@
 [
  {
-  "co": "Wright Tree Service of the West, Inc. (8056 Evans Rd)",
-  "eff": "2026-11-09",
-  "id": "76506a856b",
-  "ind": "Administrative and Support and Waste Management and Remediation",
-  "kind": "closure",
-  "loc": "Glenville",
-  "n": 19,
-  "posted": "2026-11-09",
-  "seen": "2026-11-11T06:47:05Z"
+  "co": "University of Southern California",
+  "eff": "2026-12-07",
+  "id": "f73b2b3645",
+  "ind": "Educational Services",
+  "kind": "layoff",
+  "loc": "Los Angeles",
+  "n": 17,
+  "posted": "2026-11-10",
+  "seen": "2026-11-17T06:47:07Z"
  },
  {
-  "co": "Wright Tree Service of the West, Inc. (4571 Lake Isabella Blvd)",
-  "eff": "2026-11-09",
-  "id": "4afadcab00",
-  "ind": "Administrative and Support and Waste Management and Remediation",
-  "kind": "closure",
-  "loc": "Lake Isabella",
-  "n": 19,
-  "posted": "2026-11-09",
-  "seen": "2026-11-11T06:47:05Z"
+  "co": "University of Southern California",
+  "eff": "2026-12-07",
+  "id": "f8d1955aa7",
+  "ind": "Educational Services",
+  "kind": "layoff",
+  "loc": "Los Angeles",
+  "n": 16,
+  "posted": "2026-11-10",
+  "seen": "2026-11-17T06:47:07Z"
  },
  {
-  "co": "Wright Tree Service of the West, Inc. (430 Sherwin Creek Rd)",
-  "eff": "2026-11-09",
-  "id": "33f0e7635c",
-  "ind": "Administrative and Support and Waste Management and Remediation",
-  "kind": "closure",
-  "loc": "Mammoth Lakes",
-  "n": 12,
-  "posted": "2026-11-09",
-  "seen": "2026-11-11T06:47:05Z"
+  "co": "University of Southern California",
+  "eff": "2026-12-07",
+  "id": "c6fb68613b",
+  "ind": "Educational Services",
+  "kind": "layoff",
+  "loc": "Los Angeles",
+  "n": 1,
+  "posted": "2026-11-10",
+  "seen": "2026-11-17T06:47:07Z"
  },
  {
-  "co": "Wright Tree Service of the West, Inc. (32134 Auberry Rd)",
+  "co": "University of Southern California",
+  "eff": "2026-12-07",
+  "id": "a647033f05",
+  "ind": "Educational Services",
+  "kind": "layoff",
+  "loc": "Los Angeles",
+  "n": 33,
+  "posted": "2026-11-10",
+  "seen": "2026-11-17T06:47:07Z"
+ },
+ {
+  "co": "University of Southern California",
+  "eff": "2026-12-07",
+  "id": "6b8a2be3ee",
+  "ind": "Educational Services",
+  "kind": "layoff",
+  "loc": "Los Angeles",
+  "n": 5,
+  "posted": "2026-11-10",
+  "seen": "2026-11-17T06:47:07Z"
+ },
+ {
+  "co": "University of Southern California",
+  "eff": "2026-12-07",
+  "id": "869aa1589b",
+  "ind": "Educational Services",
+  "kind": "layoff",
+  "loc": "Los Angeles",
+  "n": 1,
+  "posted": "2026-11-10",
+  "seen": "2026-11-17T06:47:07Z"
+ },
+ {
+  "co": "University of Southern California",
+  "eff": "2026-12-07",
+  "id": "3053187627",
+  "ind": "Educational Services",
+  "kind": "layoff",
+  "loc": "Los Angeles",
+  "n": 1,
+  "posted": "2026-11-10",
+  "seen": "2026-11-17T06:47:07Z"
+ },
+ {
+  "co": "University of Southern California",
+  "eff": "2026-12-07",
+  "id": "160583d3ea",
+  "ind": "Educational Services",
+  "kind": "layoff",
+  "loc": "Los Angeles",
+  "n": 1,
+  "posted": "2026-11-10",
+  "seen": "2026-11-17T06:47:07Z"
+ },
+ {
+  "co": "Illumina, Inc. Worldwide Headquarters",
+  "eff": "2027-01-08",
+  "id": "6295be6caa",
+  "ind": "Professional Scientific and Technical Services",
+  "kind": "layoff",
+  "loc": "San Diego",
+  "n": 51,
+  "posted": "2026-11-10",
+  "seen": "2026-11-17T06:47:07Z"
+ },
+ {
+  "co": "Hollister Distribution Center",
+  "eff": "2027-01-01",
+  "id": "ffffa62bf2",
+  "ind": "Wholesale Trade",
+  "kind": "closure",
+  "loc": "Hollister",
+  "n": 59,
+  "posted": "2026-11-10",
+  "seen": "2026-11-17T06:47:07Z"
+ },
+ {
+  "co": "Collins Aerospace",
+  "eff": "2026-12-31",
+  "id": "cd7254f748",
+  "ind": "Manufacturing",
+  "kind": "layoff",
+  "loc": "El Segundo",
+  "n": 14,
+  "posted": "2026-11-10",
+  "seen": "2026-11-17T06:47:07Z"
+ },
+ {
+  "co": "Black Tie Event Services, Inc. dba StaffworkX",
+  "eff": "2027-01-08",
+  "id": "84549e7ebc",
+  "ind": "Accommodation and Food Services",
+  "kind": "closure",
+  "loc": "Los Angeles",
+  "n": 128,
+  "posted": "2026-11-10",
+  "seen": "2026-11-17T06:47:07Z"
+ },
+ {
+  "co": "Wright Tree Service of the West, Inc.",
   "eff": "2026-11-09",
-  "id": "4fdf366ab5",
+  "id": "8d3f3c541c",
   "ind": "Administrative and Support and Waste Management and Remediation",
   "kind": "closure",
   "loc": "Auberry",
   "n": 54,
   "posted": "2026-11-09",
-  "seen": "2026-11-11T06:47:05Z"
+  "seen": "2026-11-17T06:47:07Z"
  },
  {
-  "co": "Wright Tree Service of the West, Inc. (270 N See Vee Ln)",
+  "co": "Wright Tree Service of the West, Inc.",
   "eff": "2026-11-09",
-  "id": "65d1ba47a9",
+  "id": "927fb66a70",
   "ind": "Administrative and Support and Waste Management and Remediation",
   "kind": "closure",
   "loc": "Bishop",
   "n": 9,
   "posted": "2026-11-09",
-  "seen": "2026-11-11T06:47:05Z"
+  "seen": "2026-11-17T06:47:07Z"
  },
  {
-  "co": "Wright Tree Service of the West, Inc. (13426 Avenue 232)",
+  "co": "Wright Tree Service of the West, Inc.",
   "eff": "2026-11-09",
-  "id": "141d943b77",
+  "id": "978f7e42e8",
+  "ind": "Administrative and Support and Waste Management and Remediation",
+  "kind": "closure",
+  "loc": "Lake Isabella",
+  "n": 19,
+  "posted": "2026-11-09",
+  "seen": "2026-11-17T06:47:07Z"
+ },
+ {
+  "co": "Wright Tree Service of the West, Inc.",
+  "eff": "2026-11-09",
+  "id": "ab26cd6e42",
+  "ind": "Administrative and Support and Waste Management and Remediation",
+  "kind": "closure",
+  "loc": "Glenville",
+  "n": 19,
+  "posted": "2026-11-09",
+  "seen": "2026-11-17T06:47:07Z"
+ },
+ {
+  "co": "Wright Tree Service of the West, Inc.",
+  "eff": "2026-11-09",
+  "id": "3a33314456",
+  "ind": "Administrative and Support and Waste Management and Remediation",
+  "kind": "closure",
+  "loc": "Mammoth Lakes",
+  "n": 12,
+  "posted": "2026-11-09",
+  "seen": "2026-11-17T06:47:07Z"
+ },
+ {
+  "co": "Wright Tree Service of the West, Inc.",
+  "eff": "2026-11-09",
+  "id": "64faa7ff94",
   "ind": "Administrative and Support and Waste Management and Remediation",
   "kind": "closure",
   "loc": "Tulare",
   "n": 77,
   "posted": "2026-11-09",
-  "seen": "2026-11-11T06:47:05Z"
+  "seen": "2026-11-17T06:47:07Z"
  },
  {
   "co": "VCA Corporate Support Office",
@@ -220,6 +352,28 @@
   "seen": "2026-11-11T06:47:05Z"
  },
  {
+  "co": "City National Bank",
+  "eff": "2027-01-08",
+  "id": "d0d3840218",
+  "ind": "Finance and Insurance",
+  "kind": "layoff",
+  "loc": "Los Angeles",
+  "n": 11,
+  "posted": "2026-11-04",
+  "seen": "2026-11-17T06:47:07Z"
+ },
+ {
+  "co": "City National Bank",
+  "eff": "2027-01-08",
+  "id": "335d326d75",
+  "ind": "Finance and Insurance",
+  "kind": "layoff",
+  "loc": "Los Angeles",
+  "n": 11,
+  "posted": "2026-11-04",
+  "seen": "2026-11-17T06:47:07Z"
+ },
+ {
   "co": "ServiceNow, Inc.",
   "eff": "2027-01-04",
   "id": "a5d7f719ac",
@@ -320,28 +474,6 @@
   "seen": "2026-11-06T06:47:06Z"
  },
  {
-  "co": "City National Bank (555 S. Flower Street)",
-  "eff": "2027-01-08",
-  "id": "1f3ad0a700",
-  "ind": "Finance and Insurance",
-  "kind": "layoff",
-  "loc": "Los Angeles",
-  "n": 11,
-  "posted": "2026-11-04",
-  "seen": "2026-11-06T06:47:06Z"
- },
- {
-  "co": "City National Bank (350 S. Grand Ave.)",
-  "eff": "2027-01-08",
-  "id": "2bce54eef5",
-  "ind": "Finance and Insurance",
-  "kind": "layoff",
-  "loc": "Los Angeles",
-  "n": 11,
-  "posted": "2026-11-04",
-  "seen": "2026-11-06T06:47:06Z"
- },
- {
   "co": "Chick-fil-A - Hollins Group LLC - Orangethorpe",
   "eff": "2027-01-08",
   "id": "eadb096f6b",
@@ -388,15 +520,15 @@
   "seen": "2026-11-06T06:47:06Z"
  },
  {
-  "co": "Welcome Market, Inc. (99 Ranch Market)",
+  "co": "Welcome Market, Inc.",
   "eff": "2026-12-05",
-  "id": "e467c3f004",
+  "id": "ef829e6ab4",
   "ind": "Retail Trade",
   "kind": "closure",
   "loc": "Pleasanton",
   "n": 54,
   "posted": "2026-11-03",
-  "seen": "2026-11-06T06:47:06Z"
+  "seen": "2026-11-17T06:47:07Z"
  },
  {
   "co": "Wedgewood Village Pharmacy, LLC",
@@ -498,6 +630,116 @@
   "seen": "2026-11-06T06:47:06Z"
  },
  {
+  "co": "Davey Tree Surgery Company",
+  "eff": "2026-12-31",
+  "id": "7e20840089",
+  "ind": "Administrative and Support and Waste Management and Remediation",
+  "kind": "layoff",
+  "loc": "Remote Livermore",
+  "n": 57,
+  "posted": "2026-11-02",
+  "seen": "2026-11-17T06:47:07Z"
+ },
+ {
+  "co": "Davey Tree Surgery Company",
+  "eff": "2026-12-31",
+  "id": "2ef294e812",
+  "ind": "Administrative and Support and Waste Management and Remediation",
+  "kind": "layoff",
+  "loc": "Signal Hill",
+  "n": 64,
+  "posted": "2026-11-02",
+  "seen": "2026-11-17T06:47:07Z"
+ },
+ {
+  "co": "Davey Tree Surgery Company",
+  "eff": "2026-12-31",
+  "id": "a0debd261a",
+  "ind": "Administrative and Support and Waste Management and Remediation",
+  "kind": "layoff",
+  "loc": "Gardena",
+  "n": 12,
+  "posted": "2026-11-02",
+  "seen": "2026-11-17T06:47:07Z"
+ },
+ {
+  "co": "Davey Tree Surgery Company",
+  "eff": "2026-12-31",
+  "id": "016b2657b7",
+  "ind": "Administrative and Support and Waste Management and Remediation",
+  "kind": "layoff",
+  "loc": "Santa Fe Springs",
+  "n": 39,
+  "posted": "2026-11-02",
+  "seen": "2026-11-17T06:47:07Z"
+ },
+ {
+  "co": "Davey Tree Surgery Company",
+  "eff": "2026-12-31",
+  "id": "38b29798b7",
+  "ind": "Administrative and Support and Waste Management and Remediation",
+  "kind": "layoff",
+  "loc": "Royal Oaks",
+  "n": 34,
+  "posted": "2026-11-02",
+  "seen": "2026-11-17T06:47:07Z"
+ },
+ {
+  "co": "Davey Tree Surgery Company",
+  "eff": "2026-12-31",
+  "id": "2ef21ee759",
+  "ind": "Administrative and Support and Waste Management and Remediation",
+  "kind": "layoff",
+  "loc": "Stanton",
+  "n": 37,
+  "posted": "2026-11-02",
+  "seen": "2026-11-17T06:47:07Z"
+ },
+ {
+  "co": "Davey Tree Surgery Company",
+  "eff": "2026-12-31",
+  "id": "82f550cf57",
+  "ind": "Administrative and Support and Waste Management and Remediation",
+  "kind": "layoff",
+  "loc": "Santa Clara",
+  "n": 20,
+  "posted": "2026-11-02",
+  "seen": "2026-11-17T06:47:07Z"
+ },
+ {
+  "co": "Davey Tree Surgery Company",
+  "eff": "2026-12-31",
+  "id": "469f4b90cd",
+  "ind": "Administrative and Support and Waste Management and Remediation",
+  "kind": "layoff",
+  "loc": "E/O Crittenden Lane Mountain View",
+  "n": 19,
+  "posted": "2026-11-02",
+  "seen": "2026-11-17T06:47:07Z"
+ },
+ {
+  "co": "Davey Tree Surgery Company",
+  "eff": "2026-12-31",
+  "id": "367cfa533d",
+  "ind": "Administrative and Support and Waste Management and Remediation",
+  "kind": "layoff",
+  "loc": "Freedom",
+  "n": 22,
+  "posted": "2026-11-02",
+  "seen": "2026-11-17T06:47:07Z"
+ },
+ {
+  "co": "Davey Tree Surgery",
+  "eff": "2026-12-31",
+  "id": "4f3ed492b1",
+  "ind": "Administrative and Support and Waste Management and Remediation",
+  "kind": "layoff",
+  "loc": "Felton",
+  "n": 64,
+  "posted": "2026-11-02",
+  "seen": "2026-11-17T06:47:07Z"
+ },
+ {
   "co": "Roundabout Entertainment, Inc.",
   "eff": "2026-12-29",
   "id": "f2219556dd",
@@ -539,116 +781,6 @@
   "kind": "layoff",
   "loc": "Anaheim",
   "n": 13,
-  "posted": "2026-11-02",
-  "seen": "2026-11-04T06:47:05Z"
- },
- {
-  "co": "Davey Tree Surgery Company (Remote)",
-  "eff": "2026-12-31",
-  "id": "f5f652237a",
-  "ind": "Administrative and Support and Waste Management and Remediation",
-  "kind": "layoff",
-  "loc": "Remote Livermore",
-  "n": 57,
-  "posted": "2026-11-02",
-  "seen": "2026-11-04T06:47:05Z"
- },
- {
-  "co": "Davey Tree Surgery Company (R/O 6 Church Street)",
-  "eff": "2026-12-31",
-  "id": "f19cb49862",
-  "ind": "Administrative and Support and Waste Management and Remediation",
-  "kind": "layoff",
-  "loc": "Santa Clara",
-  "n": 20,
-  "posted": "2026-11-02",
-  "seen": "2026-11-04T06:47:05Z"
- },
- {
-  "co": "Davey Tree Surgery Company (E/O Crittenden Lane)",
-  "eff": "2026-12-31",
-  "id": "67ade1bed6",
-  "ind": "Administrative and Support and Waste Management and Remediation",
-  "kind": "layoff",
-  "loc": "E/O Crittenden Lane Mountain View",
-  "n": 19,
-  "posted": "2026-11-02",
-  "seen": "2026-11-04T06:47:05Z"
- },
- {
-  "co": "Davey Tree Surgery Company (8188 Katella Avenue)",
-  "eff": "2026-12-31",
-  "id": "5eb46061f8",
-  "ind": "Administrative and Support and Waste Management and Remediation",
-  "kind": "layoff",
-  "loc": "Stanton",
-  "n": 37,
-  "posted": "2026-11-02",
-  "seen": "2026-11-04T06:47:05Z"
- },
- {
-  "co": "Davey Tree Surgery Company (2505 N Palm Drive)",
-  "eff": "2026-12-31",
-  "id": "4a212c0da0",
-  "ind": "Administrative and Support and Waste Management and Remediation",
-  "kind": "layoff",
-  "loc": "Signal Hill",
-  "n": 64,
-  "posted": "2026-11-02",
-  "seen": "2026-11-04T06:47:05Z"
- },
- {
-  "co": "Davey Tree Surgery Company (244 Hall Road)",
-  "eff": "2026-12-31",
-  "id": "71ba08ba29",
-  "ind": "Administrative and Support and Waste Management and Remediation",
-  "kind": "layoff",
-  "loc": "Royal Oaks",
-  "n": 34,
-  "posted": "2026-11-02",
-  "seen": "2026-11-04T06:47:05Z"
- },
- {
-  "co": "Davey Tree Surgery Company (1847 144th Street)",
-  "eff": "2026-12-31",
-  "id": "f2bc4bbd82",
-  "ind": "Administrative and Support and Waste Management and Remediation",
-  "kind": "layoff",
-  "loc": "Gardena",
-  "n": 12,
-  "posted": "2026-11-02",
-  "seen": "2026-11-04T06:47:05Z"
- },
- {
-  "co": "Davey Tree Surgery Company (132 Roache Road)",
-  "eff": "2026-12-31",
-  "id": "ab763bc0a4",
-  "ind": "Administrative and Support and Waste Management and Remediation",
-  "kind": "layoff",
-  "loc": "Freedom",
-  "n": 22,
-  "posted": "2026-11-02",
-  "seen": "2026-11-04T06:47:05Z"
- },
- {
-  "co": "Davey Tree Surgery Company (12694 Los Nietos Road)",
-  "eff": "2026-12-31",
-  "id": "4c14b3f4dc",
-  "ind": "Administrative and Support and Waste Management and Remediation",
-  "kind": "layoff",
-  "loc": "Santa Fe Springs",
-  "n": 39,
-  "posted": "2026-11-02",
-  "seen": "2026-11-04T06:47:05Z"
- },
- {
-  "co": "Davey Tree Surgery (5843 Graham Hill Road)",
-  "eff": "2026-12-31",
-  "id": "0558c64feb",
-  "ind": "Administrative and Support and Waste Management and Remediation",
-  "kind": "layoff",
-  "loc": "Felton",
-  "n": 64,
   "posted": "2026-11-02",
   "seen": "2026-11-04T06:47:05Z"
  },
@@ -1067,6 +1199,50 @@
   "tmp": true
  },
  {
+  "co": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",
+  "eff": "2026-12-18",
+  "id": "99ba071d68",
+  "ind": "Healthcare and Social Assistance",
+  "kind": "layoff",
+  "loc": "Oakland",
+  "n": 1,
+  "posted": "2026-10-19",
+  "seen": "2026-11-17T06:47:07Z"
+ },
+ {
+  "co": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",
+  "eff": "2026-12-18",
+  "id": "39233591ab",
+  "ind": "Healthcare and Social Assistance",
+  "kind": "layoff",
+  "loc": "One Kaiser Plaza Oakland",
+  "n": 5,
+  "posted": "2026-10-19",
+  "seen": "2026-11-17T06:47:07Z"
+ },
+ {
+  "co": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",
+  "eff": "2026-12-18",
+  "id": "1dd9e0cd5c",
+  "ind": "Healthcare and Social Assistance",
+  "kind": "layoff",
+  "loc": "Pasadena",
+  "n": 1,
+  "posted": "2026-10-19",
+  "seen": "2026-11-17T06:47:07Z"
+ },
+ {
+  "co": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",
+  "eff": "2026-12-18",
+  "id": "16251add33",
+  "ind": "Healthcare and Social Assistance",
+  "kind": "layoff",
+  "loc": "Pasadena",
+  "n": 1,
+  "posted": "2026-10-19",
+  "seen": "2026-11-17T06:47:07Z"
+ },
+ {
   "co": "Tree Service Unlimited Inc.",
   "eff": "2026-12-14",
   "id": "79077eb575",
@@ -1096,50 +1272,6 @@
   "kind": "layoff",
   "loc": "Los Gatos",
   "n": 227,
-  "posted": "2026-10-19",
-  "seen": "2026-10-23T06:47:04Z"
- },
- {
-  "co": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc. (One Kaiser Plaza)",
-  "eff": "2026-12-18",
-  "id": "920b02cc0e",
-  "ind": "Healthcare and Social Assistance",
-  "kind": "layoff",
-  "loc": "One Kaiser Plaza Oakland",
-  "n": 5,
-  "posted": "2026-10-19",
-  "seen": "2026-10-23T06:47:04Z"
- },
- {
-  "co": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc. (99 S. Oakland Ave.)",
-  "eff": "2026-12-18",
-  "id": "2a033c7226",
-  "ind": "Healthcare and Social Assistance",
-  "kind": "layoff",
-  "loc": "Pasadena",
-  "n": 1,
-  "posted": "2026-10-19",
-  "seen": "2026-10-23T06:47:04Z"
- },
- {
-  "co": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc. (75 N. Fair Oaks Ave.)",
-  "eff": "2026-12-18",
-  "id": "d0e3a0dcc3",
-  "ind": "Healthcare and Social Assistance",
-  "kind": "layoff",
-  "loc": "Pasadena",
-  "n": 1,
-  "posted": "2026-10-19",
-  "seen": "2026-10-23T06:47:04Z"
- },
- {
-  "co": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc. (1800 Harrison St.)",
-  "eff": "2026-12-18",
-  "id": "5f20c3ee16",
-  "ind": "Healthcare and Social Assistance",
-  "kind": "layoff",
-  "loc": "Oakland",
-  "n": 1,
   "posted": "2026-10-19",
   "seen": "2026-10-23T06:47:04Z"
  },
@@ -1422,26 +1554,26 @@
   "seen": "2026-10-08T21:47:06Z"
  },
  {
-  "co": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc. (74 N. Pasadena Ave.)",
+  "co": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",
   "eff": "2026-12-04",
-  "id": "29b024f007",
+  "id": "c2d527d80c",
   "ind": "Healthcare and Social Assistance",
   "kind": "layoff",
   "loc": "Pasadena",
   "n": 1,
   "posted": "2026-10-05",
-  "seen": "2026-10-06T21:47:09Z"
+  "seen": "2026-11-17T06:47:07Z"
  },
  {
-  "co": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc. (393 E. Walnut St.)",
+  "co": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",
   "eff": "2026-12-04",
-  "id": "76ebeceedc",
+  "id": "f533a2c1e4",
   "ind": "Healthcare and Social Assistance",
   "kind": "layoff",
   "loc": "Pasadena",
   "n": 1,
   "posted": "2026-10-05",
-  "seen": "2026-10-06T21:47:09Z"
+  "seen": "2026-11-17T06:47:07Z"
  },
  {
   "co": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",
@@ -3828,38 +3960,5 @@
   "n": 50,
   "posted": "2026-08-19",
   "seen": "2026-08-19T12:00:00Z"
- },
- {
-  "co": "Volume Services, Inc. (Sodexo)",
-  "eff": "2026-10-16",
-  "id": "773d67b758",
-  "ind": "Accommodation and Food Services",
-  "kind": "layoff",
-  "loc": "Simi Valley",
-  "n": 93,
-  "posted": "2026-08-18",
-  "seen": "2026-08-18T12:00:00Z"
- },
- {
-  "co": "Stockton Truss LLC",
-  "eff": "2026-10-18",
-  "id": "999c8ad34a",
-  "ind": "Manufacturing",
-  "kind": "layoff",
-  "loc": "Stockton",
-  "n": 65,
-  "posted": "2026-08-18",
-  "seen": "2026-08-18T12:00:00Z"
- },
- {
-  "co": "Corteva Agriscience LLC",
-  "eff": "2026-10-30",
-  "id": "c35c92e2f8",
-  "ind": "Manufacturing",
-  "kind": "layoff",
-  "loc": "Pittsburg",
-  "n": 2,
-  "posted": "2026-08-18",
-  "seen": "2026-08-18T12:00:00Z"
  }
 ]
