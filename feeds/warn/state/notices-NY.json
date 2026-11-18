@@ -1,5 +1,16 @@
 [
  {
+  "co": "Family Endeavors, Inc.",
+  "eff": "2027-01-21",
+  "id": "63dcfd812a",
+  "kind": "layoff",
+  "loc": "Remote Workers in NY New York",
+  "n": 42,
+  "posted": "2026-11-17",
+  "seen": "2026-11-18T06:47:13Z",
+  "why": "Contract Expiration"
+ },
+ {
   "co": "Ambulnz NY2, LLC.",
   "eff": "2026-12-31",
   "id": "987891affc",
