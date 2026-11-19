@@ -4883,39 +4883,5 @@
   "n": 79,
   "posted": "2026-08-21",
   "seen": "2026-08-21T12:00:00Z"
- },
- {
-  "co": "Silgan Containers",
-  "eff": "2026-10-12",
-  "id": "98caf0c72e",
-  "ind": "Manufacturing",
-  "kind": "layoff",
-  "loc": "Riverbank",
-  "n": 120,
-  "posted": "2026-08-20",
-  "seen": "2026-08-20T12:00:00Z",
-  "tmp": true
- },
- {
-  "co": "Haas Automation, Inc.",
-  "eff": "2026-11-02",
-  "id": "227bbabe5c",
-  "ind": "Manufacturing",
-  "kind": "",
-  "loc": "Oxnard",
-  "n": 73,
-  "posted": "2026-08-20",
-  "seen": "2026-08-20T12:00:00Z"
- },
- {
-  "co": "Flying Food Group, LLC",
-  "eff": "2026-10-13",
-  "id": "d251ec0759",
-  "ind": "Accommodation and Food Services",
-  "kind": "closure",
-  "loc": "Burlingame",
-  "n": 72,
-  "posted": "2026-08-20",
-  "seen": "2026-08-20T12:00:00Z"
  }
 ]

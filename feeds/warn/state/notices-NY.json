@@ -1,5 +1,27 @@
 [
  {
+  "co": "Watermark Retirement Communities LLC",
+  "eff": "2026-12-01",
+  "id": "8a4a1001b5",
+  "kind": "closure",
+  "loc": "Rochester",
+  "n": 29,
+  "posted": "2026-11-18",
+  "seen": "2026-11-19T06:47:05Z",
+  "why": "Contract Termination"
+ },
+ {
+  "co": "Restaurant Associates, LLC",
+  "eff": "2026-09-08",
+  "id": "321d620a38",
+  "kind": "closure",
+  "loc": "New York",
+  "n": 30,
+  "posted": "2026-11-17",
+  "seen": "2026-11-19T06:47:05Z",
+  "why": "Contract Loss"
+ },
+ {
   "co": "Family Endeavors, Inc.",
   "eff": "2027-01-21",
   "id": "63dcfd812a",
