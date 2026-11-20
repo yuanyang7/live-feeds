@@ -1,5 +1,15 @@
 [
  {
+  "co": "WHC Payroll Company, dba The Westin Seattle",
+  "eff": "2027-01-26",
+  "id": "ed11f32335",
+  "kind": "layoff",
+  "loc": "Seattle",
+  "n": 423,
+  "posted": "2026-11-18",
+  "seen": "2026-11-20T06:47:08Z"
+ },
+ {
   "co": "Seattle Marriott Redmond",
   "eff": "2027-01-05",
   "id": "4f3f4bf1c6",
@@ -574,25 +584,5 @@
   "n": 159,
   "posted": "2026-08-26",
   "seen": "2026-08-26T12:00:00Z"
- },
- {
-  "co": "Twin City Foods, Inc.",
-  "eff": "2026-11-02",
-  "id": "d0910a153b",
-  "kind": "layoff",
-  "loc": "Ellensburg",
-  "n": 109,
-  "posted": "2026-08-21",
-  "seen": "2026-08-21T12:00:00Z"
- },
- {
-  "co": "Borton & Sons, Inc.",
-  "eff": "2026-11-08",
-  "id": "4e8a2f5509",
-  "kind": "layoff",
-  "loc": "Yakima, Zillah, Pasco, Burbank, Prescott, Soap Lake, Othello, Mesa",
-  "n": 928,
-  "posted": "2026-08-21",
-  "seen": "2026-08-21T12:00:00Z"
  }
 ]
