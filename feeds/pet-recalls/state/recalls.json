@@ -1,5 +1,42 @@
 [
  {
+  "brand": "Crystalyx",
+  "co": "Ridley Block Operations",
+  "date": "2026-11-20",
+  "det": true,
+  "hz": "nutrient",
+  "id": "2887a24c49",
+  "ill": "To date, Ridley Block Operations has received reports of 22 deaths.",
+  "img": [
+   "https://www.fda.gov/files/styles/recall_image_small/public/image_1_268.png?itok=iIqAdHND"
+  ],
+  "kind": "recall",
+  "lots": {
+   "h": [
+    "Product Name",
+    "Batch/Lot#",
+    "Item No./Product No.",
+    "Package Info."
+   ],
+   "r": [
+    [
+     "Crystalyx HE-20%",
+     "RBO00112695",
+     "3915",
+     "200# Block"
+    ]
+   ]
+  },
+  "product": "Crystalyx HE-20%",
+  "seen": "2026-11-21T07:17:16Z",
+  "sp": [],
+  "sum": "Mankato, Minn. - Ridley Block Operations is voluntarily recalling one batch of Crystalyx HE-20%. The product has levels of non-protein nitrogen (NPN) from urea that are high enough to cause adverse health effects in cattle, including death.",
+  "title": "Ridley Block Operations Recalls a Batch of Crystalyx®HE-20% for Beef Cattle and Bison Due to Excess Levels of Non-Protein Nitrogen (NPN)",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ridley-block-operations-recalls-batch-crystalyxrhe-20-beef-cattle-and-bison-due-excess-levels-non",
+  "why": "Levels of non-protein nitrogen (NPN) from urea that are high enough to cause adverse health effects in cattle, including death.",
+  "x": "other-animal"
+ },
+ {
   "brand": "Laub’s Feeding & Cubing",
   "co": "Laub’s Feeding & Cubing",
   "date": "2026-11-10",
