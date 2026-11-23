@@ -4860,27 +4860,5 @@
   "n": 72,
   "posted": "2026-08-26",
   "seen": "2026-08-26T12:00:00Z"
- },
- {
-  "co": "BFG Supply Co., LLC",
-  "eff": "2026-10-25",
-  "id": "b9f4e4b680",
-  "ind": "Wholesale Trade",
-  "kind": "layoff",
-  "loc": "San Bernardino",
-  "n": 37,
-  "posted": "2026-08-24",
-  "seen": "2026-08-24T12:00:00Z"
- },
- {
-  "co": "BFG Supply Co., LLC",
-  "eff": "2026-10-25",
-  "id": "ddb040da95",
-  "ind": "Wholesale Trade",
-  "kind": "layoff",
-  "loc": "West Sacramento",
-  "n": 2,
-  "posted": "2026-08-24",
-  "seen": "2026-08-24T12:00:00Z"
  }
 ]
