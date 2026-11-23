@@ -2077,28 +2077,5 @@
   "title": "Carolina Prime Pet, Inc. Recalls “Hollywood Feed Carolina Made Chicken Chips” Because of Possible Salmonella Health Risk",
   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/carolina-prime-pet-inc-recalls-hollywood-feed-carolina-made-chicken-chips-because-possible",
   "why": "Potentially contaminated with Salmonella"
- },
- {
-  "brand": "Gaines Family Farmstead",
-  "co": "Gaines Pet Treats LLC",
-  "date": "2024-11-22",
-  "det": true,
-  "hz": "bacteria",
-  "id": "e76a22ab50",
-  "ill": "This is the only lot number identified as potentially contaminated, no illnesses have been reported to date in connection with this problem and Gaines has made every effort possible to recover the potentially contaminated products.",
-  "img": [
-   "https://www.fda.gov/files/styles/recall_image_small/public/chicken_chips_front_pdf-1.jpg?itok=MwcrcabQ",
-   "https://www.fda.gov/files/styles/recall_image_small/public/chicken_chips_back_pdf-1.jpg?itok=LVxkgpKx"
-  ],
-  "kind": "recall",
-  "product": "Chicken Chips Dog Treats",
-  "seen": "2024-11-22T12:00:00Z",
-  "sp": [
-   "dog"
-  ],
-  "sum": "Gaines Pet Treats LLC, of Birmingham, AL is voluntarily recalling 204, 5-ounce bags of \"Gaines Family Farmstead Chicken Chips\" treats for dogs due to the possibility of Salmonella contamination.",
-  "title": "Gaines Pet Treats LLC Voluntarily Recalls “Gaines Family Farmstead Chicken Chips for Dogs” Due to Possible Salmonella Contamination",
-  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gaines-pet-treats-llc-voluntarily-recalls-gaines-family-farmstead-chicken-chips-dogs-due-possible",
-  "why": "Potential Salmonella Contamination"
  }
 ]
