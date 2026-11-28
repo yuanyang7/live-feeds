@@ -1,5 +1,49 @@
 [
  {
+  "brand": "Laub’s Feeding & Cubing",
+  "co": "Laub’s Feeding & Cubing",
+  "date": "2026-11-27",
+  "det": true,
+  "hz": "bacteria",
+  "id": "62799df016",
+  "ill": "The original recall was initiated after the Utah Department of Agriculture and Food (UDAF) received initial reports of several horses on one farm becoming sick, three of which had died.",
+  "kind": "recall",
+  "product": "Grade A Mini Hay Cubes",
+  "seen": "2026-11-28T07:17:06Z",
+  "sp": [
+   "cat"
+  ],
+  "sum": "Laub’s Feeding and Cubing, Inc. of Beryl, Utah, is expanding its recall, originally announced on November 10, 2026. To include additional Mini A grade cubes and Mini 3-way mix Hay Cubes, because the products have the potential to be contaminated with Clostridium botulinum, a bacterium that can cause",
+  "tel": "1-435-439-5531",
+  "title": "LAUB’S FEEDING & CUBING, INC. EXPANDS RECALL OF A Grade MINI HAY CUBES AND MINI 3-WAY MIX HAY CUBES BECAUSE OF POTENTIAL CLOSTRIDIUM BOTULINUM CONTAMINATION",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/laubs-feeding-cubing-inc-expands-recall-grade-mini-hay-cubes-and-mini-3-way-mix-hay-cubes-because",
+  "why": "Potential to be contaminated with Clostridium Botulinum"
+ },
+ {
+  "brand": "OC Raw",
+  "co": "OCPP, LLC",
+  "date": "2026-11-27",
+  "det": true,
+  "hz": "bacteria",
+  "id": "1e2f2f0f6e",
+  "ill": "No illnesses have been reported to date in connection with this problem.",
+  "img": [
+   "https://www.fda.gov/files/styles/recall_image_small/public/res_100470_oc_raw_-_back.png?itok=04kXW3u3",
+   "https://www.fda.gov/files/styles/recall_image_small/public/res_100470_oc_raw_-_front.png?itok=MrP9oYan"
+  ],
+  "kind": "recall",
+  "product": "Freeze Dried Chicken Hearts",
+  "seen": "2026-11-28T07:17:06Z",
+  "sp": [
+   "pet"
+  ],
+  "sum": "OCPP, LLC of Corona, California is removing from the market 144 lbs. of Freeze Dried Chicken Hearts because it has the potential to be contaminated with Salmonella. Salmonella can affect animals eating the products and there is risk to humans from handling contaminated pet products",
+  "tel": "1-844-215-3647",
+  "title": "OCPP, LLC. voluntarily removes OC Raw Freeze Dried Chicken Hearts from the market because of potential health risk.",
+  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ocpp-llc-voluntarily-removes-oc-raw-freeze-dried-chicken-hearts-market-because-potential-health-risk",
+  "why": "Potential to be contaminated with Salmonella"
+ },
+ {
   "brand": "Crystalyx",
   "co": "Ridley Block Operations",
   "date": "2026-11-20",
